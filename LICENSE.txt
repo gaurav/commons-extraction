@@ -1,0 +1,6 @@
+All Wikimedia Commons textual dumps are licensed under the CC-BY-SA 3.0 license: http://creativecommons.org/licenses/by-sa/3.0/
+    - For more details, see https://commons.wikimedia.org/wiki/Commons:Welcome
+
+Facts extracted from these dumps are likely in the public domain, but any facts that are not may be reused under the same license as the Commons dumps.
+
+All source code in this repository is licensed under [http://www.gnu.org/licenses/gpl-2.0.html the GNU Public License 2.0].
