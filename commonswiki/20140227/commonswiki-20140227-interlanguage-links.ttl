@@ -1,4 +1,4 @@
-# started 2014-05-11T00:20:46Z
+# started 2014-05-19T22:13:34Z
 <http://commons.dbpedia.org/resource/Template:ParmPart> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://ar.dbpedia.org/resource/قالب:ParmPart> .
 <http://commons.dbpedia.org/resource/Template:ParmPart> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://arz.dbpedia.org/resource/قالب:ParmPart> .
 <http://commons.dbpedia.org/resource/Template:ParmPart> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://as.dbpedia.org/resource/সাঁচ:ParmPart> .
@@ -63,4 +63,4 @@
 <http://commons.dbpedia.org/resource/Template:Cc-by-2.5> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://vi.dbpedia.org/resource/Bản_mẫu:Cc-by-2.5> .
 <http://commons.dbpedia.org/resource/Template:ParmAnd3> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://nl.dbpedia.org/resource/Sjabloon:ParmAnd3> .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown> <http://dbpedia.org/ontology/wikiPageInterLanguageLink> <http://hu.dbpedia.org/resource/Sablon:Közkincs-ismeretlen> .
-# completed 2014-05-11T00:20:50Z
+# completed 2014-05-19T22:13:37Z
