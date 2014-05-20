@@ -1,10 +1,16 @@
-# started 2014-05-11T00:20:46Z
-<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/2000/01/rdf-schema#label> "other versions"@en .
-<http://commons.dbpedia.org/property/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/description> <http://www.w3.org/2000/01/rdf-schema#label> "Description"@en .
+# started 2014-05-20T06:26:26Z
+<http://commons.dbpedia.org/property/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://commons.dbpedia.org/property/author> <http://www.w3.org/2000/01/rdf-schema#label> "Author"@en .
+<http://commons.dbpedia.org/property/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://commons.dbpedia.org/property/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"@en .
 <http://commons.dbpedia.org/property/permission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/permission> <http://www.w3.org/2000/01/rdf-schema#label> "Permission"@en .
+<http://commons.dbpedia.org/property/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://commons.dbpedia.org/property/description> <http://www.w3.org/2000/01/rdf-schema#label> "Description"@en .
+<http://commons.dbpedia.org/property/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://commons.dbpedia.org/property/source> <http://www.w3.org/2000/01/rdf-schema#label> "Source"@en .
+<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/2000/01/rdf-schema#label> "other versions"@en .
 <http://commons.dbpedia.org/property/url> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/url> <http://www.w3.org/2000/01/rdf-schema#label> "url"@en .
 <http://commons.dbpedia.org/property/type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
@@ -17,18 +23,6 @@
 <http://commons.dbpedia.org/property/dates> <http://www.w3.org/2000/01/rdf-schema#label> "Dates"@en .
 <http://commons.dbpedia.org/property/subjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/subjects> <http://www.w3.org/2000/01/rdf-schema#label> "Subjects"@en .
-<http://commons.dbpedia.org/property/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/source> <http://www.w3.org/2000/01/rdf-schema#label> "Source"@en .
-<http://commons.dbpedia.org/property/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"@en .
-<http://commons.dbpedia.org/property/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"@en .
-<http://commons.dbpedia.org/property/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/description> <http://www.w3.org/2000/01/rdf-schema#label> "Description"@en .
-<http://commons.dbpedia.org/property/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/author> <http://www.w3.org/2000/01/rdf-schema#label> "Author"@en .
-<http://commons.dbpedia.org/property/permission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/permission> <http://www.w3.org/2000/01/rdf-schema#label> "Permission"@en .
 <http://commons.dbpedia.org/property/year> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/year> <http://www.w3.org/2000/01/rdf-schema#label> "year"@en .
 <http://commons.dbpedia.org/property/month> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
@@ -63,4 +57,4 @@
 <http://commons.dbpedia.org/property/dimy> <http://www.w3.org/2000/01/rdf-schema#label> "dimy"@en .
 <http://commons.dbpedia.org/property/style> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/style> <http://www.w3.org/2000/01/rdf-schema#label> "style"@en .
-# completed 2014-05-11T00:20:50Z
+# completed 2014-05-20T06:26:32Z
