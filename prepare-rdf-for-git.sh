@@ -5,8 +5,9 @@
 # between them easier.
 
 for dir in */*; do 
-    for filename in commonswiki/20140227/*{.nt,.nq,.ttl,.tql}; do 
-        cat $filename | grep -v "^#" | sort -u > $filename
+    for filename in $dir/*{.nt,.nq,.ttl,.tql}; do 
+        cat $filename | grep -v "^#" | sort -u > $filename.tmp
+        mv -f $filename.tmp $filename
         echo $filename processed.
     done;
 done
