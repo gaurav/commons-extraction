@@ -5,7 +5,7 @@
 # between them easier.
 
 for dir in */*; do 
-    for filename in $dir/*.ttl; do 
+    for filename in $dir/*.nt; do 
         # echo Searching for $1.
         url="<http://commons.dbpedia.org/resource/$1>"
         found=`grep "$url" $filename`
