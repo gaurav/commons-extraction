@@ -1,9 +1,0 @@
-<http://commons.dbpedia.org/resource/Category:Objects_in_the_CU_Museum_of_Natural_History> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://commons.dbpedia.org/resource/Category:Objects_in_the_CU_Museum_of_Natural_History> <http://www.w3.org/2004/02/skos/core#broader> <http://commons.dbpedia.org/resource/Category:CU_Museum_of_Natural_History> .
-<http://commons.dbpedia.org/resource/Category:Objects_in_the_CU_Museum_of_Natural_History> <http://www.w3.org/2004/02/skos/core#prefLabel> "Objects in the CU Museum of Natural History"@en .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2004/02/skos/core#broader> <http://commons.dbpedia.org/resource/Category:CU_Museum_of_Natural_History> .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2004/02/skos/core#broader> <http://commons.dbpedia.org/resource/Category:Wikimedia_backstage_passes> .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2004/02/skos/core#broader> <http://commons.dbpedia.org/resource/Category:Wikimedia_meetups_in_2013> .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2004/02/skos/core#broader> <http://commons.dbpedia.org/resource/Category:Wikimedia_meetups_in_Boulder> .
-<http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wikimedians at the CUMNH 2013"@en .
