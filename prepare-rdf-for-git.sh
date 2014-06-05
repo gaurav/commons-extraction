@@ -4,7 +4,7 @@
 # triples into alphabetical order, making comparisons
 # between them easier.
 
-for dir in */*; do 
+for dir in commonswiki/*; do 
     for filename in $dir/*{.nt,.nq,.ttl,.tql}; do 
         cat $filename | grep -v "^#" | sort -u > $filename.tmp
         mv -f $filename.tmp $filename
