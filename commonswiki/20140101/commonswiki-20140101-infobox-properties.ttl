@@ -120,6 +120,26 @@
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://commons.dbpedia.org/property/viaf> "42113661"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://commons.dbpedia.org/property/wikidata> "Q1335286"@en .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://commons.dbpedia.org/property/wikisource> "s:en:Author:John Gerrard Keulemans"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/birthdate> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/birthloc> "Les Cayes"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/bnf> "cb118895048"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/deathdate> "1851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/gender> "male"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/gnd> "11865098"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/homecat> "John James Audubon"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/isni> "110405229"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/lccn> "n/79/18677"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/linkback> "Creator:John James Audubon"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/nationality> "US"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/nla> "35010139"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/occupation> "ornithologist / naturalist / hunter / painter"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/sortkey> "Audubon, John James"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/tsurl> "John_James_Audubon"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/ulan> "500016578"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/viaf> "14765625"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/wikidata> "Q182882"@en .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://commons.dbpedia.org/property/workloc> ", , ,"@en .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://commons.dbpedia.org/property/birthdate> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://commons.dbpedia.org/property/birthloc> "Mörz, Germany"@en .
@@ -177,6 +197,26 @@
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/wikisource> "s:en:Author:Louis Agassiz Fuertes"@en .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/workloc> <http://commons.dbpedia.org/resource/Ithaca,_New_York> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/workperiod> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/birthdate> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/birthloc> "Warren County, New York"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/birthyear> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/deathdate> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/deathloc> "NYC"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/gender> "male"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/gnd> "12017636"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/homecat> "Mathew Brady"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/isni> "122094376"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/lccn> "n/81/140569"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/linkback> "Creator:Mathew Brady"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/nationality> "US"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/nla> "35728355"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/occupation> "photographer"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/sortkey> "Brady, Mathew"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/ulan> "500126201"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/viaf> "22965552"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/wikidata> "Q187850"@en .
+<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/workloc> ","@en .
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://commons.dbpedia.org/property/birthdate> "1839"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://commons.dbpedia.org/property/birthloc> "Aix-en-Provence"@en .
@@ -9465,6 +9505,31 @@
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://commons.dbpedia.org/property/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://commons.dbpedia.org/property/source> "Volume 4 of \"De uitlandsche kapellen: voorkomende in de drie waereld-deelen Asia, Africa en America = Papillons exotiques des trois parties du monde, l'Asie, l'Afrique et l'Amérique\""@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://commons.dbpedia.org/property/source> "or on Open Library Organisation"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/arc> "528730"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/creator> "War Department. Office of the Chief Signal Officer."@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/date> "ca. 1860 - ca. 1865"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/localIdentifier> "111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/location> "Still Picture Records Section, Special Media Archives Services Division , National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001."@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/otherVersions> "File:John_James_Audubon_-_NARA_-_528730.tif"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/recordGroup> "Record Group 111: Records of the Office of the Chief Signal Officer, 1860 - 1985"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/recordGroupArc> "440"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/series> "Mathew Brady Photographs of Civil War-Era Personalities and Scenes, compiled 1921 - 1940, documenting the period 1860 - 1865"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/seriesArc> "524418"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/title> "John James Audubon"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://commons.dbpedia.org/property/variantControlNumbers> "NAIL Control Number: NWDNS-111-B-4608"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/arc> "528730"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/creator> "War Department. Office of the Chief Signal Officer."@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/date> "ca. 1860 - ca. 1865"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/localIdentifier> "111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/location> "Still Picture Records Section, Special Media Archives Services Division , National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001."@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/otherVersions> "File:John_James_Audubon_-_NARA_-_528730.tif"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/recordGroup> "Record Group 111: Records of the Office of the Chief Signal Officer, 1860 - 1985"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/recordGroupArc> "440"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/series> "Mathew Brady Photographs of Civil War-Era Personalities and Scenes, compiled 1921 - 1940, documenting the period 1860 - 1865"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/seriesArc> "524418"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/tiff> "yes"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/title> "John James Audubon"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://commons.dbpedia.org/property/variantControlNumbers> "NAIL Control Number: NWDNS-111-B-4608"@en .
 <http://commons.dbpedia.org/resource/File:Judge_Henderson_at_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:Judge_Henderson_at_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/date> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Judge_Henderson_at_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/source> "From the Glacier Photograph Collection. Boulder, Colorado USA: National Snow and Ice Data Center/World Data Center for Glaciology. Available online at: http://nsidc.org/cgi-bin/gpd_deliver_jpg.pl?arapaho_henderson_010"@en .
@@ -10341,6 +10406,17 @@
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://commons.dbpedia.org/property/description> ": I, 1-7. Pholidota ventricosa    \n:II, 8-12. Eulophia warburgiana"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://commons.dbpedia.org/property/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://commons.dbpedia.org/property/source> "Xenia orchidace vol. 3 tab. 266"@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/arc> "200330"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/creator> "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library."@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/location> "Harry S. Truman Library , 500 West U.S. Highway 24, Independence, MO, 64050-1798."@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/otherVersions> "File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif"@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/recordGroup> "Collection HST-AVC: Audiovisual Collection, 1957 - 2006"@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/recordGroupArc> "1207"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/series> "Photographs Relating to the Administration, Family, and Personal Life of Harry S. Truman, compiled 1957 - 2004, documenting the period 1849 - 2004"@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/seriesArc> "198606"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/tiff> "yes"@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/title> "Photograph of President Truman at the White House accepting ten paintings by John J. Audubon, a gift to the United States from Australian philanthropist E. J. Hallstrom."@en .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://commons.dbpedia.org/property/variantControlNumbers> "NAIL Control Number: NLT-AVC-PHT-3705"@en .
 <http://commons.dbpedia.org/resource/File:Phragmipedium_boissierianum_(as_Selenipedium_boissierianum)-Xenia_1-62_(1858).jpg> <http://commons.dbpedia.org/property/author> "Heinrich Gustav Reichenbach"@en .
 <http://commons.dbpedia.org/resource/File:Phragmipedium_boissierianum_(as_Selenipedium_boissierianum)-Xenia_1-62_(1858).jpg> <http://commons.dbpedia.org/property/date> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Phragmipedium_boissierianum_(as_Selenipedium_boissierianum)-Xenia_1-62_(1858).jpg> <http://commons.dbpedia.org/property/description> "Illustration of Phragmipedium boissierianum"@en .
@@ -11273,6 +11349,34 @@
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/longitude> "-105.2727"^^<http://www.w3.org/2001/XMLSchema#double> .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/name> "University of Colorado Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/website> <http://cumuseum.colorado.edu/> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/established> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/homecat> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/latitude> "38.892781"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/linkback> "Institution:National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/location> ", and many regional facilities and presidential libraries nationwide in the USA"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/longitude> "-77.022975"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/nativeName> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/website> <http://www.archives.gov> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/wikidata> "Q518155"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/established> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/homecat> "National Archives at College Park"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/latitude> "39.000308307522324"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/linkback> "Institution:National Archives at College Park"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/location> "College Park, Maryland"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/longitude> "-76.95966571569443"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/name> ", College Park"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/nativeName> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://commons.dbpedia.org/property/website> <http://www.archives.gov/> .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/en> "ARC identifier"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/en> "File unit"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/en> "Record group"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/en> "Series"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/fr> "Groupe d'enregistrement"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/fr> "Série"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/fr> "identifiant ARC"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/fr> "unité"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/pl> "Seria"@en .
+<http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://commons.dbpedia.org/property/pl> "Teczka"@en .
 <http://commons.dbpedia.org/resource/Template:According_to_EXIF_data> <http://commons.dbpedia.org/property/as> "EXIF তথ্য অনুসৰি"@en .
 <http://commons.dbpedia.org/resource/Template:According_to_EXIF_data> <http://commons.dbpedia.org/property/cs> "podle údajů v Exif"@en .
 <http://commons.dbpedia.org/resource/Template:According_to_EXIF_data> <http://commons.dbpedia.org/property/de> "gemäß Exif-Daten"@en .
@@ -12315,9 +12419,316 @@
 <http://commons.dbpedia.org/resource/Template:Location/doc> <http://commons.dbpedia.org/property/seealso> "*Other templates from the family:\n:*         – used to provide camera location using \n:*  – used to provide object location using \n:*   – used to provide object location on other globes, like Moon, Mars, etc. \n*Related templates\n:*\n:*\n:*, mark pictures without defined location\n:*\n*old documentation"@en .
 <http://commons.dbpedia.org/resource/Template:Location/doc> <http://commons.dbpedia.org/property/type> "infobox"@en .
 <http://commons.dbpedia.org/resource/Template:Location/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-cooperation/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-cooperation/en> <http://commons.dbpedia.org/property/text> "This file was provided to Wikimedia Commons by the National Archives and Records Administration as part of a cooperation project. The National Archives and Records Administration provides images depicting American and global history which are public domain or licensed under a free license."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/en> "ARC identifier"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/en> "File unit"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/en> "Record group"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/en> "Series"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/fr> "Groupe d'enregistrement"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/fr> "Série"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/fr> "identifiant ARC"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/fr> "unité"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/I18n> <http://commons.dbpedia.org/property/pl> "Seria"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/10d> "Date of creation"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/11d> "The record group, series, and file group information can all be found in the \"Hierarchy\" tab. The \"record group\" is the collection-level division of records, which typically includes the records of an entire agency."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/12d> "Each record group should have its own ARC ID which will link to the record group's catalog record."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/13d> "The record group, series, and file group information can all be found in the \"Hierarchy\" tab. The \"series\" is a smaller subset of the record group arranged according to some unifying characteristic like a common author or event."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/14d> "Each series should have its own ARC ID which will link to the record group's catalog record."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/15d> "The record group, series, and file group information can all be found in the \"Hierarchy\" tab. The \"file unit\" is another yet-smaller optional subgrouping of the series. Only some items belong to file units, while most will belong directly to a series."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/15stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/16d> "Each file unit, if one exists, should have its own ARC ID which will link to the record group's catalog record."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/16stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/17d> "Generally, most items will have at least one variant control number listed, the obsolete \"NAIL Control Number.\" There may also be multiple NAILs. These can be included for completeness here. There may be other special control numbers which should also be included. Use manual line breaks  to separate control numbers."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/18d> "Use \"yes\" to indicate that the file uploaded is a high-resolution TIFF master file of the original National Archives scan."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/18stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/19d> "Use \"no\" if there is no text to transcribe."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/19stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/1d> "This is the original title given in the NARA catalog record."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/20d> "TIFF files are intended to be converted to JPEG for graphical documents and DjVu for textual documents. As well, TIFF files for multi-page documents will be uploaded as separate files. Use \"Other versions\" to display other pages for the same document as well as derivative files using  and labeling the pages and file formats with captions, as was done here."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/20stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/21d> "If the file is a derivative and not the original file, set this parameter to yes or similar in order to avoid the message about not changing the file."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/21stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/2d> "If an item has a \"Scope and content\" tab in its catalog record, include it here. These are notes written by the archivists."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/2stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/3d> "If an item has a \"General note:\" field in its catalog record, include it here. These are notes written by the archivists."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/3stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/4d> "Other notes by and description by Wikimedians can go here."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/4stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/5d> "This is the standard, unique ID which points to the item's specific catalog record in ARC . It is used to generate the URL for the record. This is absolutely required unless  the item is not cataloged in ARC, for example if it has been scanned independently by an on-site researcher."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/6d> "This is an ID which does not have a standard form like ARC, but is used by the department which is responsible for the document. It is important if given, but only some documents have a local identifier."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/6stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/72d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/72stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/73d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/73stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/74d> "Field inherited from 's template. Use to overwrite the default value"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/74def> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/74stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/75d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/75stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/76d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/76stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/77d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/77stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/78d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/78stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/79d> "Field inherited from 's template."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/79stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/7d> "This is the creator of the record, which is usually not the same as the author. Typically, this is the agency whose records contain the document uploaded."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/8d> "This is the writer, artist, photographer, videographer, etc. who actually made the document. These are often not part of the catalog records, or might only be noted as an \"index term,\" and so must be added manually."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/8stat> "optional"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/9d> "Still Picture Records Section, Special Media Archives Services Division , National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/desc> "Template taking fields used by the National Archives' catalog records and displaying them using  fields."@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/i18nDesc> "Relied on  for localization"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/i18nMethod> "-"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/lines> "multi"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/name> "NARA-image-full"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/namespace> "file"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/placement> "top"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/type> "infobox"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/name> "Place"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/name> "wm-license-information-source"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/value> "Creator's name"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/value> "Geographical information"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/value> "Other pages of multi-page documents"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image-full> <http://commons.dbpedia.org/property/value> "}"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image/layout> <http://commons.dbpedia.org/property/args> "id=}"@en .
+<http://commons.dbpedia.org/resource/Template:NARA-image/layout> <http://commons.dbpedia.org/property/template> "NARA-image"@en .
 <http://commons.dbpedia.org/resource/Template:NAUMANN> <http://commons.dbpedia.org/property/pagehash> "page/183/mode/1up"@en .
 <http://commons.dbpedia.org/resource/Template:NAUMANN> <http://commons.dbpedia.org/property/plate> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:NAUMANN> <http://commons.dbpedia.org/property/volume> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/an> "o Biello"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/bg> "Младши"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/bg> "Псевдоним"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/bg> "Стари"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/br> "yaouank"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/bs> "Pseudonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Cognom i nom:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Cognom"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Nom artístic"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Nom complet"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Nom de naixement"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Nom formal"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Nom"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "Pseudònim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "el Jove"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "el Vell"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ca> "segon nom"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/cs> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/cs> "mladší"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/cs> "starší"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/cv> "Хушма ят"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/cy> "yr Ieuaf"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/da> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/da> "den yngre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/da> "den Ældre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Geburtsname"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Künstlername"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Nachname"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Name/Vorname"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Vorname"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "Zweiter Vorname"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "der Jüngere"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "der Ältere"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "offizieller Name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} oder Nachahmer"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} oder Werkstatt"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} und Werkstatt"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Artist name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Birth name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Courtesy name:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Given name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Last name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Legal name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Pseudonym:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Surname and name:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "baptismal name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "middle name"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "the Elder"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "the Younger"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/eo> "Pseŭdonimo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/eo> "la malpliaĝa"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/es> "Alias"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/es> "Nombre de nacimiento"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/es> "Nombre legal"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/es> "el Joven"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/es> "el Viejo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/et> "Pseudonüüm"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "بزرگ"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "تخلص"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام اصلی"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام خانوادگی و نام کوچک:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام خانوادگی"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام قانونی"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام مستعار"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "نام کوچک"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fa> "کوچک"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fi> "Salanimi"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fi> "nuorempi"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fi> "vanhempi"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Nom de naissance"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Nom d’artiste"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Nom et prénom :"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Nom légal"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Prénom social :"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Pseudonyme :"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "Pseudonyme"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "le Jeune"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "l’Ancien"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fr> "nom de baptème"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/fy> "de Jongere"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/gl> "Pseudónimo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/gl> "o Novo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/gl> "o Vello"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/he> "שם עט"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hr> "Pseudonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hr> "mlađi"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hr> "stariji"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Család és utónév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Hivatalos név"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Keresztnév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Művésznév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Születési név"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Vezetéknév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "id."@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "ifjabb"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "keresztelési név"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "második keresztnév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/hu> "Álnév"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/id> "Nama samaran"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/io> "Pseudonimo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/is> "Dulnefni"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/is> "yngri"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/it> "Pseudonimo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/it> "il Giovane"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/it> "il Vecchio"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/it> "nome legale"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ja> "偽名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ka> "ფსევდონიმი"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ko> "가명"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/la> "Iunior"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/lb> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/lt> "Slapyvardis"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/lv> "Jaunākais"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/lv> "Vecākais"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Заведено име"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Име на уметникот"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Куртоазно име:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Лично име"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Помладиот"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Постариот"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Презиме и име:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Презиме"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Псевдоним"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Псевдоним:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "Родено име"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/mk> "средно име"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nap> "Elenco 'e contranomme"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nds> "Geboortsnaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nds> "Künstlernaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nds> "Naam na’n Utwies"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nds> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nds> "de Ole"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Achternaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Artiestennaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Geboren als"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Naam en voornaam:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Omgangsnaam:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Pseudoniem"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Pseudoniem:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Tweede voornaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Voornaam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "Wettige naam"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "de Jonge"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nl> "de Oude"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nn> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nn> "d.y."@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/nn> "den eldre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/no> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/no> "den eldre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/no> "den yngre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Drugie imię"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Imię artysty"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Imię chrzestne"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Imię"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Legalne imię"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Młodszy"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Nazwisko"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Pseudonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pl> "Starszy"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "Nome de batismo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "Nome legal"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "Pseudónimo"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "nome artístico"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "o Jovem"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/pt> "o Velho"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Nume de artist"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Nume de familie"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Nume la naștere"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Nume legal"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Nume mijlociu"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Prenume"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "Pseudonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "cel Bătrân"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ro> "cel Tânăr"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ru> "Имя при рождении"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ru> "Младший"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ru> "Псевдоним"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/ru> "Старший"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sh> "Mlađi"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sh> "Pseudonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sh> "Stariji"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/simple> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sk> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sk> "Starší"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Drugo ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Priimek in ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Priimek"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Psevdonim"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Rojstno ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Umetniško ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "Uradno ime"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "mlajši"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sl> "starejši"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sr> "Млађи"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sr> "Старији"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Artistnamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Borgerligt namn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Efternamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Födelsenamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Förnamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Kinesiska namn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Kinesiska stilnamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Mellannamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "Pseudonym"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "d.y."@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "den äldre"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/sv> "döpelsenamn"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/th> "นามแฝง"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/tl> "Alyas"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/tt> "Täxällüs"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/uk> "Молодший"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/uk> "Псевдонім"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/uk> "Старший"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/wa> "Fås no"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "化名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "号:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "姓名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "字"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "教名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "本名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "法定姓名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zh> "笔名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zhHans> "号:"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zhHans> "字"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zhHans> "本名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zhHans> "笔名"@en .
+<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/zhHant> "號"@en .
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/ca> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/cs> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/da> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -12343,6 +12754,18 @@
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/ru> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/sl> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:NationAndOccupation/default> <http://commons.dbpedia.org/property/zh> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/da> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/de> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/en> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/es> "Archivos Nacionales y Administración de Documentos de los Estados Unidos"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/fa> "دفتر ملی بایگانی و مدارک آمریکا"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/fr> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/id> "Arsip Nasional Amerika Serikat"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/ja> "アメリカ国立公文書記録管理局"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/ml> "ദേശീയ ആർക്കൈവ്സ് ആൻഡ് റെക്കോർഡ്സ് കാര്യനിർവഹണം (യു.എസ്.എ.)"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/nl> "National Archives and Records Administration"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/ru> "Национальное управление архивов и документации (США)"@en .
+<http://commons.dbpedia.org/resource/Template:National_Archives_and_Records_Administration> <http://commons.dbpedia.org/property/zh> "美国国家档案馆"@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/1d> "Nationality. Can be:\n*Two letter Country code according to ISO 3166-1 alpha-2. See  for a full list of codes.\n*Nationality name in English, like French or German.\n*Region name in English. See allowed options below."@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/1stat> "required"@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/2d> "Gender. Possible values:\n* m or male - default option\n* f or female\n* n or neutral - Neuter (or neutral) gender used in some languages like Polish\n* s - special case used in case of dual nationalities for ending of first nationality. Used in German, French, Polish, etc. \nLanguages not needing n or s options should default to m."@en .
@@ -12382,6 +12805,7 @@
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/pl> "rok nieznany"@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/ru> "Год неизвестен"@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/sl> "neznano leto"@en .
+<http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/sv> "Okänt år"@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/vi> "không rõ năm"@en .
 <http://commons.dbpedia.org/resource/Template:Own/doc> <http://commons.dbpedia.org/property/i18nMediawikiMsg> "Wm-license-own-work"@en .
 <http://commons.dbpedia.org/resource/Template:Own/doc> <http://commons.dbpedia.org/property/i18nMethod> "mediawiki-msg"@en .
@@ -12544,6 +12968,9 @@
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/i18n/en> <http://commons.dbpedia.org/property/text> "There is an ongoing discussion about that matter. Feel invited to comment if you are experienced in either way, your time permits and if you like to share your opinion or to make a suggestion."@en .
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/i18n/en> <http://commons.dbpedia.org/property/title> "TemplateData"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/toggler> <http://commons.dbpedia.org/property/iconprimary> "ui-icon-help"@en .
+<http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/en> "Transcribe this document!"@en .
+<http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/fr> "Transcrire ce document"@en .
+<http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/pl> "Transkrybuj ten dokument"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/%23default> "nieznany"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/ar> "غير معروف"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/author> "nieznany"@en .
