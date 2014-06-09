@@ -1,3 +1,4 @@
+<http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n132_w1150_(2).jpg> <http://dbpedia.org/ontology/wikiPageRedirects> <http://commons.dbpedia.org/resource/File:Flora_dispensing_Her_Favours_on_the_Earth.jpg> .
 <http://commons.dbpedia.org/resource/Template:ARC/labels> <http://dbpedia.org/ontology/wikiPageRedirects> <http://commons.dbpedia.org/resource/Template:ARC-full/i18n> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa> <http://dbpedia.org/ontology/wikiPageRedirects> <http://commons.dbpedia.org/resource/Template:Cc-by-sa-1.0> .
 <http://commons.dbpedia.org/resource/Template:DOI> <http://dbpedia.org/ontology/wikiPageRedirects> <http://commons.dbpedia.org/resource/Template:Doi> .

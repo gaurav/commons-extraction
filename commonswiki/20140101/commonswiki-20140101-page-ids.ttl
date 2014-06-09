@@ -917,6 +917,7 @@
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n130_w1150_(4).jpg> <http://dbpedia.org/ontology/wikiPageID> "20553277"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n132_w1150.jpg> <http://dbpedia.org/ontology/wikiPageID> "20551368"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n132_w1150_(1).jpg> <http://dbpedia.org/ontology/wikiPageID> "20551917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n132_w1150_(2).jpg> <http://dbpedia.org/ontology/wikiPageID> "20711360"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n134_w1150.jpg> <http://dbpedia.org/ontology/wikiPageID> "20551365"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n134_w1150_(1).jpg> <http://dbpedia.org/ontology/wikiPageID> "20551916"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n134_w1150_(2).jpg> <http://dbpedia.org/ontology/wikiPageID> "20552636"^^<http://www.w3.org/2001/XMLSchema#integer> .
