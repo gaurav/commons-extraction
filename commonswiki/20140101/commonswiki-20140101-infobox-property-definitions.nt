@@ -505,7 +505,7 @@
 <http://commons.dbpedia.org/property/occupation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/occupation> <http://www.w3.org/2000/01/rdf-schema#label> "Occupation"@en .
 <http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/2000/01/rdf-schema#label> "Other versions"@en .
+<http://commons.dbpedia.org/property/otherVersions> <http://www.w3.org/2000/01/rdf-schema#label> "other versions"@en .
 <http://commons.dbpedia.org/property/pagehash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://commons.dbpedia.org/property/pagehash> <http://www.w3.org/2000/01/rdf-schema#label> "pagehash"@en .
 <http://commons.dbpedia.org/property/permission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
