@@ -11944,6 +11944,7 @@
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/ca> "segell"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/ca> "sense inscripcions"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/ca> "tampó"@en .
+<http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/cs> "monogram a datum"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/cs> "vodoznak"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/de> "Alter des Modells"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/de> "Emblem"@en .
@@ -12534,9 +12535,6 @@
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "der Jüngere"@en .
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "der Ältere"@en .
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "offizieller Name"@en .
-<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} oder Nachahmer"@en .
-<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} oder Werkstatt"@en .
-<http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/de> "} und Werkstatt"@en .
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Artist name"@en .
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Birth name"@en .
 <http://commons.dbpedia.org/resource/Template:Name> <http://commons.dbpedia.org/property/en> "Courtesy name:"@en .
