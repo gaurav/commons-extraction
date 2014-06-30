@@ -4,17 +4,16 @@
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/individualisedGnd> "117499889"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/isniId> "000000008076502X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/lccnId> "n/79/117154"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/nlaId> "35826083"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/ulanId> "500017599"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/viafId> "18001598"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/birthDate> "1812-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/bnfId> "cb11911831s"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/deathDate> "1888-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/identifiedBy> "Edward_Lear"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/individualisedGnd> "118779095"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/isniId> "0000000121006493"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/lccnId> "n/79/84245"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/nlaId> "35296076"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/selibrId> "242463"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/ulanId> "500016261"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/viafId> "36920855"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -23,26 +22,25 @@
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/birthDate> "1727-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/bnfId> "cb149544967"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/deathDate> "1815-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/identifiedBy> "Francesco_Bartolozzi"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/individualisedGnd> "118849549"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/isniId> "0000000121196776"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/lccnId> "n/81/143854"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/nlaId> "35214656"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/selibrId> "267661"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/ulanId> "500032318"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/viafId> "7656202"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/birthDate> "1823-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/deathDate> "1889-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/identifiedBy> "Heinrich_Gustav_Reichenbach"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/individualisedGnd> "116398582"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/isniId> "0000000083961069"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/lccnId> "n/79/125882"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/nlaId> "35749194"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/viafId> "77066171"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/alias> "Henrik Gronvold"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/isniId> "0000000082831721"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/lccnId> "nr/2004/24238"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/nlaId> "36570863"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/selibrId> "346029"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/ulanId> "500023963"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/viafId> "94927634"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -56,28 +54,28 @@
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/birthDate> "1842-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/bnfId> "cb14971107n"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/deathDate> "1912-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/identifiedBy> "John_Gerrard_Keulemans"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/individualisedGnd> "132547716"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/isniId> "000000006313981X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/lccnId> "no/98/83374"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/nlaId> "35268760"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://dbpedia.org/ontology/viafId> "42113661"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Gerrard_Keulemans> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/birthDate> "1785-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/bnfId> "cb118895048"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/deathDate> "1851-01-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/identifiedBy> "John_James_Audubon"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/individualisedGnd> "11865098X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/isniId> "0000000110405229"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/lccnId> "n/79/18677"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/nlaId> "35010139"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/ulanId> "500016578"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://dbpedia.org/ontology/viafId> "14765625"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_James_Audubon> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/birthDate> "1820-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/deathDate> "1899-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/identifiedBy> "Joseph_Wolf"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/individualisedGnd> "119113325"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/isniId> "0000000083840531"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/lccnId> "n/80/6277"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/nlaId> "36115701"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/ulanId> "500006240"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://dbpedia.org/ontology/viafId> "54950825"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Joseph_Wolf> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -86,7 +84,6 @@
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/individualisedGnd> "101945442"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/isniId> "0000000080989939"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/lccnId> "n/87/814620"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/nlaId> "35186996"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/viafId> "19813148"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/birthDate> "1874-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -94,10 +91,10 @@
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/bnfId> "cb12552729g"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/deathDate> "1927-08-22"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/deathPlace> <http://commons.dbpedia.org/resource/Ithaca,_New_York> .
+<http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/identifiedBy> "Louis_Agassiz_Fuertes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/individualisedGnd> "120741121"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/isniId> "000000008386148X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/lccnId> "n/50/47914"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/nlaId> "35106626"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/ulanId> "500028454"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/viafId> "59198877"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -105,26 +102,26 @@
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/individualisedGnd> "12017636X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/isniId> "0000000122094376"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/lccnId> "n/81/140569"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/nlaId> "35728355"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/ulanId> "500126201"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/viafId> "22965552"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/birthDate> "1839-01-19"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/bnfId> "cb118958019"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/deathDate> "1906-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/identifiedBy> "Paul_C\u00E9zanne"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/individualisedGnd> "118519964"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/isniId> "0000000121287379"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/lccnId> "n/79/55446"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/nlaId> "35026986"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/ulanId> "500004793"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://dbpedia.org/ontology/viafId> "39374836"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_C\u00E9zanne> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/birthDate> "1849-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/bnfId> "cb12552015v"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/deathDate> "1915-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/identifiedBy> "034804900"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/identifiedBy> "Richard_Lydekker"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/individualisedGnd> "117667838"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/lccnId> "n/83/825135"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/nlaId> "35812958"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/viafId> "46874978"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Viktor_Vasnetsov> <http://dbpedia.org/ontology/bnfId> "cb15086892n"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2830,10 +2827,10 @@
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_287.jpg> <http://purl.org/dc/terms/description> ": Plate CCLXXXVII"@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_287.jpg> <http://purl.org/dc/terms/description> ":In register spelled \"FLAVIARIA\"."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_287.jpg> <http://purl.org/dc/terms/description> ":The name  \"Zerbina\"  is used again by Stoll in the appendix of this work (Aanhangsel plate 40 fig. 3.) This seems to be the same sp. as depicted on plate 178 C as \"(Phalaena) Eurocilia\". In Lepindex and Funet \"Zerbina\" refers to plate 40 in the appendix, see The Global Lepidoptera Names Index, NHM and   Funet."@en .
-<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*A : \"(Phalaena)  Achatina\" ( = Dysgonia algira (Linnaeus, 1767)), see  Funet. Photo at Encyclopedia of Life."@en .
+<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*A : \"(Phalaena) Achatina\" ( = Dysgonia algira (Linnaeus, 1767)), see  Funet. Photo at Encyclopedia of Life."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*B, C: \"(Phalaena) Clelia\" ( = Gonodontis clelia (Cramer, [1780]), iconotype?), see Funet."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*D: \"(Phalaena) Cribraria\" ( = Coscinia cribraria (Linnaeus, 1758)), see Funet. Photos at Barcode of Life."@en .
-<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*E, F (\u2642), G (\u2640): \"(Phalaena) Eleonora\" ( = maybe Chiasmia eleonora  (Linnaeus, 1761)), see Butterflies and Moths of the World , NHM. Photo at Animals at Taiwan."@en .
+<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> "*E, F (\u2642), G (\u2640): \"(Phalaena) Eleonora\" ( = Chiasmia eleonora (Cramer, 1780), see Butterflies and Moths of the World , NHM. Photo at Animals at Taiwan."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> ": Plate CCLXXXVIII"@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> ":Also on plate 273 E."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://purl.org/dc/terms/description> ":In Funet as \"Godonela eleonora\"."@en .
@@ -7016,7 +7013,11 @@
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Category:Isognathus scyron"@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Plate CCCI"@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "528730"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/identifiedBy> "111-B-4608"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/title> "John James Audubon"@en .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "528730"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/identifiedBy> "111-B-4608"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/title> "John James Audubon"@en .
 <http://commons.dbpedia.org/resource/File:Junius_Henderson.jpg> <http://purl.org/dc/terms/created> "2011-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Junonia_cymodoce.JPG> <http://purl.org/dc/terms/description> "Category:Junonia cymodoce"@en .
@@ -7498,6 +7499,7 @@
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/description> ":II, 8-12. Eulophia warburgiana  (Unplaced Name)"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "200330"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://dbpedia.org/ontology/title> "Photograph of President Truman at the White House accepting ten paintings by John J. Audubon, a gift to the United States from Australian philanthropist E. J. Hallstrom."@en .
 <http://commons.dbpedia.org/resource/File:Phragmipedium_boissierianum_(as_Selenipedium_boissierianum)-Xenia_1-62_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of Phragmipedium boissierianum (as syn. Selenipedium boissierianum)"@en .
 <http://commons.dbpedia.org/resource/File:Phragmipedium_boissierianum_(as_Selenipedium_boissierianum)-Xenia_1-62_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
@@ -7965,8 +7967,8 @@
 <http://commons.dbpedia.org/resource/File:Xylophanes_neoptolemus.JPG> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://dbpedia.org/ontology/viafId> "136369899"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/bnfId> "cb12182396f"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/individualisedGnd> "00605336X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/lccnId> "n/84/176101"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/nlaId> "35718998"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/viafId> "132254586"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Template:Authority_control/doc> <http://dbpedia.org/ontology/bnfId> "cb13746617f"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Template:Authority_control/doc> <http://dbpedia.org/ontology/individualisedGnd> "119408643"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -2,6 +2,7 @@
 <http://commons.dbpedia.org/resource/Category:Junius_Henderson> <http://www.w3.org/2000/01/rdf-schema#label> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/Category:Objects_in_the_CU_Museum_of_Natural_History> <http://www.w3.org/2000/01/rdf-schema#label> "Objects in the CU Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/Category:Wikimedians_at_the_CUMNH_2013> <http://www.w3.org/2000/01/rdf-schema#label> "Wikimedians at the CUMNH 2013"@en .
+<http://commons.dbpedia.org/resource/Colorado> <http://www.w3.org/2000/01/rdf-schema#label> "Colorado"@en .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Giraud Elliot"@en .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Lear"@en .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://www.w3.org/2000/01/rdf-schema#label> "Francesco Bartolozzi"@en .
@@ -2193,6 +2194,7 @@
 <http://commons.dbpedia.org/resource/Template:Trim> <http://www.w3.org/2000/01/rdf-schema#label> "Trim"@en .
 <http://commons.dbpedia.org/resource/Template:URAA-date> <http://www.w3.org/2000/01/rdf-schema#label> "URAA-date"@en .
 <http://commons.dbpedia.org/resource/Template:URL> <http://www.w3.org/2000/01/rdf-schema#label> "URL"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://www.w3.org/2000/01/rdf-schema#label> "US states"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://www.w3.org/2000/01/rdf-schema#label> "Unknown"@en .
 <http://commons.dbpedia.org/resource/Template:Uploaded_from_Mobile/i18n> <http://www.w3.org/2000/01/rdf-schema#label> "Uploaded from Mobile/i18n"@en .
 <http://commons.dbpedia.org/resource/Template:Uploaded_from_Mobile> <http://www.w3.org/2000/01/rdf-schema#label> "Uploaded from Mobile"@en .

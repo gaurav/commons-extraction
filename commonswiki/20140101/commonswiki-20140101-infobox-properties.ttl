@@ -4336,10 +4336,10 @@
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_287.jpg> <http://commons.dbpedia.org/property/source> ":Volume 3 of \"De uitlandsche kapellen: voorkomende in de drie waereld-deelen Asia, Africa en America = Papillons exotiques des trois parties du monde, l'Asie, l'Afrique et l'Amérique\""@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/author> ":Pieter Cramer  and Caspar Stoll"@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/date> ":1782"@en .
-<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*A : \"  Achatina\" , see  Funet. Photo at Encyclopedia of Life.\n:Also on plate 273 E."@en .
+<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*A : \" Achatina\" , see  Funet. Photo at Encyclopedia of Life.\n:Also on plate 273 E."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*B, C: \" Clelia\" , see Funet."@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*D: \" Cribraria\" , see Funet. Photos at Barcode of Life."@en .
-<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*E, F , G : \" Eleonora\" , see Butterflies and Moths of the World , NHM. Photo at Animals at Taiwan.\n:In Funet as \"Godonela eleonora\"."@en .
+<http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> "*E, F , G : \" Eleonora\""@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/description> ": Plate CCLXXXVIII"@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_288.jpg> <http://commons.dbpedia.org/property/source> ":Volume 3 of \"De uitlandsche kapellen: voorkomende in de drie waereld-deelen Asia, Africa en America = Papillons exotiques des trois parties du monde, l'Asie, l'Afrique et l'Amérique\""@en .
 <http://commons.dbpedia.org/resource/File:CramerAndStoll-uitlandsche_kapellen_vol._4-_00_-_title_page_deel_IV.jpg> <http://commons.dbpedia.org/property/author> "Pieter Cramer   and Caspar Stoll"@en .
@@ -12969,6 +12969,26 @@
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/en> "Transcribe this document!"@en .
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/fr> "Transcrire ce document"@en .
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/pl> "Transkrybuj ten dokument"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/en> "District of Columbia:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/en> "Insular areas:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/en> "States of the United States:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/es> "Distrito de Columbia:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/es> "Estados de los Estados Unidos:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/es> "Áreas insulares:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/fr> "District de Columbia :"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/fr> "Zones insulaires :"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/fr> "États des États-Unis :"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/hu> "Az Amerikai Egyesült Államok tagállamai:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/hu> "District of Columbia:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/hu> "Szigetrégiók:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/it> "Distretto di Columbia :"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/it> "Isole :"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/mk> "Округ Колумбија:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/mk> "Островски подрачја:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/mk> "Сојузни држави на САД:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/pt> "Distrito de Columbia:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/pt> "Estados dos Estados Unidos:"@en .
+<http://commons.dbpedia.org/resource/Template:US_states> <http://commons.dbpedia.org/property/pt> "Áreas insulares:"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/%23default> "nieznany"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/ar> "غير معروف"@en .
 <http://commons.dbpedia.org/resource/Template:Unknown> <http://commons.dbpedia.org/property/author> "nieznany"@en .

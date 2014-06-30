@@ -1,0 +1,4 @@
+<http://commons.dbpedia.org/resource/Colorado> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://commons.wikimedia.org/wiki/Colorado> .
+<http://commons.wikimedia.org/wiki/Colorado> <http://purl.org/dc/elements/1.1/language> "commons"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.wikimedia.org/wiki/Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://commons.wikimedia.org/wiki/Colorado> <http://xmlns.com/foaf/0.1/primaryTopic> <http://commons.dbpedia.org/resource/Colorado> .
