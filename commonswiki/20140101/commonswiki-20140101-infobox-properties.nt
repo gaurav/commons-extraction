@@ -197,6 +197,25 @@
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/wikisource> "s:en:Author:Louis Agassiz Fuertes"@en .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/workloc> <http://commons.dbpedia.org/resource/Ithaca,_New_York> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://commons.dbpedia.org/property/workperiod> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/birthloc> "Bonn"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/birthyear> "1770"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/bnf> "cb138912954"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/deathdate> "1827-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/gender> "male"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/gnd> "118508288"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/homecat> "Ludwig van Beethoven"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/isni> "121268987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/lccn> "n/79/107741"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/nationality> "DE"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/nla> "35016586"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/occupation> "Composer / pianist"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/sortkey> "Beethoven, Ludwig van"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/ulan> "500339269"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/viaf> "32182557"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/wikidata> "Q255"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/workloc> "Bonn, Vienna"@en .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://commons.dbpedia.org/property/workperiod> "First Viennese School, Romanticism"@en .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/bare> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/birthdate> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://commons.dbpedia.org/property/birthloc> "Warren County, New York"@en .
@@ -302,6 +321,7 @@
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://commons.dbpedia.org/property/viaf> "3865142"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://commons.dbpedia.org/property/wikidata> "Q2093684"@en .
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://commons.dbpedia.org/property/workloc> "Southern California"@en .
+<http://commons.dbpedia.org/resource/File:1stphaseofbattlemarathon.gif> <http://commons.dbpedia.org/property/author> <http://commons.dbpedia.org/resource/User:Assyrio> .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://commons.dbpedia.org/property/date> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://commons.dbpedia.org/property/source> "CU Museum of Natural History and National Snow and Ice Data Center/World Data Center for Glaciology, University of Colorado, Boulder"@en .
@@ -366,6 +386,12 @@
 <http://commons.dbpedia.org/resource/File:Ada_keiliana_(as_Brassia_keiliana)_-_Xenia_vol_1_pl_45_(1858).jpg> <http://commons.dbpedia.org/property/date> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Ada_keiliana_(as_Brassia_keiliana)_-_Xenia_vol_1_pl_45_(1858).jpg> <http://commons.dbpedia.org/property/description> "Illustration of Ada keiliana"@en .
 <http://commons.dbpedia.org/resource/File:Ada_keiliana_(as_Brassia_keiliana)_-_Xenia_vol_1_pl_45_(1858).jpg> <http://commons.dbpedia.org/property/source> "\"Xenia orchidacea\" vol. 1  tab. 45"@en .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/author> "Ron, S.; Venegas, P. J.; Toral, E.; Read, V. M.; Ortiz, D.; Manzano, A."@en .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/date> "2013-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/day> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/month> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/source> "Ron, S.; Venegas, P. J.; Toral, E.; Read, V. M.; Ortiz, D.; Manzano, A. . \"Systematics of the Osteocephalus buckleyi species complex  from Ecuador and Peru\". ZooKeys 229: 1. doi:10.3897/zookeys.229.3580."@en .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://commons.dbpedia.org/property/year> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://commons.dbpedia.org/property/author> "Pieter Cramer  and Caspar Stoll"@en .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://commons.dbpedia.org/property/date> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://commons.dbpedia.org/property/description> "Category:Aellopos ceculus"@en .
@@ -467,6 +493,9 @@
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://commons.dbpedia.org/property/date> "19001890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://commons.dbpedia.org/property/description> "Illustration of Angraecum scottianum"@en .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://commons.dbpedia.org/property/source> "Xenia orchidace vol. 3 pt. 4 tab. 239"@en .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://commons.dbpedia.org/property/author> <http://commons.dbpedia.org/resource/User:Pristurus> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://commons.dbpedia.org/property/date> "2012-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://commons.dbpedia.org/property/description> "Id: http://www.forum.hymis.de/viewtopic.php?f=14&t=10453"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://commons.dbpedia.org/property/author> ":Pieter Cramer  and Caspar Stoll"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://commons.dbpedia.org/property/date> ":1782"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://commons.dbpedia.org/property/description> "*H: \" Larydas\" , see Funet. Photos at Barcode of Life.\nCategory:Anthene larydas"@en .
@@ -919,6 +948,9 @@
 <http://commons.dbpedia.org/resource/File:Camp_at_Island_Lake,_1905.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:Camp_at_Island_Lake,_1905.tif> <http://commons.dbpedia.org/property/date> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Camp_at_Island_Lake,_1905.tif> <http://commons.dbpedia.org/property/source> "From the Glacier Photograph Collection. Boulder, Colorado USA: National Snow and Ice Data Center/World Data Center for Glaciology. Available online at: http://nsidc.org/cgi-bin/gpd_deliver_jpg.pl?arapaho_henderson_011"@en .
+<http://commons.dbpedia.org/resource/File:Carpodacus_mexicanus_vocalizations_-_pone.0027052.s006.oga> <http://commons.dbpedia.org/property/author> "Francis C, Ortega C, Cruz A"@en .
+<http://commons.dbpedia.org/resource/File:Carpodacus_mexicanus_vocalizations_-_pone.0027052.s006.oga> <http://commons.dbpedia.org/property/date> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Carpodacus_mexicanus_vocalizations_-_pone.0027052.s006.oga> <http://commons.dbpedia.org/property/source> "Audio S6 from"@en .
 <http://commons.dbpedia.org/resource/File:Carystus_phorcus.JPG> <http://commons.dbpedia.org/property/author> "Pieter Cramer  and Caspar Stoll"@en .
 <http://commons.dbpedia.org/resource/File:Carystus_phorcus.JPG> <http://commons.dbpedia.org/property/date> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Carystus_phorcus.JPG> <http://commons.dbpedia.org/property/description> "Category:Carystus phorcus"@en .
@@ -1238,6 +1270,9 @@
 <http://commons.dbpedia.org/resource/File:Coelogyne_triplicatula_-_Xenia_2_pl_166.jpg> <http://commons.dbpedia.org/property/date> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Coelogyne_triplicatula_-_Xenia_2_pl_166.jpg> <http://commons.dbpedia.org/property/description> "Illustration of Coelogyne triplicatula"@en .
 <http://commons.dbpedia.org/resource/File:Coelogyne_triplicatula_-_Xenia_2_pl_166.jpg> <http://commons.dbpedia.org/property/source> "Xenia orchidace vol. 2 tab. 166"@en .
+<http://commons.dbpedia.org/resource/File:ColonelBogey.ogg> <http://commons.dbpedia.org/property/author> "Kenneth Alford"@en .
+<http://commons.dbpedia.org/resource/File:ColonelBogey.ogg> <http://commons.dbpedia.org/property/date> "2013-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:ColonelBogey.ogg> <http://commons.dbpedia.org/property/source> <http://archive.org/details/ColonelBogeyMarch_191> .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://commons.dbpedia.org/property/author> <http://www.flickr.com/people/61021753@N02> .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://commons.dbpedia.org/property/date> "2013-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://commons.dbpedia.org/property/description> "Contributions to the genetics of Drosophila melanogaster ....\nWashington,Carnegie Institution of Washington,1919..\nbiodiversitylibrary.org/page/805453"@en .
@@ -6107,8 +6142,8 @@
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_23.jpg> <http://commons.dbpedia.org/property/source> "Natural history of the insects of China : the figures drawn from specimens of the insects / by E. Donovan. A New Edition with additional observations &c. by J. O. Westwood ."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/author> "Edward Donovan"@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/date> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "# [Donovan text of 1798  , illustration caption and name in Westwood 1838 revised text]: Papilio Agenor"@en .
-<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "# [Donovan text of 1798  , illustration caption and name in Westwood 1838 revised text]: Papilio Coon,"@en .
+<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "# [Donovan text of 1798  , illustration caption and name in Westwood 1838 revised text]: Papilio agenor ."@en .
+<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "# [Donovan text of 1798  , illustration caption and name in Westwood 1838 revised text]: Papilio coon ,"@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "Pl. 24 of  \"Natural history of the insects of China\"."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://commons.dbpedia.org/property/source> "Natural history of the insects of China : the figures drawn from specimens of the insects / by E. Donovan. A New Edition with additional observations &c. by J. O. Westwood ."@en .
@@ -6839,6 +6874,8 @@
 <http://commons.dbpedia.org/resource/File:Five_guys_in_field_with_laundry.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:Five_guys_in_field_with_laundry.tif> <http://commons.dbpedia.org/property/date> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Five_guys_in_field_with_laundry.tif> <http://commons.dbpedia.org/property/source> "CU Museum of Natural History and National Snow and Ice Data Center/World Data Center for Glaciology, University of Colorado, Boulder"@en .
+<http://commons.dbpedia.org/resource/File:Flag_of_India.svg> <http://commons.dbpedia.org/property/author> <http://commons.dbpedia.org/resource/User:SKopp> .
+<http://commons.dbpedia.org/resource/File:Flag_of_India.svg> <http://commons.dbpedia.org/property/source> "4808.0"^^<http://dbpedia.org/datatype/second> .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://commons.dbpedia.org/property/author> "Heinrich Gustav Reichenbach"@en .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://commons.dbpedia.org/property/date> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://commons.dbpedia.org/property/description> ":   I. Dendrobium xantholeucum, \n:  II. Dendrobium convexum, \n: III  Dendrobium plicatile"@en .
@@ -9219,6 +9256,9 @@
 <http://commons.dbpedia.org/resource/File:Full_sweep_of_the_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:Full_sweep_of_the_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/date> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Full_sweep_of_the_Arapaho_Glacier.tif> <http://commons.dbpedia.org/property/source> "CU Museum of Natural History and National Snow and Ice Data Center/World Data Center for Glaciology, University of Colorado, Boulder"@en .
+<http://commons.dbpedia.org/resource/File:Furelise.mid> <http://commons.dbpedia.org/property/author> "Original uploader was Bemoeial at nl.wikipedia"@en .
+<http://commons.dbpedia.org/resource/File:Furelise.mid> <http://commons.dbpedia.org/property/permission> "PD-OUD."@en .
+<http://commons.dbpedia.org/resource/File:Furelise.mid> <http://commons.dbpedia.org/property/source> "Transferred from nl.wikipedia; transferred to Commons by User:Koektrommel using CommonsHelper."@en .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://commons.dbpedia.org/property/author> "Roman Kenk"@en .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://commons.dbpedia.org/property/date> "2012-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://commons.dbpedia.org/property/day> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -9477,6 +9517,10 @@
 <http://commons.dbpedia.org/resource/File:Illustration_of_Ramphastos_dicolorus.jpg> <http://commons.dbpedia.org/property/title> "Ramphastos dicolorus"@en .
 <http://commons.dbpedia.org/resource/File:Illustration_of_Ramphastos_dicolorus.jpg> <http://commons.dbpedia.org/property/type> "painting"@en .
 <http://commons.dbpedia.org/resource/File:Illustration_of_Ramphastos_dicolorus.jpg> <http://commons.dbpedia.org/property/url> <http://www.biodiversitylibrary.org/page/39770372> .
+<http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://commons.dbpedia.org/property/author> "International Whaling Commision"@en .
+<http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://commons.dbpedia.org/property/date> "--12-02"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://commons.dbpedia.org/property/otherVersions> <http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.pdf> .
+<http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://commons.dbpedia.org/property/source> <http://www.iwcoffice.org/_documents/commission/convention.pdf> .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://commons.dbpedia.org/property/author> "Pieter Cramer   and Caspar Stoll"@en .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://commons.dbpedia.org/property/date> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://commons.dbpedia.org/property/description> "Category:Isanthrene melas"@en .
@@ -9595,6 +9639,9 @@
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://commons.dbpedia.org/property/description> ": I, 1.  Kreodanthus loxoglottis \n: II, 4-6.Microchilus tridax"@en .
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://commons.dbpedia.org/property/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://commons.dbpedia.org/property/source> "Xenia orchidace vol. 2 tab. 178"@en .
+<http://commons.dbpedia.org/resource/File:Kumbaya_-_earliest_known_recording_(1926).flac> <http://commons.dbpedia.org/property/author> "Song author unknown. Sung by H Wylie. Recorded by Robert Winslow Gordon for the Library of Congress"@en .
+<http://commons.dbpedia.org/resource/File:Kumbaya_-_earliest_known_recording_(1926).flac> <http://commons.dbpedia.org/property/date> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:Kumbaya_-_earliest_known_recording_(1926).flac> <http://commons.dbpedia.org/property/source> "Library of Congress online archive; URL: http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.200197143/default.html Converted from MP3."@en .
 <http://commons.dbpedia.org/resource/File:Lake_at_foot_of_Arapaho_glacier,_1904.tif> <http://commons.dbpedia.org/property/author> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/File:Lake_at_foot_of_Arapaho_glacier,_1904.tif> <http://commons.dbpedia.org/property/date> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Lake_at_foot_of_Arapaho_glacier,_1904.tif> <http://commons.dbpedia.org/property/source> "From the Glacier Photograph Collection. Boulder, Colorado USA: National Snow and Ice Data Center/World Data Center for Glaciology."@en .
@@ -10299,6 +10346,9 @@
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male1.JPG> <http://commons.dbpedia.org/property/description> "*A, B , C, D : \" Aeneas\" , see Funet. Photo at Butterflies of America."@en .
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male1.JPG> <http://commons.dbpedia.org/property/description> ": Plate CCLXXIX"@en .
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male1.JPG> <http://commons.dbpedia.org/property/source> ":Volume 3 of \"De uitlandsche kapellen: voorkomende in de drie waereld-deelen Asia, Africa en America = Papillons exotiques des trois parties du monde, l'Asie, l'Afrique et l'Am\u00E9rique\""@en .
+<http://commons.dbpedia.org/resource/File:Passer_domesticus_&_Turdus_viscivorus,_bathing_in_a_bird_bath.ogv> <http://commons.dbpedia.org/property/author> <http://www.flickr.com/photos/paulys_stuff/> .
+<http://commons.dbpedia.org/resource/File:Passer_domesticus_&_Turdus_viscivorus,_bathing_in_a_bird_bath.ogv> <http://commons.dbpedia.org/property/date> "2011-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Passer_domesticus_&_Turdus_viscivorus,_bathing_in_a_bird_bath.ogv> <http://commons.dbpedia.org/property/source> "http://www.flickr.com/photos/paulys_stuff/5901618247/in/set-72157626818075757/ on Flickr, file from http://www.flickr.com/photos/paulys_stuff/5901618247/play/site/7d9a563894, converted with Firefogg"@en .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://commons.dbpedia.org/property/author> <http://www.flickr.com/people/61021753@N02> .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://commons.dbpedia.org/property/date> "2012-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://commons.dbpedia.org/property/description> "Systematik und faunistik der pelagischen copepoden des golfes von Neapel, und der angrenzenden meeres-abschnitte - Fauna und flora des golfes von Neapel  von Wilhelm Giesbrecht , Berlin, R. Friedl\u00E4nder & sohn, 1892\nbiodiversitylibrary.org/page/39312118\n* 1 - Corycaeus elongatus = Corycaeus crassiusculus\n* 2 - Sapphirina auronitens\n* 3 - Candace pectinata\n* 4 - Oncaea mediterranea\n* 5 - Centropages violaceus\n* 6 - Lubbockia squillimana\n* 7 - Scolecithrix bradyi\n* 8 - Oithona nana\n* 9 - Subeucalanus crassus\n* 10 - Oithona plumifera\n* 11 - Pontellina plumata\n* 12 - Corycaeus venustus\n* 13 - Candacia ethiopica\n* 14 - Labidocera wollastoni\n* 15 - Calocalanus pavo\n* 16 - Oncaea mediterranea"@en .
@@ -11341,6 +11391,8 @@
 <http://commons.dbpedia.org/resource/File:Zanobatus_schoenleinii.jpg> <http://commons.dbpedia.org/property/source> "Systematische Beschreibung der Plagiostomen /  von dr. J. M\u00FCller und dr. J. Henle.\nBerlin : Veit, 1841."@en .
 <http://commons.dbpedia.org/resource/File:Zanobatus_schoenleinii.jpg> <http://commons.dbpedia.org/property/type> "Illustration"@en .
 <http://commons.dbpedia.org/resource/File:Zanobatus_schoenleinii.jpg> <http://commons.dbpedia.org/property/url> <http://www.biodiversitylibrary.org/page/6353171> .
+<http://commons.dbpedia.org/resource/File:\u0938\u092E\u094D\u092A\u0924\u094D\u0938\u0941_\u092E\u0939\u0924\u093E\u0902.wav> <http://commons.dbpedia.org/property/author> <http://commons.dbpedia.org/resource/User:Shubha> .
+<http://commons.dbpedia.org/resource/File:\u0938\u092E\u094D\u092A\u0924\u094D\u0938\u0941_\u092E\u0939\u0924\u093E\u0902.wav> <http://commons.dbpedia.org/property/date> "2014-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/established> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/homecat> "CU Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://commons.dbpedia.org/property/latitude> "40.00687"^^<http://www.w3.org/2001/XMLSchema#double> .
@@ -11616,6 +11668,7 @@
 <http://commons.dbpedia.org/resource/Template:Biodiversity_Heritage_Library/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
 <http://commons.dbpedia.org/resource/Template:Biodiversity_Heritage_Library/layout> <http://commons.dbpedia.org/property/args> "url=}"@en .
 <http://commons.dbpedia.org/resource/Template:Biodiversity_Heritage_Library/layout> <http://commons.dbpedia.org/property/template> "Biodiversity_Heritage_Library"@en .
+<http://commons.dbpedia.org/resource/Template:Category_namespace_only> <http://commons.dbpedia.org/property/namespace> "Category"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-2.0> <http://commons.dbpedia.org/property/version> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-2.5> <http://commons.dbpedia.org/property/version> "2.5"^^<http://www.w3.org/2001/XMLSchema#double> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-3.0> <http://commons.dbpedia.org/property/version> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11741,8 +11794,76 @@
 <http://commons.dbpedia.org/resource/Template:Creator/documentation> <http://commons.dbpedia.org/property/setscats> <http://commons.dbpedia.org/resource/Category:Creator_template_maintenance> .
 <http://commons.dbpedia.org/resource/Template:Creator/documentation> <http://commons.dbpedia.org/property/usageNotes> "for parameters see:"@en .
 <http://commons.dbpedia.org/resource/Template:Creator/documentation> <http://commons.dbpedia.org/property/usergroup> "all"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/bn> "\u098F\u0987 \u09AB\u09BE\u0987\u09B2\u09C7\u09B0 \u0989\u09AA\u099C\u09BE\u09A4 \u0995\u09B0\u09CD\u09AE\u09B8\u09AE\u09C2\u09B9:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/cs> "D\u00EDla odvozen\u00E1 od tohoto souboru:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/de> "Abgeleitete Werke dieser Datei:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/en> "Derivative works of this file:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/eo> "Deriva\u0135oj de \u0109i tiu dosiero:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/es> "Obras derivadas de \u00E9sta:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/fr> "\u0152uvres d\u00E9riv\u00E9es de ce fichier\u00A0:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/gl> "Obras derivadas deste ficheiro:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/gsw> "Abgleiteti W\u00E4rk vo dere Datei:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/hu> "Sz\u00E1rmaz\u00E9kos m\u0171vek:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/it> "Opere derivate da questo file:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/ja> "\u3053\u306E\u30D5\u30A1\u30A4\u30EB\u306E\u6D3E\u751F\u7684\u8457\u4F5C\u7269:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/mk> "\u0418\u0437\u0432\u0435\u0434\u0435\u043D\u0438 \u0434\u0435\u043B\u0430 \u043E\u0434 \u043E\u0432\u0430\u0430 \u043F\u043E\u0434\u0430\u0442\u043E\u0442\u0435\u043A\u0430:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/ml> "\u0D08 \u0D2A\u0D4D\u0D30\u0D2E\u0D3E\u0D23\u0D24\u0D4D\u0D24\u0D3F\u0D7D \u0D28\u0D3F\u0D28\u0D4D\u0D28\u0D41\u0D02 \u0D38\u0D43\u0D37\u0D4D\u0D1F\u0D3F\u0D1A\u0D4D\u0D1A\u0D35:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/nds> "Von disse Datei afleidt Warken:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/nl> "Afgeleide werken van dit bestand:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/pl> "Prace pochodne od tego pliku:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/pt> "Obras derivadas deste ficheiro:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/ro> "Crea\u021Bii derivate din acest fi\u0219ier:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/ru> "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043E\u0442 \u044D\u0442\u043E\u0433\u043E \u0444\u0430\u0439\u043B\u0430:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/sl> "Izpeljana dela te datoteke:"@en .
+<http://commons.dbpedia.org/resource/Template:Derivative_versions> <http://commons.dbpedia.org/property/uk> "\u041F\u043E\u0445\u0456\u0434\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438 \u0432\u0456\u0434 \u0446\u044C\u043E\u0433\u043E \u0444\u0430\u0439\u043B\u0443:"@en .
 <http://commons.dbpedia.org/resource/Template:Extracted_from> <http://commons.dbpedia.org/property/de> "Der Ausschnitt wurde mit Cropbot erstellt durch"@en .
 <http://commons.dbpedia.org/resource/Template:Extracted_from> <http://commons.dbpedia.org/property/en> "The extraction was made by Cropbot operated by"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "colours"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "created by"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "current since"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "format"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "from"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "other characteristics"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "rectangular"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "see included flag"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "shape"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "until"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/en> "used by"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "alkaen"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "formaatti"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "katso oheinen lippu"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "muoto"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "muut yksityiskohdat"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "nykyinen l\u00E4htien"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "saakka"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "seuraavan maan k\u00E4yt\u00F6ss\u00E4"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "suorakulmainen"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "tekij\u00E4"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/fi> "v\u00E4rit"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0431\u043E\u0438"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0432\u0430\u0436\u0435\u0447\u043A\u043E \u043E\u0434"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0434\u043E"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0434\u0440\u0443\u0433\u0438 \u043E\u0441\u043E\u0431\u0435\u043D\u043E\u0441\u0442\u0438"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u043A\u043E\u0440\u0438\u0441\u043D\u0438\u043A"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u043E\u0431\u043B\u0438\u043A"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u043E\u0434"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u043F\u043E\u0433\u043B. \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u043E\u0442\u043E \u0437\u043D\u0430\u043C\u0435"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u043F\u0440\u0430\u0432\u043E\u0430\u0433\u043E\u043B\u043D\u043E"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0442\u0432\u043E\u0440\u0435\u0446"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/mk> "\u0444\u043E\u0440\u043C\u0430\u0442"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "at\u00E9"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "cores"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "criada por"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "de"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "forma"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "formato"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "outras caracter\u00EDsticas"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "rectangular"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "utilizada por"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "v\u00E1lida desde"@en .
+<http://commons.dbpedia.org/resource/Template:Flag> <http://commons.dbpedia.org/property/pt> "ver bandeira inclu\u00EDda"@en .
+<http://commons.dbpedia.org/resource/Template:FlagCountryYes> <http://commons.dbpedia.org/property/en> "country"@en .
+<http://commons.dbpedia.org/resource/Template:FlagCountryYes> <http://commons.dbpedia.org/property/mk> "\u0437\u0435\u043C\u0458\u0430"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/template> <http://commons.dbpedia.org/property/markupcopyvio> "Uffd|1=REVISIONUSER|2=%LICENSESHORT%"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/template> <http://commons.dbpedia.org/property/regexp> "/\\{\\{User:[Ff]lickreviewR\\/.+?\\}\\}/"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/template> <http://commons.dbpedia.org/property/repo> "flickr"@en .
@@ -11753,6 +11874,10 @@
 <http://commons.dbpedia.org/resource/Template:Heavily_used_template/en> <http://commons.dbpedia.org/property/lang> "en"@en .
 <http://commons.dbpedia.org/resource/Template:Heavily_used_template/en> <http://commons.dbpedia.org/property/sysop> "* This template has been protected from editing to prevent vandalism. Only administrators can edit this template. Get their attention by placing  at the talk page.20px|link=Commons:Page protection|This page is protected against editing."@en .
 <http://commons.dbpedia.org/resource/Template:Heavily_used_template/en> <http://commons.dbpedia.org/property/text> "Note: This template is used on a lot of pages. In order not to put too much load on the servers, edits should be kept to a bare minimum. Please discuss proposed changes on the talk page first.\n* Editing a template causes all pages that use the template to be re-rendered. If the template is used often, this can put a lot of load on the servers since it fills up the job queue.\n* Keep in mind that templates that are used on file description pages also show up on other wikis."@en .
+<http://commons.dbpedia.org/resource/Template:Horizontal_stripes> <http://commons.dbpedia.org/property/de> "Flagge hat  horizontale Streifen"@en .
+<http://commons.dbpedia.org/resource/Template:Horizontal_stripes> <http://commons.dbpedia.org/property/en> "flag has  horizontal stripes"@en .
+<http://commons.dbpedia.org/resource/Template:Horizontal_stripes> <http://commons.dbpedia.org/property/mk> "\u0437\u043D\u0430\u043C\u0435\u0442\u043E \u0438\u043C\u0430  \u0445\u043E\u0440\u0438\u0437\u043E\u043D\u0442\u0430\u043B\u043D\u0438 \u043F\u0440\u0443\u0433\u0438"@en .
+<http://commons.dbpedia.org/resource/Template:Horizontal_stripes> <http://commons.dbpedia.org/property/nds> "de Flagg hett  waagrecht Striepen"@en .
 <http://commons.dbpedia.org/resource/Template:I18n/Credit_line> <http://commons.dbpedia.org/property/cs> <http://commons.dbpedia.org/resource/Commons:Credit_line> .
 <http://commons.dbpedia.org/resource/Template:I18n/Credit_line> <http://commons.dbpedia.org/property/de> <http://commons.dbpedia.org/resource/Commons:Credit_line> .
 <http://commons.dbpedia.org/resource/Template:I18n/Credit_line> <http://commons.dbpedia.org/property/en> <http://commons.dbpedia.org/resource/Commons:Credit_line> .
@@ -12316,6 +12441,8 @@
 <http://commons.dbpedia.org/resource/Template:Inscription/label> <http://commons.dbpedia.org/property/vi> "kh\u00F4ng k\u00FD t\u00EAn"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription> <http://commons.dbpedia.org/property/en> "&#32;in }"@en .
 <http://commons.dbpedia.org/resource/Template:Inscription> <http://commons.dbpedia.org/property/lenient> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Template:Insignia/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:Insignia/en> <http://commons.dbpedia.org/property/text> "This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions are independent of the copyright status."@en .
 <http://commons.dbpedia.org/resource/Template:Institution/documentation> <http://commons.dbpedia.org/property/i18nMethod> "switch"@en .
 <http://commons.dbpedia.org/resource/Template:Institution/documentation> <http://commons.dbpedia.org/property/lines> "one"@en .
 <http://commons.dbpedia.org/resource/Template:Institution/documentation> <http://commons.dbpedia.org/property/namespace> "all"@en .
@@ -12781,6 +12908,8 @@
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/seealso> ","@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/type> "formatting"@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
+<http://commons.dbpedia.org/resource/Template:Open_Access_Media_Importer/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:Open_Access_Media_Importer/en> <http://commons.dbpedia.org/property/text> "This file was transferred to Wikimedia Commons from  by way of the Open Access Media Importer."@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/ca> "Any desconegut"@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/cs> ". tis\u00EDcilet\u00ED"@en .
 <http://commons.dbpedia.org/resource/Template:Other_date> <http://commons.dbpedia.org/property/cs> "nezn\u00E1m\u00FD rok"@en .
@@ -12816,16 +12945,24 @@
 <http://commons.dbpedia.org/resource/Template:PD-1923/en> <http://commons.dbpedia.org/property/lang> "en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-1923/en> <http://commons.dbpedia.org/property/note> "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file must have an additional copyright tag indicating the copyright status in the source country."@en .
 <http://commons.dbpedia.org/resource/Template:PD-1996> <http://commons.dbpedia.org/property/base> "Template:PD-1996"@en .
+<http://commons.dbpedia.org/resource/Template:PD-EdictGov/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:PD-EdictGov/en> <http://commons.dbpedia.org/property/text> "This work is in the public domain in the U.S. because it is an edict of a government, local or foreign. See \u00A7 206.01 of the Compendium II: Copyright Office Practices.  Such documents include \"judicial opinions, administrative rulings, legislative enactments, public ordinances, and similar official legal documents.\"\n\nThese do not include works first published by the United Nations or any of its specialized agencies, or by the Organization of American States.  See Compendium II \u00A7 206.03 and 17 U.S.C. 104."@en .
+<http://commons.dbpedia.org/resource/Template:PD-EdictGov/en> <http://commons.dbpedia.org/property/warningText> "A non-American governmental edict may still be copyrighted outside the U.S. Similarly, the above U.S. Copyright Office Practice does not prevent U.S. states or localities from holding copyright abroad, depending on foreign copyright laws and regulations."@en .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown/en> <http://commons.dbpedia.org/property/lang> "en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown/en> <http://commons.dbpedia.org/property/text> "2.209032E9"^^<http://dbpedia.org/datatype/second> .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown/layout> <http://commons.dbpedia.org/property/img> "64"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown/layout> <http://commons.dbpedia.org/property/img> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:PD-HU-unknown/layout> <http://commons.dbpedia.org/property/notes> "off"@en .
+<http://commons.dbpedia.org/resource/Template:PD-India/en> <http://commons.dbpedia.org/property/bottom> "This file may not be in the public domain outside India. The creator and year of publication are essential information and must be provided. See Wikipedia:Public domain and Wikipedia:Copyrights for more details."@en .
+<http://commons.dbpedia.org/resource/Template:PD-India/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:PD-India/en> <http://commons.dbpedia.org/property/text> "1.57788E9"^^<http://dbpedia.org/datatype/second> .
 <http://commons.dbpedia.org/resource/Template:PD-US-not_renewed/en> <http://commons.dbpedia.org/property/lang> "en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-US-not_renewed/en> <http://commons.dbpedia.org/property/text> "This work is in the public domain because it was published in the United States between  and 1963 and although there may or may not have been a copyright notice, the copyright was not renewed. Unless its author has been dead for the required period, it is copyrighted in the countries or areas that do not apply the rule of the shorter term for US works, such as Canada , Mainland China , Germany , Mexico , Switzerland , and other countries with individual treaties. See Commons:Hirtle chart for further explanation."@en .
 <http://commons.dbpedia.org/resource/Template:PD-US/en> <http://commons.dbpedia.org/property/lang> "en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-US/en> <http://commons.dbpedia.org/property/text> "--01-01"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
 <http://commons.dbpedia.org/resource/Template:PD-US/en> <http://commons.dbpedia.org/property/warningText> "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the rule of the shorter term for US works, such as Canada, Mainland China , Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See Wikipedia:Public domain and Wikipedia:Copyrights for more details.''"@en .
+<http://commons.dbpedia.org/resource/Template:PD-USGov-Military/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:PD-USGov-Military/en> <http://commons.dbpedia.org/property/text> "This image is a work of a U.S. military or Department of Defense employee, taken or made as part of that person's official duties. As a work of the U.S. federal government, the image is in the public domain."@en .
 <http://commons.dbpedia.org/resource/Template:PD-USGov-NASA/en> <http://commons.dbpedia.org/property/text> "''This file is in the public domain because it was solely created by NASA. NASA copyright policy states that \"NASA material is not protected by copyright unless noted\"."@en .
 <http://commons.dbpedia.org/resource/Template:PD-USGov-NASA/en> <http://commons.dbpedia.org/property/warnings> "* Use of NASA logos, insignia and emblems are restricted per US law 14 CFR 1221.\n* The NASA website hosts a large number of images from the Soviet/Russian space agency, and other non-American space agencies. These are not necessarily in the public domain.\n* Materials based on Hubble Space Telescope data may be copyrighted if they are not explicitly produced by the STScI.http://hubblesite.org/copyright/ See also  and .\n* The SOHO (ESA & NASA) joint project implies that all materials created by its probe are copyrighted and require permission for commercial non-educational use. http://sohowww.nascom.nasa.gov/data/summary/copyright.html\n* Images featured on the Astronomy Picture of the Day  web site may be copyrighted. http://antwrp.gsfc.nasa.gov/apod/lib/about_apod.html#srapply"@en .
 <http://commons.dbpedia.org/resource/Template:PD-USGov-NASA/en> <http://commons.dbpedia.org/property/warningsHeader> "Warnings"@en .
@@ -12867,6 +13004,8 @@
 <http://commons.dbpedia.org/resource/Template:PD-old/en> <http://commons.dbpedia.org/property/note> "2.36682E9"^^<http://dbpedia.org/datatype/second> .
 <http://commons.dbpedia.org/resource/Template:PD-old/en> <http://commons.dbpedia.org/property/text> "This applies to Australia, the European Union and those countries with a copyright term of life of the author plus 70 years."@en .
 <http://commons.dbpedia.org/resource/Template:PD-old/en> <http://commons.dbpedia.org/property/text> "This image  is in the public domain because its copyright has expired."@en .
+<http://commons.dbpedia.org/resource/Template:PLOS/en> <http://commons.dbpedia.org/property/lang> "en"@en .
+<http://commons.dbpedia.org/resource/Template:PLOS/en> <http://commons.dbpedia.org/property/text> "''This file was published in a Public Library of Science journal. Their website states that the content of all PLOS journals is published under the Creative Commons Attribution 3.0 license, unless indicated otherwise. Previously, PLOS used the Creative Commons Attribution 2.5 license."@en .
 <http://commons.dbpedia.org/resource/Template:Position> <http://commons.dbpedia.org/property/all> "borders"@en .
 <http://commons.dbpedia.org/resource/Template:Position> <http://commons.dbpedia.org/property/bottom> "a la part inferior"@en .
 <http://commons.dbpedia.org/resource/Template:Position> <http://commons.dbpedia.org/property/bottom> "bottom border"@en .
@@ -12949,6 +13088,8 @@
 <http://commons.dbpedia.org/resource/Template:Self/doc> <http://commons.dbpedia.org/property/setscats> "* :Category:Self-published work"@en .
 <http://commons.dbpedia.org/resource/Template:Self/doc> <http://commons.dbpedia.org/property/type> "license"@en .
 <http://commons.dbpedia.org/resource/Template:Self/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
+<http://commons.dbpedia.org/resource/Template:Symbol> <http://commons.dbpedia.org/property/en> "flag contains symbol"@en .
+<http://commons.dbpedia.org/resource/Template:Symbol> <http://commons.dbpedia.org/property/mk> "\u0437\u043D\u0430\u043C\u0435\u0442\u043E \u0441\u043E\u0434\u0440\u0436\u0438 \u0441\u0438\u043C\u0431\u043E\u043B"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/class> "ui-button-blue ui-button-large"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/class> "ui-button-red ui-button-large"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/external> "true"@en .
@@ -12966,6 +13107,7 @@
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/i18n/en> <http://commons.dbpedia.org/property/text> "There is an ongoing discussion about that matter. Feel invited to comment if you are experienced in either way, your time permits and if you like to share your opinion or to make a suggestion."@en .
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/i18n/en> <http://commons.dbpedia.org/property/title> "TemplateData"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateDataInfo/toggler> <http://commons.dbpedia.org/property/iconprimary> "ui-icon-help"@en .
+<http://commons.dbpedia.org/resource/Template:Template_namespace_only> <http://commons.dbpedia.org/property/namespace> "Template"@en .
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/en> "Transcribe this document!"@en .
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/fr> "Transcrire ce document"@en .
 <http://commons.dbpedia.org/resource/Template:Transcribe> <http://commons.dbpedia.org/property/pl> "Transkrybuj ten dokument"@en .
@@ -13037,6 +13179,19 @@
 <http://commons.dbpedia.org/resource/Template:Uploaded_from_Mobile/i18n> <http://commons.dbpedia.org/property/ko> "\uC774 \uD30C\uC77C\uC740 \uBAA8\uBC14\uC77C |Web=\uC6F9|#default= \uC5D0\uC11C \uC62C\uB824\uC84C\uC2B5\uB2C8\uB2E4."@en .
 <http://commons.dbpedia.org/resource/Template:Uploaded_from_Mobile/i18n> <http://commons.dbpedia.org/property/ml> "\u0D08 \u0D1A\u0D3F\u0D24\u0D4D\u0D30\u0D02 \u0D05\u0D2A\u0D4D\u200C\u0D32\u0D4B\u0D21\u0D4D \u0D1A\u0D46\u0D2F\u0D4D\u0D24\u0D24\u0D4D \u0D2E\u0D4A\u0D2C\u0D48\u0D7D |Android = \u0D06\u0D7B\u0D21\u0D4D\u0D30\u0D4B\u0D2F\u0D3F\u0D21\u0D4D |iOS=\u0D10\u0D13\u0D0E\u0D38\u0D4D|#default=  \u0D09\u0D2A\u0D2F\u0D4B\u0D17\u0D3F\u0D1A\u0D4D\u0D1A\u0D3E\u0D23\u0D4D."@en .
 <http://commons.dbpedia.org/resource/Template:Uploaded_from_Mobile/i18n> <http://commons.dbpedia.org/property/sl> "Slika je bila nalo\u017Eena s programjem Mobile  ."@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/en> "This is one of the images forming part of the Valued image set: }}}|}}} on Wikimedia Commons. The image set has been assessed under the valued image set criteria and is considered the most valued set on Commons within the scope:"@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/en> "You can see its nomination at Commons:Valued image candidates/"@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/ml> "\u0D07\u0D24\u0D4D \u0D35\u0D3F\u0D15\u0D4D\u0D15\u0D3F\u0D2E\u0D40\u0D21\u0D3F\u0D2F \u0D15\u0D4B\u0D2E\u0D7A\u0D38\u0D3F\u0D32\u0D46 }}}|}}} \u0D0E\u0D28\u0D4D\u0D28 \u0D2E\u0D42\u0D32\u0D4D\u0D2F\u0D2E\u0D47\u0D31\u0D3F\u0D2F \u0D1A\u0D3F\u0D24\u0D4D\u0D30\u0D17\u0D23\u0D24\u0D4D\u0D24\u0D3F\u0D28\u0D4D\u0D31\u0D46 \u0D2D\u0D3E\u0D17\u0D2E\u0D3E\u0D2F \u0D12\u0D30\u0D41 \u0D1A\u0D3F\u0D24\u0D4D\u0D30\u0D2E\u0D3E\u0D23\u0D4D. \u0D08 \u0D1A\u0D3F\u0D24\u0D4D\u0D30\u0D17\u0D23\u0D02 \u0D2E\u0D42\u0D32\u0D4D\u0D2F\u0D2E\u0D47\u0D31\u0D3F\u0D2F \u0D1A\u0D3F\u0D24\u0D4D\u0D30\u0D17\u0D23\u0D19\u0D4D\u0D19\u0D33\u0D41\u0D1F\u0D46 \u0D2E\u0D3E\u0D28\u0D26\u0D23\u0D4D\u0D21\u0D19\u0D4D\u0D19\u0D7E\u0D15\u0D4D\u0D15\u0D28\u0D41\u0D38\u0D30\u0D3F\u0D1A\u0D4D\u0D1A\u0D4D \u0D2A\u0D30\u0D3F\u0D36\u0D4B\u0D27\u0D3F\u0D15\u0D4D\u0D15\u0D2A\u0D4D\u0D2A\u0D46\u0D1F\u0D41\u0D15\u0D2F\u0D41\u0D02 \u0D07\u0D28\u0D3F\u0D15\u0D4D\u0D15\u0D4A\u0D1F\u0D41\u0D15\u0D4D\u0D15\u0D41\u0D28\u0D4D\u0D28 \u0D2A\u0D30\u0D3F\u0D27\u0D3F\u0D2F\u0D3F\u0D7D \u0D15\u0D4B\u0D2E\u0D7A\u0D38\u0D3F\u0D32\u0D41\u0D33\u0D4D\u0D33 \u0D0F\u0D31\u0D4D\u0D31\u0D35\u0D41\u0D02 \u0D2E\u0D42\u0D32\u0D4D\u0D2F\u0D2E\u0D47\u0D31\u0D3F\u0D2F \u0D17\u0D23\u0D2E\u0D3E\u0D23\u0D46\u0D28\u0D4D\u0D28\u0D4D \u0D15\u0D30\u0D41\u0D24\u0D2A\u0D4D\u0D2A\u0D46\u0D1F\u0D41\u0D15\u0D2F\u0D41\u0D02 \u0D1A\u0D46\u0D2F\u0D4D\u0D2F\u0D41\u0D28\u0D4D\u0D28\u0D41:"@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/ml> "\u0D28\u0D3E\u0D2E\u0D28\u0D3F\u0D7C\u0D26\u0D4D\u0D26\u0D47\u0D36\u0D02 \u0D07\u0D35\u0D3F\u0D1F\u0D46 \u0D15\u0D3E\u0D23\u0D3E\u0D35\u0D41\u0D28\u0D4D\u0D28\u0D24\u0D3E\u0D23\u0D4D"@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/pt> "Esta \u00E9 uma das imagens que fazem parte do conjunto de Imagens de valor: }}}|}}} no Wikimedia Commons. O conjunto de imagens foi avaliado sob os Crit\u00E9rios de conjuntos de Imagens de valor e \u00E9 considerado o conjunto mais valorizado no Commons dentro do escopo:"@en .
+<http://commons.dbpedia.org/resource/Template:VIS> <http://commons.dbpedia.org/property/pt> "Voc\u00EA pode ver a sua nomea\u00E7\u00E3o em Commons:Valued image candidates/"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/de> "Warnung"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/en> "Warning"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/fi> "Varoitus"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/ml> "\u0D2E\u0D41\u0D28\u0D4D\u0D28\u0D31\u0D3F\u0D2F\u0D3F\u0D2A\u0D4D\u0D2A\u0D4D"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/pl> "Ostrze\u017Cenie"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/ro> "Avertisment"@en .
+<http://commons.dbpedia.org/resource/Template:Warnsign> <http://commons.dbpedia.org/property/sl> "Opozorilo"@en .
 <http://commons.dbpedia.org/resource/Template:Wikisource> <http://commons.dbpedia.org/property/de> "Seite auf Wikisource zu diesem Thema:"@en .
 <http://commons.dbpedia.org/resource/Template:Wikisource> <http://commons.dbpedia.org/property/en> "Wikisource has a page about this at:"@en .
 <http://commons.dbpedia.org/resource/Template:Wikisource> <http://commons.dbpedia.org/property/es> "Verlo en Wikisource :"@en .

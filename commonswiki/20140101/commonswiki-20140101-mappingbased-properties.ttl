@@ -98,6 +98,15 @@
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/ulanId> "500028454"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/viafId> "59198877"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/birthDate> "1770-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/bnfId> "cb138912954"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/deathDate> "1827-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/individualisedGnd> "118508288"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/isniId> "0000000121268987"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/lccnId> "n/79/107741"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/ulanId> "500339269"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://dbpedia.org/ontology/viafId> "32182557"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Ludwig_van_Beethoven> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/deathDate> "1896-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/individualisedGnd> "12017636X"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Mathew_Brady> <http://dbpedia.org/ontology/isniId> "0000000122094376"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -175,6 +184,8 @@
 <http://commons.dbpedia.org/resource/File:Acraea_epaea1.JPG> <http://purl.org/dc/terms/description> ": Plate CCXXX"@en .
 <http://commons.dbpedia.org/resource/File:Ada_keiliana_(as_Brassia_keiliana)_-_Xenia_vol_1_pl_45_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of Ada keiliana (as syn. Brassia keiliana)"@en .
 <http://commons.dbpedia.org/resource/File:Ada_keiliana_(as_Brassia_keiliana)_-_Xenia_vol_1_pl_45_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://purl.org/dc/terms/created> "2013-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Adult_male_Osteocephalus_vilmae_showing_variation_in_dorsal_and_ventral_coloration_of_preserved_specimens_-_ZooKeys-229-001-g017.xcf> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Doi:10.3897/zookeys.229.3580> .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://purl.org/dc/terms/description> "Category:Aellopos ceculus"@en .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://purl.org/dc/terms/description> "G: \"(Sphinx) Ceculus\" ( = Aellopos ceculus, iconotype?), see Funet"@en .
 <http://commons.dbpedia.org/resource/File:Aellopos_ceculus1.JPG> <http://purl.org/dc/terms/description> "Plate CXLVI"@en .
@@ -218,6 +229,8 @@
 <http://commons.dbpedia.org/resource/File:Ancistrorhynchus_metteniae_(as_Listrostachys_metteniae)_–_Dendrobium_stuposum_(as_Dendrobium_sphegidoglossum)_–_Xenia_3-270_(1900).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://purl.org/dc/terms/description> "Illustration of Angraecum scottianum (fig. I as syn. Angraecum reichenbachianum)"@en .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://purl.org/dc/terms/created> "2012-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://purl.org/dc/terms/description> "Id: http://www.forum.hymis.de/viewtopic.php?f=14&t=10453"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://purl.org/dc/terms/description> "*H: \"(Papilio) Larydas\" ( = Anthene larydas (Cramer, [1780]), iconotype?), see Funet. Photos at Barcode of Life."@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://purl.org/dc/terms/description> ": Plate CCLXXXII"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://purl.org/dc/terms/description> "Category:Anthene larydas"@en .
@@ -527,6 +540,7 @@
 <http://commons.dbpedia.org/resource/File:Coelogyne_schilleriana_-_Coelogyne_assamica_-_Xenia_2_pl_134.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
 <http://commons.dbpedia.org/resource/File:Coelogyne_triplicatula_-_Xenia_2_pl_166.jpg> <http://purl.org/dc/terms/description> "Illustration of Coelogyne triplicatula"@en .
 <http://commons.dbpedia.org/resource/File:Coelogyne_triplicatula_-_Xenia_2_pl_166.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
+<http://commons.dbpedia.org/resource/File:ColonelBogey.ogg> <http://purl.org/dc/terms/created> "2013-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://purl.org/dc/terms/created> "2013-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://purl.org/dc/terms/description> "Contributions to the genetics of Drosophila melanogaster ...."@en .
 <http://commons.dbpedia.org/resource/File:Contributions_to_the_genetics_of_Drosophila_melanogaster_(1919)_-_Plate_10_-_BioDivLibrary_page_805453.jpg> <http://purl.org/dc/terms/description> "Washington,Carnegie Institution of Washington,1919.."@en .
@@ -4252,8 +4266,8 @@
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_23.jpg> <http://purl.org/dc/terms/description> "Pl. 23 of  \"Natural history of the insects of China\"."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_23.jpg> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_23.jpg> <http://purl.org/dc/terms/description> "[Donovan text of 1798  (ECCO TCP), illustration caption and name in Westwood 1838 revised text]: Papilio Crino."@en .
-<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "# [Donovan text of 1798  (ECCO TCP), illustration caption and name in Westwood 1838 revised text]: Papilio Agenor"@en .
-<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "# [Donovan text of 1798  (ECCO TCP), illustration caption and name in Westwood 1838 revised text]: Papilio Coon,"@en .
+<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "# [Donovan text of 1798  (ECCO TCP), illustration caption and name in Westwood 1838 revised text]: Papilio agenor (Papilio memnon)."@en .
+<http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "# [Donovan text of 1798  (ECCO TCP), illustration caption and name in Westwood 1838 revised text]: Papilio coon (Atrophaneura coon),"@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "Pl. 24 of  \"Natural history of the insects of China\"."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_24.jpg> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_25.jpg> <http://purl.org/dc/terms/description> "Pl. 25 of  \"Natural history of the insects of China\"."@en .
@@ -7001,6 +7015,7 @@
 <http://commons.dbpedia.org/resource/File:Hypolimnas_bolina2.JPG> <http://purl.org/dc/terms/description> ": Plate CCV"@en .
 <http://commons.dbpedia.org/resource/File:Hypolimnas_bolina2.JPG> <http://purl.org/dc/terms/description> ":Also on plate 65 C, D, E. F."@en .
 <http://commons.dbpedia.org/resource/File:Hypolimnas_bolina2.JPG> <http://purl.org/dc/terms/description> "Category:Hypolimnas bolina"@en .
+<http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://purl.org/dc/terms/created> "1946-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://purl.org/dc/terms/description> "Category:Isanthrene melas"@en .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://purl.org/dc/terms/description> "Funet"@en .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://purl.org/dc/terms/description> "G: \"(Sphinx) Melas\" ( = Isanthrene melas,iconotype?), see"@en .
@@ -7415,6 +7430,7 @@
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male.JPG> <http://purl.org/dc/terms/description> ": Plate CCLXXIX"@en .
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male1.JPG> <http://purl.org/dc/terms/description> "*A, B (♂), C, D (♀): \"(Papilio) Aeneas\" ( = Parides aeneas (Linnaeus, 1758)), see Funet. Photo at Butterflies of America."@en .
 <http://commons.dbpedia.org/resource/File:Parides_aeneas_male1.JPG> <http://purl.org/dc/terms/description> ": Plate CCLXXIX"@en .
+<http://commons.dbpedia.org/resource/File:Passer_domesticus_&_Turdus_viscivorus,_bathing_in_a_bird_bath.ogv> <http://purl.org/dc/terms/created> "2011-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://purl.org/dc/terms/created> "2012-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://purl.org/dc/terms/description> "* 1 - Corycaeus elongatus = Corycaeus crassiusculus"@en .
 <http://commons.dbpedia.org/resource/File:Pelagischen_Copepoden_-_Fauna_und_flora_des_golfes_von_Neapel_(19)_-_Von_Wilhelm_Giesbrecht_(1892)_-_Taf._4_-_BioDivLibrary_page_39312118.jpg> <http://purl.org/dc/terms/description> "* 10 - Oithona plumifera"@en .
@@ -7965,6 +7981,7 @@
 <http://commons.dbpedia.org/resource/File:Xylophanes_neoptolemus.JPG> <http://purl.org/dc/terms/description> "Category:Xylophanes neoptolemus"@en .
 <http://commons.dbpedia.org/resource/File:Xylophanes_neoptolemus.JPG> <http://purl.org/dc/terms/description> "Plate CCCI"@en .
 <http://commons.dbpedia.org/resource/File:Xylophanes_neoptolemus.JPG> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
+<http://commons.dbpedia.org/resource/File:सम्पत्सु_महतां.wav> <http://purl.org/dc/terms/created> "2014-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://dbpedia.org/ontology/viafId> "136369899"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/bnfId> "cb12182396f"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/individualisedGnd> "00605336X"^^<http://www.w3.org/2001/XMLSchema#string> .
