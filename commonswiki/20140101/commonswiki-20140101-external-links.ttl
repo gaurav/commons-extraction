@@ -259,7 +259,6 @@
 <http://commons.dbpedia.org/resource/File:Celastrina_ladon_ill.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.biodiversitylibrary.org/item/95037#page/303/mode/1up> .
 <http://commons.dbpedia.org/resource/File:Celastrina_ladon_ill.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.boldsystems.org/views/taxbrowser.php?taxon=Celastrina+ladon> .
 <http://commons.dbpedia.org/resource/File:Celastrina_ladon_ill.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.nic.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/papilionoidea/lycaenidae/polyommatinae/celastrina/index.html#ladon> .
-<http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://en.wikipedia.org/wiki/John_Edwards_Holbrook> .
 <http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.biodiversitylibrary.org/bibliography/4997> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://biodiversitylibrary.org/page/698323> .
 <http://commons.dbpedia.org/resource/File:Cercyra_hastata.jpg> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://biodivlib.wikispaces.com/Licensing+and+Copyright> .

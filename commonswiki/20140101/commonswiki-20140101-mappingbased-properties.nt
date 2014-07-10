@@ -80,6 +80,7 @@
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/lccnId> "n/87/814620"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/viafId> "19813148"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://xmlns.com/foaf/0.1/name> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/birthDate> "1874-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/birthPlace> <http://commons.dbpedia.org/resource/Ithaca,_New_York> .
 <http://commons.dbpedia.org/resource/Creator:Louis_Agassiz_Fuertes> <http://dbpedia.org/ontology/bnfId> "cb12552729g"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -298,6 +299,7 @@
 <http://commons.dbpedia.org/resource/File:Caularthron_bilamellatum_(as_Epidendrum_bilamellatum)_-_Xenia_3_pl_225.jpg> <http://purl.org/dc/terms/description> <http://commons.dbpedia.org/resource/Caularthron_bilamellatum> .
 <http://commons.dbpedia.org/resource/File:Caularthron_bilamellatum_(as_Epidendrum_bilamellatum)_-_Xenia_3_pl_225.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
 <http://commons.dbpedia.org/resource/File:Celastrina_ladon_ill.jpg> <http://purl.org/dc/terms/description> <http://commons.dbpedia.org/resource/Celastrina_ladon> .
+<http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://dbpedia.org/ontology/author> <http://commons.dbpedia.org/resource/W:en:John_Edwards_Holbrook> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://purl.org/dc/terms/description> <http://commons.dbpedia.org/resource/Ceratostylis_anceps> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://purl.org/dc/terms/description> <http://commons.dbpedia.org/resource/Ceratostylis_gracilis> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://purl.org/dc/terms/description> <http://commons.dbpedia.org/resource/Ceratostylis_subulata> .

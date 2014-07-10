@@ -169,6 +169,7 @@
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/homecat> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/isni> "80989939"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/lccn> "n/87/814620"@en .
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/name> "Junius Henderson"@en .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/nla> "35186996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/occupation> "lawyer/judge/curator"@en .
 <http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://commons.dbpedia.org/property/sortkey> "Henderson, Junius"@en .

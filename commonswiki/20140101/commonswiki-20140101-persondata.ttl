@@ -1,0 +1,8 @@
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/birthDate> "1865"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://dbpedia.org/ontology/deathDate> "1937-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://commons.dbpedia.org/resource/Creator:Junius_Henderson> <http://xmlns.com/foaf/0.1/name> "Junius Henderson"@en .
+<http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://dbpedia.org/ontology/birthDate> "1876-08-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://dbpedia.org/ontology/deathDate> "1953-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://xmlns.com/foaf/0.1/name> "William Lovell Finley"@en .
