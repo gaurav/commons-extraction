@@ -21,6 +21,7 @@
 <http://commons.dbpedia.org/resource/Creator:Viktor_Vasnetsov> <http://www.w3.org/2000/01/rdf-schema#label> "Viktor Vasnetsov"@en .
 <http://commons.dbpedia.org/resource/Creator:Walter_Hood_Fitch> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Hood Fitch"@en .
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://www.w3.org/2000/01/rdf-schema#label> "William Lovell Finley"@en .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://www.w3.org/2000/01/rdf-schema#label> "1000 Year Temperature Comparison.png"@en .
 <http://commons.dbpedia.org/resource/File:1stphaseofbattlemarathon.gif> <http://www.w3.org/2000/01/rdf-schema#label> "1stphaseofbattlemarathon.gif"@en .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://www.w3.org/2000/01/rdf-schema#label> "A Look Along the Continental Divide.tif"@en .
 <http://commons.dbpedia.org/resource/File:A_view_of_striations_on_Isabelle_Glacer_field.tif> <http://www.w3.org/2000/01/rdf-schema#label> "A view of striations on Isabelle Glacer field.tif"@en .
@@ -135,6 +136,7 @@
 <http://commons.dbpedia.org/resource/File:Bulbophyllum_napellii_(as_Bulbophyllum_balaeniceps)_-_Bulbophyllum_regnellii_-_Xenia_2_pl_157.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Bulbophyllum napellii (as Bulbophyllum balaeniceps) - Bulbophyllum regnellii - Xenia 2 pl 157.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Bulbophyllum_rufinum_-_Bulbophyllum_pipio_-_Xenia_3_pl_219.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Bulbophyllum rufinum - Bulbophyllum pipio - Xenia 3 pl 219.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Bulbophyllum_wendlandianum_(as_Cirrhopetalum_wendlandianum_-_Xenia_3_pl_243.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Bulbophyllum wendlandianum (as Cirrhopetalum wendlandianum - Xenia 3 pl 243.jpg"@en .
+<http://commons.dbpedia.org/resource/File:Buta-1,3-diene_200.svg> <http://www.w3.org/2000/01/rdf-schema#label> "Buta-1,3-diene 200.svg"@en .
 <http://commons.dbpedia.org/resource/File:CUMNH_19301_Glandina_sp.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "CUMNH 19301 Glandina sp.jpg"@en .
 <http://commons.dbpedia.org/resource/File:CUMNH_Invertebrate_Teaching_Collections,_box_5.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "CUMNH Invertebrate Teaching Collections, box 5.jpg"@en .
 <http://commons.dbpedia.org/resource/File:CUMNH_Teaching_Collection_221_Asteroidea.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "CUMNH Teaching Collection 221 Asteroidea.jpg"@en .
@@ -1561,6 +1563,7 @@
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_roezlii_(as_Odontoglossum_roezlii)_-_Oncidium_×_limbatum_(as_Od._limbatum)_-_Cyrtochilum_stenochilum_(as_Od._stenochilum)_-_Xenia_2_pl_183.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Miltoniopsis roezlii (as Odontoglossum roezlii) - Oncidium × limbatum (as Od. limbatum) - Cyrtochilum stenochilum (as Od. stenochilum) - Xenia 2 pl 183.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_vexillaria_(as_Odontoglossum_vexillarium)_-_Xenia_2_pl_182.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Miltoniopsis vexillaria (as Odontoglossum vexillarium) - Xenia 2 pl 182.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_warszewiczii_(as_Odontoglossum_warszewiczii)_-_Xenia_vol_1_pl_81_(1858).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Miltoniopsis warszewiczii (as Odontoglossum warszewiczii) - Xenia vol 1 pl 81 (1858).jpg"@en .
+<http://commons.dbpedia.org/resource/File:Musaeum_Hermeticum_1678_p_398_III._Clavis_AQ27.tif> <http://www.w3.org/2000/01/rdf-schema#label> "Musaeum Hermeticum 1678 p 398 III. Clavis AQ27.tif"@en .
 <http://commons.dbpedia.org/resource/File:Musophaga_variegata.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Musophaga variegata.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Mylon_maimon.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Mylon maimon.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Myrina_silenus.JPG> <http://www.w3.org/2000/01/rdf-schema#label> "Myrina silenus.JPG"@en .
@@ -1612,6 +1615,7 @@
 <http://commons.dbpedia.org/resource/File:Palla_decius.JPG> <http://www.w3.org/2000/01/rdf-schema#label> "Palla decius.JPG"@en .
 <http://commons.dbpedia.org/resource/File:Palla_decius1.JPG> <http://www.w3.org/2000/01/rdf-schema#label> "Palla decius1.JPG"@en .
 <http://commons.dbpedia.org/resource/File:Panisea_uniflora_(as_Coelogyne_thuniana)_-_Xenia_vol_1_pl_46_(1858).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Panisea uniflora (as Coelogyne thuniana) - Xenia vol 1 pl 46 (1858).jpg"@en .
+<http://commons.dbpedia.org/resource/File:Panthera_tigris_sumatran_subspecies.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Panthera tigris sumatran subspecies.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Panthiades_phaleros.JPG> <http://www.w3.org/2000/01/rdf-schema#label> "Panthiades phaleros.JPG"@en .
 <http://commons.dbpedia.org/resource/File:Paphinia_grandiflora_(grandis)_-_Xenia_vol._3_pl._255_(1900).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Paphinia grandiflora (grandis) - Xenia vol. 3 pl. 255 (1900).jpg"@en .
 <http://commons.dbpedia.org/resource/File:Paphiopedilum_appletonianum_(as_Cypripedium_wolterianum)_-_Xenia_3-282_(1896).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Paphiopedilum appletonianum (as Cypripedium wolterianum) - Xenia 3-282 (1896).jpg"@en .
@@ -1724,6 +1728,7 @@
 <http://commons.dbpedia.org/resource/File:Right_on_Arapahoe_Glacier.tif> <http://www.w3.org/2000/01/rdf-schema#label> "Right on Arapahoe Glacier.tif"@en .
 <http://commons.dbpedia.org/resource/File:Robert_Brown_-_Prodromus_floræ_Novæ_Hollandiæ_et_Insulæ_Van-Diemen_(1802-1805)_-_page_326_detail.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Brown - Prodromus floræ Novæ Hollandiæ et Insulæ Van-Diemen (1802-1805) - page 326 detail.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Rodriguezia_lehmannii_-_Stelis_gelida_(as_Pleurothallis_gelida)_-_Xenia_3_pl_267.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Rodriguezia lehmannii - Stelis gelida (as Pleurothallis gelida) - Xenia 3 pl 267.jpg"@en .
+<http://commons.dbpedia.org/resource/File:Rosmarinus_officinalis3.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Rosmarinus officinalis3.jpg"@en .
 <http://commons.dbpedia.org/resource/File:Rossioglossum_schlieperianum_(as_Odontoglossum_schlieperianum)-Xenia_2-143_(1874).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Rossioglossum schlieperianum (as Odontoglossum schlieperianum)-Xenia 2-143 (1874).jpg"@en .
 <http://commons.dbpedia.org/resource/File:Ruches_montenees_in_Albion_camp,_1904.tif> <http://www.w3.org/2000/01/rdf-schema#label> "Ruches montenees in Albion camp, 1904.tif"@en .
 <http://commons.dbpedia.org/resource/File:Rudolfiella_(Bifrenaria)_aurantiaca_-_Xenia_vol._3_(1900)_pl._281.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "Rudolfiella (Bifrenaria) aurantiaca - Xenia vol. 3 (1900) pl. 281.jpg"@en .
@@ -1853,7 +1858,6 @@
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://www.w3.org/2000/01/rdf-schema#label> "CU Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://www.w3.org/2000/01/rdf-schema#label> "National Archives and Records Administration"@en .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_at_College_Park> <http://www.w3.org/2000/01/rdf-schema#label> "National Archives at College Park"@en .
-<http://commons.dbpedia.org/resource/Template:!> <http://www.w3.org/2000/01/rdf-schema#label> "!"@en .
 <http://commons.dbpedia.org/resource/Template:-> <http://www.w3.org/2000/01/rdf-schema#label> "-"@en .
 <http://commons.dbpedia.org/resource/Template:0> <http://www.w3.org/2000/01/rdf-schema#label> "0"@en .
 <http://commons.dbpedia.org/resource/Template:ARC-full/i18n> <http://www.w3.org/2000/01/rdf-schema#label> "ARC-full/i18n"@en .
@@ -1867,6 +1871,18 @@
 <http://commons.dbpedia.org/resource/Template:Arc> <http://www.w3.org/2000/01/rdf-schema#label> "Arc"@en .
 <http://commons.dbpedia.org/resource/Template:Artwork/i18n> <http://www.w3.org/2000/01/rdf-schema#label> "Artwork/i18n"@en .
 <http://commons.dbpedia.org/resource/Template:Artwork> <http://www.w3.org/2000/01/rdf-schema#label> "Artwork"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/Blank> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/Blank"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/category> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/category"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/commons/featured> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/commons/featured"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/commons> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/commons"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/images/left> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/images/left"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/images/right> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/images/right"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/images> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/images"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/translate/en> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/translate/en"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/translate/lang> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/translate/lang"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/wikipedia> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/wikipedia"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments/wmf> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments/wmf"@en .
+<http://commons.dbpedia.org/resource/Template:Assessments> <http://www.w3.org/2000/01/rdf-schema#label> "Assessments"@en .
 <http://commons.dbpedia.org/resource/Template:Author_missing> <http://www.w3.org/2000/01/rdf-schema#label> "Author missing"@en .
 <http://commons.dbpedia.org/resource/Template:Authority_control/ARC> <http://www.w3.org/2000/01/rdf-schema#label> "Authority control/ARC"@en .
 <http://commons.dbpedia.org/resource/Template:Authority_control/BIBSYS> <http://www.w3.org/2000/01/rdf-schema#label> "Authority control/BIBSYS"@en .
@@ -1902,6 +1918,7 @@
 <http://commons.dbpedia.org/resource/Template:Bonn> <http://www.w3.org/2000/01/rdf-schema#label> "Bonn"@en .
 <http://commons.dbpedia.org/resource/Template:Boolean> <http://www.w3.org/2000/01/rdf-schema#label> "Boolean"@en .
 <http://commons.dbpedia.org/resource/Template:Bpy> <http://www.w3.org/2000/01/rdf-schema#label> "Bpy"@en .
+<http://commons.dbpedia.org/resource/Template:C> <http://www.w3.org/2000/01/rdf-schema#label> "C"@en .
 <http://commons.dbpedia.org/resource/Template:CC-Layout> <http://www.w3.org/2000/01/rdf-schema#label> "CC-Layout"@en .
 <http://commons.dbpedia.org/resource/Template:CNO> <http://www.w3.org/2000/01/rdf-schema#label> "CNO"@en .
 <http://commons.dbpedia.org/resource/Template:Ca> <http://www.w3.org/2000/01/rdf-schema#label> "Ca"@en .
@@ -1913,6 +1930,7 @@
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-1.0> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-1.0"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-2.0> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-2.0"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-3.0,2.5,2.0,1.0> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-3.0,2.5,2.0,1.0"@en .
+<http://commons.dbpedia.org/resource/Template:Cc-by-sa-3.0-migrated> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-3.0-migrated"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-3.0/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-3.0/doc"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-3.0> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-3.0"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-sa-layout> <http://www.w3.org/2000/01/rdf-schema#label> "Cc-by-sa-layout"@en .
@@ -1921,6 +1939,10 @@
 <http://commons.dbpedia.org/resource/Template:Check_categories/en> <http://www.w3.org/2000/01/rdf-schema#label> "Check categories/en"@en .
 <http://commons.dbpedia.org/resource/Template:Check_categories/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Check categories/layout"@en .
 <http://commons.dbpedia.org/resource/Template:Check_categories> <http://www.w3.org/2000/01/rdf-schema#label> "Check categories"@en .
+<http://commons.dbpedia.org/resource/Template:Chemical_structure_verified/en> <http://www.w3.org/2000/01/rdf-schema#label> "Chemical structure verified/en"@en .
+<http://commons.dbpedia.org/resource/Template:Chemical_structure_verified/lang> <http://www.w3.org/2000/01/rdf-schema#label> "Chemical structure verified/lang"@en .
+<http://commons.dbpedia.org/resource/Template:Chemical_structure_verified/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Chemical structure verified/layout"@en .
+<http://commons.dbpedia.org/resource/Template:Chemical_structure_verified> <http://www.w3.org/2000/01/rdf-schema#label> "Chemical structure verified"@en .
 <http://commons.dbpedia.org/resource/Template:Cite_journal> <http://www.w3.org/2000/01/rdf-schema#label> "Cite journal"@en .
 <http://commons.dbpedia.org/resource/Template:City/doc> <http://www.w3.org/2000/01/rdf-schema#label> "City/doc"@en .
 <http://commons.dbpedia.org/resource/Template:City> <http://www.w3.org/2000/01/rdf-schema#label> "City"@en .
@@ -1932,6 +1954,9 @@
 <http://commons.dbpedia.org/resource/Template:Collapse_top> <http://www.w3.org/2000/01/rdf-schema#label> "Collapse top"@en .
 <http://commons.dbpedia.org/resource/Template:Compass_rose_file> <http://www.w3.org/2000/01/rdf-schema#label> "Compass rose file"@en .
 <http://commons.dbpedia.org/resource/Template:Conj> <http://www.w3.org/2000/01/rdf-schema#label> "Conj"@en .
+<http://commons.dbpedia.org/resource/Template:Convert_to_SVG/en> <http://www.w3.org/2000/01/rdf-schema#label> "Convert to SVG/en"@en .
+<http://commons.dbpedia.org/resource/Template:Convert_to_SVG/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Convert to SVG/layout"@en .
+<http://commons.dbpedia.org/resource/Template:Convert_to_SVG> <http://www.w3.org/2000/01/rdf-schema#label> "Convert to SVG"@en .
 <http://commons.dbpedia.org/resource/Template:Copenhagen> <http://www.w3.org/2000/01/rdf-schema#label> "Copenhagen"@en .
 <http://commons.dbpedia.org/resource/Template:Copyright-tag-still-required> <http://www.w3.org/2000/01/rdf-schema#label> "Copyright-tag-still-required"@en .
 <http://commons.dbpedia.org/resource/Template:CountryAdjective/en2iso> <http://www.w3.org/2000/01/rdf-schema#label> "CountryAdjective/en2iso"@en .
@@ -1954,7 +1979,9 @@
 <http://commons.dbpedia.org/resource/Template:D2f> <http://www.w3.org/2000/01/rdf-schema#label> "D2f"@en .
 <http://commons.dbpedia.org/resource/Template:D2s> <http://www.w3.org/2000/01/rdf-schema#label> "D2s"@en .
 <http://commons.dbpedia.org/resource/Template:D2x> <http://www.w3.org/2000/01/rdf-schema#label> "D2x"@en .
+<http://commons.dbpedia.org/resource/Template:DF_temperature> <http://www.w3.org/2000/01/rdf-schema#label> "DF temperature"@en .
 <http://commons.dbpedia.org/resource/Template:DOI> <http://www.w3.org/2000/01/rdf-schema#label> "DOI"@en .
+<http://commons.dbpedia.org/resource/Template:Da> <http://www.w3.org/2000/01/rdf-schema#label> "Da"@en .
 <http://commons.dbpedia.org/resource/Template:Date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"@en .
 <http://commons.dbpedia.org/resource/Template:Date_context> <http://www.w3.org/2000/01/rdf-schema#label> "Date context"@en .
 <http://commons.dbpedia.org/resource/Template:De> <http://www.w3.org/2000/01/rdf-schema#label> "De"@en .
@@ -1973,19 +2000,24 @@
 <http://commons.dbpedia.org/resource/Template:Eo> <http://www.w3.org/2000/01/rdf-schema#label> "Eo"@en .
 <http://commons.dbpedia.org/resource/Template:Era> <http://www.w3.org/2000/01/rdf-schema#label> "Era"@en .
 <http://commons.dbpedia.org/resource/Template:Es> <http://www.w3.org/2000/01/rdf-schema#label> "Es"@en .
+<http://commons.dbpedia.org/resource/Template:Expiry> <http://www.w3.org/2000/01/rdf-schema#label> "Expiry"@en .
 <http://commons.dbpedia.org/resource/Template:Extracted> <http://www.w3.org/2000/01/rdf-schema#label> "Extracted"@en .
 <http://commons.dbpedia.org/resource/Template:ExtractedFrom> <http://www.w3.org/2000/01/rdf-schema#label> "ExtractedFrom"@en .
 <http://commons.dbpedia.org/resource/Template:Extracted_from> <http://www.w3.org/2000/01/rdf-schema#label> "Extracted from"@en .
 <http://commons.dbpedia.org/resource/Template:Extracted_image> <http://www.w3.org/2000/01/rdf-schema#label> "Extracted image"@en .
 <http://commons.dbpedia.org/resource/Template:F> <http://www.w3.org/2000/01/rdf-schema#label> "F"@en .
 <http://commons.dbpedia.org/resource/Template:FIAV> <http://www.w3.org/2000/01/rdf-schema#label> "FIAV"@en .
+<http://commons.dbpedia.org/resource/Template:FNO> <http://www.w3.org/2000/01/rdf-schema#label> "FNO"@en .
+<http://commons.dbpedia.org/resource/Template:FPCR/> <http://www.w3.org/2000/01/rdf-schema#label> "FPCR/"@en .
 <http://commons.dbpedia.org/resource/Template:Fa> <http://www.w3.org/2000/01/rdf-schema#label> "Fa"@en .
 <http://commons.dbpedia.org/resource/Template:Fallback> <http://www.w3.org/2000/01/rdf-schema#label> "Fallback"@en .
 <http://commons.dbpedia.org/resource/Template:Fi> <http://www.w3.org/2000/01/rdf-schema#label> "Fi"@en .
 <http://commons.dbpedia.org/resource/Template:File_extension> <http://www.w3.org/2000/01/rdf-schema#label> "File extension"@en .
+<http://commons.dbpedia.org/resource/Template:File_namespace_only> <http://www.w3.org/2000/01/rdf-schema#label> "File namespace only"@en .
 <http://commons.dbpedia.org/resource/Template:Filename> <http://www.w3.org/2000/01/rdf-schema#label> "Filename"@en .
 <http://commons.dbpedia.org/resource/Template:Flag> <http://www.w3.org/2000/01/rdf-schema#label> "Flag"@en .
 <http://commons.dbpedia.org/resource/Template:FlagCountryYes> <http://www.w3.org/2000/01/rdf-schema#label> "FlagCountryYes"@en .
+<http://commons.dbpedia.org/resource/Template:Flickr> <http://www.w3.org/2000/01/rdf-schema#label> "Flickr"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/en> <http://www.w3.org/2000/01/rdf-schema#label> "Flickrreview/en"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Flickrreview/layout"@en .
 <http://commons.dbpedia.org/resource/Template:Flickrreview/template> <http://www.w3.org/2000/01/rdf-schema#label> "Flickrreview/template"@en .
@@ -1993,9 +2025,12 @@
 <http://commons.dbpedia.org/resource/Template:Florence> <http://www.w3.org/2000/01/rdf-schema#label> "Florence"@en .
 <http://commons.dbpedia.org/resource/Template:Florida> <http://www.w3.org/2000/01/rdf-schema#label> "Florida"@en .
 <http://commons.dbpedia.org/resource/Template:Fr> <http://www.w3.org/2000/01/rdf-schema#label> "Fr"@en .
+<http://commons.dbpedia.org/resource/Template:From_loc> <http://www.w3.org/2000/01/rdf-schema#label> "From loc"@en .
 <http://commons.dbpedia.org/resource/Template:GFDL> <http://www.w3.org/2000/01/rdf-schema#label> "GFDL"@en .
 <http://commons.dbpedia.org/resource/Template:GND> <http://www.w3.org/2000/01/rdf-schema#label> "GND"@en .
 <http://commons.dbpedia.org/resource/Template:GNU-Layout> <http://www.w3.org/2000/01/rdf-schema#label> "GNU-Layout"@en .
+<http://commons.dbpedia.org/resource/Template:GWArt> <http://www.w3.org/2000/01/rdf-schema#label> "GWArt"@en .
+<http://commons.dbpedia.org/resource/Template:GWArtOld> <http://www.w3.org/2000/01/rdf-schema#label> "GWArtOld"@en .
 <http://commons.dbpedia.org/resource/Template:Ga> <http://www.w3.org/2000/01/rdf-schema#label> "Ga"@en .
 <http://commons.dbpedia.org/resource/Template:Gd> <http://www.w3.org/2000/01/rdf-schema#label> "Gd"@en .
 <http://commons.dbpedia.org/resource/Template:GetFallback2> <http://www.w3.org/2000/01/rdf-schema#label> "GetFallback2"@en .
@@ -2008,6 +2043,7 @@
 <http://commons.dbpedia.org/resource/Template:Heavily_used_template/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Heavily used template/layout"@en .
 <http://commons.dbpedia.org/resource/Template:Heavily_used_template> <http://www.w3.org/2000/01/rdf-schema#label> "Heavily used template"@en .
 <http://commons.dbpedia.org/resource/Template:Hi> <http://www.w3.org/2000/01/rdf-schema#label> "Hi"@en .
+<http://commons.dbpedia.org/resource/Template:Hidden> <http://www.w3.org/2000/01/rdf-schema#label> "Hidden"@en .
 <http://commons.dbpedia.org/resource/Template:Hiddencat> <http://www.w3.org/2000/01/rdf-schema#label> "Hiddencat"@en .
 <http://commons.dbpedia.org/resource/Template:Horizontal_stripes> <http://www.w3.org/2000/01/rdf-schema#label> "Horizontal stripes"@en .
 <http://commons.dbpedia.org/resource/Template:I18n/Credit_line> <http://www.w3.org/2000/01/rdf-schema#label> "I18n/Credit line"@en .
@@ -2037,7 +2073,6 @@
 <http://commons.dbpedia.org/resource/Template:Infobar-Layout> <http://www.w3.org/2000/01/rdf-schema#label> "Infobar-Layout"@en .
 <http://commons.dbpedia.org/resource/Template:Infobox_template_tag> <http://www.w3.org/2000/01/rdf-schema#label> "Infobox template tag"@en .
 <http://commons.dbpedia.org/resource/Template:Information/author_processing> <http://www.w3.org/2000/01/rdf-schema#label> "Information/author processing"@en .
-<http://commons.dbpedia.org/resource/Template:Information/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Information/doc"@en .
 <http://commons.dbpedia.org/resource/Template:Information> <http://www.w3.org/2000/01/rdf-schema#label> "Information"@en .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Information Art of Life/doc"@en .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life> <http://www.w3.org/2000/01/rdf-schema#label> "Information Art of Life"@en .
@@ -2064,8 +2099,10 @@
 <http://commons.dbpedia.org/resource/Template:IsNum> <http://www.w3.org/2000/01/rdf-schema#label> "IsNum"@en .
 <http://commons.dbpedia.org/resource/Template:It> <http://www.w3.org/2000/01/rdf-schema#label> "It"@en .
 <http://commons.dbpedia.org/resource/Template:Ja> <http://www.w3.org/2000/01/rdf-schema#label> "Ja"@en .
+<http://commons.dbpedia.org/resource/Template:Journal_reference> <http://www.w3.org/2000/01/rdf-schema#label> "Journal reference"@en .
 <http://commons.dbpedia.org/resource/Template:Kiev> <http://www.w3.org/2000/01/rdf-schema#label> "Kiev"@en .
 <http://commons.dbpedia.org/resource/Template:Kn> <http://www.w3.org/2000/01/rdf-schema#label> "Kn"@en .
+<http://commons.dbpedia.org/resource/Template:Ko> <http://www.w3.org/2000/01/rdf-schema#label> "Ko"@en .
 <http://commons.dbpedia.org/resource/Template:Kw> <http://www.w3.org/2000/01/rdf-schema#label> "Kw"@en .
 <http://commons.dbpedia.org/resource/Template:LCCN> <http://www.w3.org/2000/01/rdf-schema#label> "LCCN"@en .
 <http://commons.dbpedia.org/resource/Template:La> <http://www.w3.org/2000/01/rdf-schema#label> "La"@en .
@@ -2079,12 +2116,18 @@
 <http://commons.dbpedia.org/resource/Template:LargeImage/en> <http://www.w3.org/2000/01/rdf-schema#label> "LargeImage/en"@en .
 <http://commons.dbpedia.org/resource/Template:LargeImage/layout> <http://www.w3.org/2000/01/rdf-schema#label> "LargeImage/layout"@en .
 <http://commons.dbpedia.org/resource/Template:LargeImage> <http://www.w3.org/2000/01/rdf-schema#label> "LargeImage"@en .
+<http://commons.dbpedia.org/resource/Template:Layout> <http://www.w3.org/2000/01/rdf-schema#label> "Layout"@en .
 <http://commons.dbpedia.org/resource/Template:LayoutTemplateArgs> <http://www.w3.org/2000/01/rdf-schema#label> "LayoutTemplateArgs"@en .
 <http://commons.dbpedia.org/resource/Template:Leipzig> <http://www.w3.org/2000/01/rdf-schema#label> "Leipzig"@en .
 <http://commons.dbpedia.org/resource/Template:License_migration> <http://www.w3.org/2000/01/rdf-schema#label> "License migration"@en .
+<http://commons.dbpedia.org/resource/Template:License_migration_complete> <http://www.w3.org/2000/01/rdf-schema#label> "License migration complete"@en .
 <http://commons.dbpedia.org/resource/Template:License_migration_is_redundant> <http://www.w3.org/2000/01/rdf-schema#label> "License migration is redundant"@en .
 <http://commons.dbpedia.org/resource/Template:License_migration_is_redundant_multiple> <http://www.w3.org/2000/01/rdf-schema#label> "License migration is redundant multiple"@en .
 <http://commons.dbpedia.org/resource/Template:License_template_tag> <http://www.w3.org/2000/01/rdf-schema#label> "License template tag"@en .
+<http://commons.dbpedia.org/resource/Template:Licensed-PD-Art-two/en> <http://www.w3.org/2000/01/rdf-schema#label> "Licensed-PD-Art-two/en"@en .
+<http://commons.dbpedia.org/resource/Template:Licensed-PD-Art-two/lang> <http://www.w3.org/2000/01/rdf-schema#label> "Licensed-PD-Art-two/lang"@en .
+<http://commons.dbpedia.org/resource/Template:Licensed-PD-Art-two/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Licensed-PD-Art-two/layout"@en .
+<http://commons.dbpedia.org/resource/Template:Licensed-PD-Art-two> <http://www.w3.org/2000/01/rdf-schema#label> "Licensed-PD-Art-two"@en .
 <http://commons.dbpedia.org/resource/Template:Lifetime_date> <http://www.w3.org/2000/01/rdf-schema#label> "Lifetime date"@en .
 <http://commons.dbpedia.org/resource/Template:Lisbon> <http://www.w3.org/2000/01/rdf-schema#label> "Lisbon"@en .
 <http://commons.dbpedia.org/resource/Template:Location/attribute_documentation> <http://www.w3.org/2000/01/rdf-schema#label> "Location/attribute documentation"@en .
@@ -2128,11 +2171,13 @@
 <http://commons.dbpedia.org/resource/Template:Nationality/lang> <http://www.w3.org/2000/01/rdf-schema#label> "Nationality/lang"@en .
 <http://commons.dbpedia.org/resource/Template:Nationality/nl> <http://www.w3.org/2000/01/rdf-schema#label> "Nationality/nl"@en .
 <http://commons.dbpedia.org/resource/Template:Nationality> <http://www.w3.org/2000/01/rdf-schema#label> "Nationality"@en .
+<http://commons.dbpedia.org/resource/Template:Nb> <http://www.w3.org/2000/01/rdf-schema#label> "Nb"@en .
 <http://commons.dbpedia.org/resource/Template:Nds> <http://www.w3.org/2000/01/rdf-schema#label> "Nds"@en .
 <http://commons.dbpedia.org/resource/Template:Ne> <http://www.w3.org/2000/01/rdf-schema#label> "Ne"@en .
 <http://commons.dbpedia.org/resource/Template:New> <http://www.w3.org/2000/01/rdf-schema#label> "New"@en .
 <http://commons.dbpedia.org/resource/Template:New_York_City> <http://www.w3.org/2000/01/rdf-schema#label> "New York City"@en .
 <http://commons.dbpedia.org/resource/Template:Nl> <http://www.w3.org/2000/01/rdf-schema#label> "Nl"@en .
+<http://commons.dbpedia.org/resource/Template:Nn> <http://www.w3.org/2000/01/rdf-schema#label> "Nn"@en .
 <http://commons.dbpedia.org/resource/Template:NoImageNotes> <http://www.w3.org/2000/01/rdf-schema#label> "NoImageNotes"@en .
 <http://commons.dbpedia.org/resource/Template:Non-copyright_restriction> <http://www.w3.org/2000/01/rdf-schema#label> "Non-copyright restriction"@en .
 <http://commons.dbpedia.org/resource/Template:Not-PD-1923-min-year> <http://www.w3.org/2000/01/rdf-schema#label> "Not-PD-1923-min-year"@en .
@@ -2203,6 +2248,10 @@
 <http://commons.dbpedia.org/resource/Template:PD-because/en> <http://www.w3.org/2000/01/rdf-schema#label> "PD-because/en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-because/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PD-because/layout"@en .
 <http://commons.dbpedia.org/resource/Template:PD-because> <http://www.w3.org/2000/01/rdf-schema#label> "PD-because"@en .
+<http://commons.dbpedia.org/resource/Template:PD-chem/en> <http://www.w3.org/2000/01/rdf-schema#label> "PD-chem/en"@en .
+<http://commons.dbpedia.org/resource/Template:PD-chem/lang> <http://www.w3.org/2000/01/rdf-schema#label> "PD-chem/lang"@en .
+<http://commons.dbpedia.org/resource/Template:PD-chem/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PD-chem/layout"@en .
+<http://commons.dbpedia.org/resource/Template:PD-chem> <http://www.w3.org/2000/01/rdf-schema#label> "PD-chem"@en .
 <http://commons.dbpedia.org/resource/Template:PD-generic/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PD-generic/layout"@en .
 <http://commons.dbpedia.org/resource/Template:PD-ineligible/en> <http://www.w3.org/2000/01/rdf-schema#label> "PD-ineligible/en"@en .
 <http://commons.dbpedia.org/resource/Template:PD-ineligible/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PD-ineligible/layout"@en .
@@ -2237,6 +2286,7 @@
 <http://commons.dbpedia.org/resource/Template:PLOS/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PLOS/layout"@en .
 <http://commons.dbpedia.org/resource/Template:PLOS> <http://www.w3.org/2000/01/rdf-schema#label> "PLOS"@en .
 <http://commons.dbpedia.org/resource/Template:PLoS/layout> <http://www.w3.org/2000/01/rdf-schema#label> "PLoS/layout"@en .
+<http://commons.dbpedia.org/resource/Template:POTW_Indonesia> <http://www.w3.org/2000/01/rdf-schema#label> "POTW Indonesia"@en .
 <http://commons.dbpedia.org/resource/Template:Pa> <http://www.w3.org/2000/01/rdf-schema#label> "Pa"@en .
 <http://commons.dbpedia.org/resource/Template:Paris> <http://www.w3.org/2000/01/rdf-schema#label> "Paris"@en .
 <http://commons.dbpedia.org/resource/Template:ParmAnd3> <http://www.w3.org/2000/01/rdf-schema#label> "ParmAnd3"@en .
@@ -2245,10 +2295,37 @@
 <http://commons.dbpedia.org/resource/Template:Partnership-Layout> <http://www.w3.org/2000/01/rdf-schema#label> "Partnership-Layout"@en .
 <http://commons.dbpedia.org/resource/Template:Pd-1923> <http://www.w3.org/2000/01/rdf-schema#label> "Pd-1923"@en .
 <http://commons.dbpedia.org/resource/Template:Pi> <http://www.w3.org/2000/01/rdf-schema#label> "Pi"@en .
+<http://commons.dbpedia.org/resource/Template:Picture_of_the_day/desc> <http://www.w3.org/2000/01/rdf-schema#label> "Picture of the day/desc"@en .
+<http://commons.dbpedia.org/resource/Template:Picture_of_the_day/en> <http://www.w3.org/2000/01/rdf-schema#label> "Picture of the day/en"@en .
+<http://commons.dbpedia.org/resource/Template:Picture_of_the_day/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Picture of the day/layout"@en .
+<http://commons.dbpedia.org/resource/Template:Picture_of_the_day> <http://www.w3.org/2000/01/rdf-schema#label> "Picture of the day"@en .
+<http://commons.dbpedia.org/resource/Template:Pl> <http://www.w3.org/2000/01/rdf-schema#label> "Pl"@en .
 <http://commons.dbpedia.org/resource/Template:Please-do-not-overwrite-original-files> <http://www.w3.org/2000/01/rdf-schema#label> "Please-do-not-overwrite-original-files"@en .
 <http://commons.dbpedia.org/resource/Template:Pnb> <http://www.w3.org/2000/01/rdf-schema#label> "Pnb"@en .
 <http://commons.dbpedia.org/resource/Template:Position> <http://www.w3.org/2000/01/rdf-schema#label> "Position"@en .
 <http://commons.dbpedia.org/resource/Template:Position_parameter> <http://www.w3.org/2000/01/rdf-schema#label> "Position parameter"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(ca)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (ca)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(cs)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (cs)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(da)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (da)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(de)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (de)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(en)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (en)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(eo)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (eo)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(es)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (es)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(fi)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (fi)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(fr)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (fr)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(it)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (it)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(ja)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (ja)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(ko)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (ko)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(nb)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (nb)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(nn)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (nn)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(pl)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (pl)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(pt)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (pt)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(ro)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (ro)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(sl)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (sl)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(vi)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (vi)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(zh-hans)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (zh-hans)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd/2004-12-05_(zh-hant)> <http://www.w3.org/2000/01/rdf-schema#label> "Potd/2004-12-05 (zh-hant)"@en .
+<http://commons.dbpedia.org/resource/Template:Potd_description> <http://www.w3.org/2000/01/rdf-schema#label> "Potd description"@en .
 <http://commons.dbpedia.org/resource/Template:Pre2> <http://www.w3.org/2000/01/rdf-schema#label> "Pre2"@en .
 <http://commons.dbpedia.org/resource/Template:Ps> <http://www.w3.org/2000/01/rdf-schema#label> "Ps"@en .
 <http://commons.dbpedia.org/resource/Template:Pt> <http://www.w3.org/2000/01/rdf-schema#label> "Pt"@en .
@@ -2260,8 +2337,10 @@
 <http://commons.dbpedia.org/resource/Template:Retouched_picture/lang> <http://www.w3.org/2000/01/rdf-schema#label> "Retouched picture/lang"@en .
 <http://commons.dbpedia.org/resource/Template:Retouched_picture/layout> <http://www.w3.org/2000/01/rdf-schema#label> "Retouched picture/layout"@en .
 <http://commons.dbpedia.org/resource/Template:Retouched_picture> <http://www.w3.org/2000/01/rdf-schema#label> "Retouched picture"@en .
+<http://commons.dbpedia.org/resource/Template:Ro> <http://www.w3.org/2000/01/rdf-schema#label> "Ro"@en .
 <http://commons.dbpedia.org/resource/Template:Rotterdam> <http://www.w3.org/2000/01/rdf-schema#label> "Rotterdam"@en .
 <http://commons.dbpedia.org/resource/Template:Ru> <http://www.w3.org/2000/01/rdf-schema#label> "Ru"@en .
+<http://commons.dbpedia.org/resource/Template:SVG> <http://www.w3.org/2000/01/rdf-schema#label> "SVG"@en .
 <http://commons.dbpedia.org/resource/Template:Sa> <http://www.w3.org/2000/01/rdf-schema#label> "Sa"@en .
 <http://commons.dbpedia.org/resource/Template:Sco> <http://www.w3.org/2000/01/rdf-schema#label> "Sco"@en .
 <http://commons.dbpedia.org/resource/Template:Self/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Self/doc"@en .
@@ -2309,8 +2388,10 @@
 <http://commons.dbpedia.org/resource/Template:Url> <http://www.w3.org/2000/01/rdf-schema#label> "Url"@en .
 <http://commons.dbpedia.org/resource/Template:VIAF> <http://www.w3.org/2000/01/rdf-schema#label> "VIAF"@en .
 <http://commons.dbpedia.org/resource/Template:VIS> <http://www.w3.org/2000/01/rdf-schema#label> "VIS"@en .
+<http://commons.dbpedia.org/resource/Template:ValidSVG> <http://www.w3.org/2000/01/rdf-schema#label> "ValidSVG"@en .
 <http://commons.dbpedia.org/resource/Template:Valid_SVG/en> <http://www.w3.org/2000/01/rdf-schema#label> "Valid SVG/en"@en .
 <http://commons.dbpedia.org/resource/Template:Valid_SVG> <http://www.w3.org/2000/01/rdf-schema#label> "Valid SVG"@en .
+<http://commons.dbpedia.org/resource/Template:Vi> <http://www.w3.org/2000/01/rdf-schema#label> "Vi"@en .
 <http://commons.dbpedia.org/resource/Template:Vienna> <http://www.w3.org/2000/01/rdf-schema#label> "Vienna"@en .
 <http://commons.dbpedia.org/resource/Template:W> <http://www.w3.org/2000/01/rdf-schema#label> "W"@en .
 <http://commons.dbpedia.org/resource/Template:Wa> <http://www.w3.org/2000/01/rdf-schema#label> "Wa"@en .
