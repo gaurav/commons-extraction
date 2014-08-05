@@ -1685,6 +1685,7 @@
 <http://commons.wikipedia.org/wiki/Infobar-Layout> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Rillke> <http://commons.wikimedia.org/wiki/Template:Infobar-Layout?oldid=129985197> .
 <http://commons.wikipedia.org/wiki/Infobox_template_tag> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Jarekt> <http://commons.wikimedia.org/wiki/Template:Infobox_template_tag?oldid=120382322> .
 <http://commons.wikipedia.org/wiki/Information/author_processing> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Foroa> <http://commons.wikimedia.org/wiki/Template:Information/author_processing?oldid=79068093> .
+<http://commons.wikipedia.org/wiki/Information/doc> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Jarekt> <http://commons.wikimedia.org/wiki/Template:Information/doc?oldid=112241992> .
 <http://commons.wikipedia.org/wiki/Information> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Rillke> <http://commons.wikimedia.org/wiki/Template:Information?oldid=129986273> .
 <http://commons.wikipedia.org/wiki/Information_Art_of_Life/doc> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/FrescoBot> <http://commons.wikimedia.org/wiki/Template:Information_Art_of_Life/doc?oldid=80883333> .
 <http://commons.wikipedia.org/wiki/Information_Art_of_Life> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/TintoMeches> <http://commons.wikimedia.org/wiki/Template:Information_Art_of_Life?oldid=95452197> .
@@ -3937,6 +3938,7 @@
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:ISOdate/time3?oldid=126530461> .
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:ISOyear?oldid=92545439> .
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:Infobox_template_tag?oldid=120382322> .
+<http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:Information/doc?oldid=112241992> .
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:Institution/coordinates?oldid=116183526> .
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:IsNum?oldid=48472171> .
 <http://dbpedia.org/contributor/Jarekt> <http://dbpedia.org/meta/contributorID> "164349"^^<http://www.w3.org/2001/XMLSchema#integer> <http://commons.wikimedia.org/wiki/Template:It?oldid=107829906> .
@@ -4046,6 +4048,7 @@
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:ISOdate/time3?oldid=126530461> .
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:ISOyear?oldid=92545439> .
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:Infobox_template_tag?oldid=120382322> .
+<http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:Information/doc?oldid=112241992> .
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:Institution/coordinates?oldid=116183526> .
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:IsNum?oldid=48472171> .
 <http://dbpedia.org/contributor/Jarekt> <http://www.w3.org/2000/01/rdf-schema#label> "Jarekt"^^<http://www.w3.org/2001/XMLSchema#string> <http://commons.wikimedia.org/wiki/Template:It?oldid=107829906> .

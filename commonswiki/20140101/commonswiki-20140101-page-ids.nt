@@ -2073,6 +2073,7 @@
 <http://commons.dbpedia.org/resource/Template:Infobar-Layout> <http://dbpedia.org/ontology/wikiPageID> "12551289"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Infobox_template_tag> <http://dbpedia.org/ontology/wikiPageID> "31916548"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Information/author_processing> <http://dbpedia.org/ontology/wikiPageID> "20558385"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/Template:Information/doc> <http://dbpedia.org/ontology/wikiPageID> "1688397"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Information> <http://dbpedia.org/ontology/wikiPageID> "576289"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life/doc> <http://dbpedia.org/ontology/wikiPageID> "20286811"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life> <http://dbpedia.org/ontology/wikiPageID> "20124006"^^<http://www.w3.org/2001/XMLSchema#integer> .

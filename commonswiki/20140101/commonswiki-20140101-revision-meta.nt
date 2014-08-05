@@ -1685,6 +1685,7 @@
 <http://commons.wikipedia.org/wiki/Infobar-Layout> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Rillke> .
 <http://commons.wikipedia.org/wiki/Infobox_template_tag> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Jarekt> .
 <http://commons.wikipedia.org/wiki/Information/author_processing> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Foroa> .
+<http://commons.wikipedia.org/wiki/Information/doc> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Jarekt> .
 <http://commons.wikipedia.org/wiki/Information> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Rillke> .
 <http://commons.wikipedia.org/wiki/Information_Art_of_Life/doc> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/FrescoBot> .
 <http://commons.wikipedia.org/wiki/Information_Art_of_Life> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/TintoMeches> .

@@ -2073,6 +2073,7 @@
 <http://commons.dbpedia.org/resource/Template:Infobar-Layout> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Infobar-Layout> .
 <http://commons.dbpedia.org/resource/Template:Infobox_template_tag> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Infobox_template_tag> .
 <http://commons.dbpedia.org/resource/Template:Information/author_processing> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Information/author_processing> .
+<http://commons.dbpedia.org/resource/Template:Information/doc> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Information/doc> .
 <http://commons.dbpedia.org/resource/Template:Information> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Information> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life/doc> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Information_Art_of_Life/doc> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://commons.wikimedia.org/wiki/Template:Information_Art_of_Life> .

@@ -2073,6 +2073,7 @@
 <http://commons.dbpedia.org/resource/Template:Infobar-Layout> <http://dbpedia.org/ontology/wikiPageOutDegree> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://commons.dbpedia.org/resource/Template:Infobox_template_tag> <http://dbpedia.org/ontology/wikiPageOutDegree> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://commons.dbpedia.org/resource/Template:Information/author_processing> <http://dbpedia.org/ontology/wikiPageOutDegree> "4"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://commons.dbpedia.org/resource/Template:Information/doc> <http://dbpedia.org/ontology/wikiPageOutDegree> "27"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://commons.dbpedia.org/resource/Template:Information> <http://dbpedia.org/ontology/wikiPageOutDegree> "4"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life/doc> <http://dbpedia.org/ontology/wikiPageOutDegree> "10"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life> <http://dbpedia.org/ontology/wikiPageOutDegree> "15"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

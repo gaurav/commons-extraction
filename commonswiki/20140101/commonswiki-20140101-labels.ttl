@@ -2073,6 +2073,7 @@
 <http://commons.dbpedia.org/resource/Template:Infobar-Layout> <http://www.w3.org/2000/01/rdf-schema#label> "Infobar-Layout"@en .
 <http://commons.dbpedia.org/resource/Template:Infobox_template_tag> <http://www.w3.org/2000/01/rdf-schema#label> "Infobox template tag"@en .
 <http://commons.dbpedia.org/resource/Template:Information/author_processing> <http://www.w3.org/2000/01/rdf-schema#label> "Information/author processing"@en .
+<http://commons.dbpedia.org/resource/Template:Information/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Information/doc"@en .
 <http://commons.dbpedia.org/resource/Template:Information> <http://www.w3.org/2000/01/rdf-schema#label> "Information"@en .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life/doc> <http://www.w3.org/2000/01/rdf-schema#label> "Information Art of Life/doc"@en .
 <http://commons.dbpedia.org/resource/Template:Information_Art_of_Life> <http://www.w3.org/2000/01/rdf-schema#label> "Information Art of Life"@en .
