@@ -18,7 +18,7 @@
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/ulanId> "500016261"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://dbpedia.org/ontology/viafId> "36920855"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Edward_Lear> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/alias> "Francesco Bartolozzi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/alias> "Francesco Bartolozzi"@en .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/birthDate> "1727-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/bnfId> "cb149544967"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Francesco_Bartolozzi> <http://dbpedia.org/ontology/deathDate> "1815-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -38,7 +38,7 @@
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/lccnId> "n/79/125882"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://dbpedia.org/ontology/viafId> "77066171"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Heinrich_Gustav_Reichenbach> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/alias> "Henrik Gronvold"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/alias> "Henrik Gronvold"@en .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/isniId> "0000000082831721"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/lccnId> "nr/2004/24238"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Gr\u00F6nvold> <http://dbpedia.org/ontology/selibrId> "346029"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -151,6 +151,11 @@
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://dbpedia.org/ontology/viafId> "3865142"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:William_Lovell_Finley> <http://xmlns.com/foaf/0.1/name> "William Lovell Finley"@en .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/cites> "10.1029/2003GL017814"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/cites> "10.1029/2003RG000143"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/cites> "10.1029/2004GL019781"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/cites> "10.1038/nature03265"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/cites> "10.1126/science.1107046"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/title> "10.1029/2003GL017814"@en .
 <http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/title> "10.1029/2003RG000143"@en .
 <http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/title> "10.1029/2004GL019781"@en .
@@ -9910,12 +9915,10 @@
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Category:Isognathus scyron"@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Plate CCCI"@en .
 <http://commons.dbpedia.org/resource/File:Isognathus_scyron.JPG> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
-<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "528730"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/identifiedBy> "111-B-4608"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg> <http://dbpedia.org/ontology/title> "John James Audubon"@en .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg__PD-USGov__1> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.jpg__PD-USGov__1> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
-<http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "528730"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/identifiedBy> "111-B-4608"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif> <http://dbpedia.org/ontology/title> "John James Audubon"@en .
 <http://commons.dbpedia.org/resource/File:John_James_Audubon_-_NARA_-_528730.tif__PD-USGov__1> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -10723,7 +10726,6 @@
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/description> ":II, 8-12. Eulophia warburgiana  (Unplaced Name)"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Pholidota_ventricosa_(as_Pholidota_sesquitorta)_-_Eulophia_warburgiana_-_Xenia_3_pl_266.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
-<http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://dbpedia.org/ontology/hasNationalArchivesIdentifier> "200330"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif> <http://dbpedia.org/ontology/title> "Photograph of President Truman at the White House accepting ten paintings by John J. Audubon, a gift to the United States from Australian philanthropist E. J. Hallstrom."@en .
 <http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif__PD-USGov__1> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Photograph_of_President_Truman_at_the_White_House_accepting_ten_paintings_by_John_J._Audubon,_a_gift_to_the_United..._-_NARA_-_200330.tif__PD-USGov__1> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
