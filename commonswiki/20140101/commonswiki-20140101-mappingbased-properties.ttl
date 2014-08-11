@@ -1,3 +1,10 @@
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/bnfId> "cb14062245z"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/individualisedGnd> "128901691"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/isniId> "0000000080989517"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/lccnId> "n/86/860220"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/selibrId> "316837"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://dbpedia.org/ontology/viafId> "19804506"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Alain_Manesson_Mallet> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/birthDate> "1835-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/bnfId> "cb12954822h"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Daniel_Giraud_Elliot> <http://dbpedia.org/ontology/deathDate> "1915-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -45,6 +52,11 @@
 <http://commons.dbpedia.org/resource/Creator:Henrik_Grönvold> <http://dbpedia.org/ontology/ulanId> "500023963"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Grönvold> <http://dbpedia.org/ontology/viafId> "94927634"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Henrik_Grönvold> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Johann_Siebmacher> <http://dbpedia.org/ontology/alias> "Johann Ambrosius Siebmacher, Johann Sibmacher, Johann Syber"@en .
+<http://commons.dbpedia.org/resource/Creator:Johann_Siebmacher> <http://dbpedia.org/ontology/deathDate> "1611-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/Creator:Johann_Siebmacher> <http://dbpedia.org/ontology/identifiedBy> "Johann_Siebmacher"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Johann_Siebmacher> <http://dbpedia.org/ontology/individualisedGnd> "119546655"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Johann_Siebmacher> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:John_Curtis_(entomologist)> <http://dbpedia.org/ontology/birthDate> "1791-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:John_Curtis_(entomologist)> <http://dbpedia.org/ontology/deathDate> "1862-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:John_Curtis_(entomologist)> <http://dbpedia.org/ontology/individualisedGnd> "117666297"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -125,6 +137,11 @@
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://dbpedia.org/ontology/ulanId> "500004793"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://dbpedia.org/ontology/viafId> "39374836"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Paul_Cézanne> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Pete_Souza> <http://dbpedia.org/ontology/identifiedBy> "Pete_Souza"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Pete_Souza> <http://dbpedia.org/ontology/individualisedGnd> "1015599079"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Pete_Souza> <http://dbpedia.org/ontology/lccnId> "n/96/88871"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Pete_Souza> <http://dbpedia.org/ontology/viafId> "75586047"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/Creator:Pete_Souza> <http://xmlns.com/foaf/0.1/gender> "male"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/birthDate> "1849-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/bnfId> "cb12552015v"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Creator:Richard_Lydekker> <http://dbpedia.org/ontology/deathDate> "1915-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -163,6 +180,19 @@
 <http://commons.dbpedia.org/resource/File:1000_Year_Temperature_Comparison.png> <http://dbpedia.org/ontology/title> "10.1126/science.1107046"@en .
 <http://commons.dbpedia.org/resource/File:1stphaseofbattlemarathon.gif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:1stphaseofbattlemarathon.gif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:2007-10-04_Bern_06.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:2007-10-04_Bern_06.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:2007-10-04_Bern_06.jpg> <http://purl.org/dc/terms/created> "2007-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:2011_WFSC_3d_314_Audience1.JPG> <http://purl.org/dc/terms/created> "2011-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:2011_WFSC_3d_314_Audience1.JPG> <http://purl.org/dc/terms/description> "Vladimir Putin and other VIP guests and athletes at the 2011 World Figure Skating Championships"@en .
+<http://commons.dbpedia.org/resource/File:24mm-Fixed-focal-SLR-lens.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:24mm-Fixed-focal-SLR-lens.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:24mm-Fixed-focal-SLR-lens.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:24mm-Fixed-focal-SLR-lens.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:24mm-Fixed-focal-SLR-lens.jpg> <http://purl.org/dc/terms/description> "Objektiv s pevnou ohniskovou délkou Sigma 24mm F1.8 EX DG"@en .
+<http://commons.dbpedia.org/resource/File:50BMG_Rounds.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:50BMG_Rounds.jpg> <http://dbpedia.org/ontology/license> <https://commons.wikimedia.org/wiki/Template:Attribution> .
+<http://commons.dbpedia.org/resource/File:50BMG_Rounds.jpg> <http://purl.org/dc/terms/created> "2007-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:A_Look_Along_the_Continental_Divide.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:A_view_of_striations_on_Isabelle_Glacer_field.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -300,10 +330,15 @@
 <http://commons.dbpedia.org/resource/File:Ancistrorhynchus_metteniae_(as_Listrostachys_metteniae)_–_Dendrobium_stuposum_(as_Dendrobium_sphegidoglossum)_–_Xenia_3-270_(1900).jpg> <http://purl.org/dc/terms/description> ":II, 9-15. Ancistrorhynchus metteniae  (as syn. Listrostachys metteniae)"@en .
 <http://commons.dbpedia.org/resource/File:Ancistrorhynchus_metteniae_(as_Listrostachys_metteniae)_–_Dendrobium_stuposum_(as_Dendrobium_sphegidoglossum)_–_Xenia_3-270_(1900).jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Ancistrorhynchus_metteniae_(as_Listrostachys_metteniae)_–_Dendrobium_stuposum_(as_Dendrobium_sphegidoglossum)_–_Xenia_3-270_(1900).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:AngolaOverhead1998.png> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:AngolaOverhead1998.png> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:AngolaOverhead1998.png> <http://purl.org/dc/terms/created> "1998-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://purl.org/dc/terms/description> "Illustration of Angraecum scottianum (fig. I as syn. Angraecum reichenbachianum)"@en .
 <http://commons.dbpedia.org/resource/File:Angraecum_scottianum_(as_Angraecum_reichenbachianum)_-_Xenia_3-239_(1890).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://purl.org/dc/terms/created> "2012-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Antepipona_deflenda_-_2012-10-17.webm> <http://purl.org/dc/terms/description> "Id: http://www.forum.hymis.de/viewtopic.php?f=14&t=10453"@en .
 <http://commons.dbpedia.org/resource/File:Anthene_larydas.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -364,6 +399,8 @@
 <http://commons.dbpedia.org/resource/File:Arapaho_glacier_from_South_Rim,_1904.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Arapaho_henderson_027.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Arapaho_henderson_027.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Argo_Navis_Hevelius.jpg> <http://purl.org/dc/terms/description> "The :en:Argo Navis constellation from Uranographia by Johannes Hevelius."@en .
+<http://commons.dbpedia.org/resource/File:Argo_Navis_Hevelius.jpg> <http://purl.org/dc/terms/description> "The view is mirrored following the tradition of celestial globes, showing the celestial sphere in a view from \"ouside\""@en .
 <http://commons.dbpedia.org/resource/File:Ariadne_enotrea.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Ariadne_enotrea.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Ariadne_enotrea.JPG> <http://purl.org/dc/terms/description> "*A,  B: \"(Papilio) Enotrea\" ( = Ariadne enotrea (Cramer, [1779]), iconotype?), see Funet. Photo at Université Bordeaux 1."@en .
@@ -395,6 +432,9 @@
 <http://commons.dbpedia.org/resource/File:Atlides_halesus_CramerStoll.png> <http://purl.org/dc/terms/description> "[Papilio] Halesus (Cramer), \"Virginia\" = Atlides halesus halesus (Cramer, [1777])"@en .
 <http://commons.dbpedia.org/resource/File:Attacus_atlas_ill.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Attacus_atlas_ill.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Augusta_Treverorum_Stadtplan.png> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:Augusta_Treverorum_Stadtplan.png> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Augusta_Treverorum_Stadtplan.png> <http://purl.org/dc/terms/created> "2010-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Auriscalpium_vulgare.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Auriscalpium_vulgare.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Avifauna_italica,_primo_resoconto.djvu> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -402,6 +442,8 @@
 <http://commons.dbpedia.org/resource/File:Avifauna_italica,_primo_resoconto.djvu> <http://purl.org/dc/terms/created> "2012-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Banksia_marcescens_(Curtis's_Botanical_Magazine_Plate_2803).jpg> <http://dbpedia.org/ontology/author> <http://commons.dbpedia.org/resource/William_Jackson_Hooker> .
 <http://commons.dbpedia.org/resource/File:Banksia_marcescens_(Curtis's_Botanical_Magazine_Plate_2803).jpg> <http://purl.org/dc/terms/description> "This is an image of Plate 2803 from Volume LV of Curtis's Botanical Magazine, entitled Banksia marcescens. Marcescent Banksia. The plant depicted is now known as Banksia praemorsa (Cut-leaf Banksia)"@en .
+<http://commons.dbpedia.org/resource/File:Barack_Obama_participates_in_National_Medal_of_Honor_Day_3-25-09.JPG> <http://purl.org/dc/terms/created> "2009-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Barack_Obama_participates_in_National_Medal_of_Honor_Day_3-25-09.JPG> <http://purl.org/dc/terms/description> "With the Tomb of the Unknowns, Arlington National Cemetery and the city of Washington in the background, President Barack Obama concludes ceremonies Wednesday, March 25, 2009, at the National Medal of Honor Day at the military cemetery. Medal of Honor recipients applaud after laying a wreath at the tomb in Arlington, Va."@en .
 <http://commons.dbpedia.org/resource/File:Bassin_Houiller_Du_Gard.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Bassin_Houiller_Du_Gard.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Battus_belus_cramer.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -494,6 +536,11 @@
 <http://commons.dbpedia.org/resource/File:Biologia_marina.djvu> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Biologia_marina.djvu> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Biologia_marina.djvu> <http://purl.org/dc/terms/created> "2012-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Biomasse_Hackgut_Modulanlage.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Biomasse_Hackgut_Modulanlage.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Biomasse_Hackgut_Modulanlage.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Biomasse_Hackgut_Modulanlage.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Biomasse_Hackgut_Modulanlage.jpg> <http://purl.org/dc/terms/created> "2010-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Bletia_purpurata_(as_syn.Laelia_purpurata_var_praetexta)-Xenia_1-61_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Bletia_purpurata_(as_syn.Laelia_purpurata_var_praetexta)-Xenia_1-61_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Bletia_purpurata_(as_syn.Laelia_purpurata_var_praetexta)-Xenia_1-61_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of Bletia purpurata (as syn. Laelia purpurata var. praetexta)"@en .
@@ -502,6 +549,13 @@
 <http://commons.dbpedia.org/resource/File:Bollea_violacea_-_Batemannia_meleagris_-_Xenia_vol._1_pl._66_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Bollea_violacea_-_Batemannia_meleagris_-_Xenia_vol._1_pl._66_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of  Huntleya meleagris (as syn. Batemannia meleagris) and  Pescatoria violacea (as syn. Bollea violacea)"@en .
 <http://commons.dbpedia.org/resource/File:Bollea_violacea_-_Batemannia_meleagris_-_Xenia_vol._1_pl._66_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Boltbreaker_experiment.svg> <http://purl.org/dc/terms/created> "2007-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Botanical_Magazine_1581_Dryandra_floribunda.jpeg> <http://dbpedia.org/ontology/author> <http://commons.dbpedia.org/resource/Sydenham_Edwards> .
 <http://commons.dbpedia.org/resource/File:Botanical_Magazine_1581_Dryandra_floribunda.jpeg> <http://purl.org/dc/terms/description> "Dryandra."@en .
 <http://commons.dbpedia.org/resource/File:Botanical_Magazine_1581_Dryandra_floribunda.jpeg> <http://purl.org/dc/terms/description> "The image contains a species variety currently known as Banksia sessilis (Knight) Domin var. sessilis"@en .
@@ -574,8 +628,14 @@
 <http://commons.dbpedia.org/resource/File:Buta-1,3-diene_200.svg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Buta-1,3-diene_200.svg> <http://purl.org/dc/terms/created> "2014-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Buta-1,3-diene_200.svg__https://upload.wikimedia.org/wikipedia/commons/8/8__1> <http://dbpedia.org/ontology/inchi> "1S/C4H6/c1-3-4-2/h3-4H,1-2H2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://commons.dbpedia.org/resource/File:CUMNH_19301_Glandina_sp.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:CUMNH_19301_Glandina_sp.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:CUMNH_19301_Glandina_sp.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:CUMNH_Invertebrate_Teaching_Collections,_box_5.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:CUMNH_Invertebrate_Teaching_Collections,_box_5.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:CUMNH_Invertebrate_Teaching_Collections,_box_5.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:CUMNH_Teaching_Collection_221_Asteroidea.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:CUMNH_Teaching_Collection_221_Asteroidea.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:CUMNH_Teaching_Collection_221_Asteroidea.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Cacyparis_hylaria.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Cacyparis_hylaria.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
@@ -698,6 +758,8 @@
 <http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Cemophora_coccineaHolbrookV3P30A.jpg> <http://purl.org/dc/terms/description> "Scarlet Snake , Cemophora coccinea"@en .
+<http://commons.dbpedia.org/resource/File:Centurias_e_anti-Centurias._10-046.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Centurias_e_anti-Centurias._10-046.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Ceratostylis_gracilis_-_Ceratostylis_subulata_-_Ceratostylis_anceps_(as_C._gigas)_-_Xenia_2_pl_127.jpg> <http://purl.org/dc/terms/description> ": I, 1. Ceratostylis gracilis"@en .
@@ -804,6 +866,10 @@
 <http://commons.dbpedia.org/resource/File:Citheronia_phoronea_(Cramer,_1779)-(Phalaena_Phoronea)-male.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Citheronia_phoronea_(Cramer,_1779)-(Phalaena_Phoronea).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Citheronia_phoronea_(Cramer,_1779)-(Phalaena_Phoronea).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Claremont_aerial_view.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
+<http://commons.dbpedia.org/resource/File:Claremont_aerial_view.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Claremont_aerial_view.jpg> <http://purl.org/dc/terms/created> "2007-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Claremont_aerial_view.jpg> <http://purl.org/dc/terms/description> "View of the Claremont CBD from Table Mountain."@en .
 <http://commons.dbpedia.org/resource/File:Cleisocentron_pallens_(as_Saccolabium_trichromum)_-_Xenia_2_pl_139.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Cleisocentron_pallens_(as_Saccolabium_trichromum)_-_Xenia_2_pl_139.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Cleisocentron_pallens_(as_Saccolabium_trichromum)_-_Xenia_2_pl_139.jpg> <http://purl.org/dc/terms/description> "Illustration of Cleisocentron pallens (as syn. Saccolabium trichromum)"@en .
@@ -5201,6 +5267,8 @@
 <http://commons.dbpedia.org/resource/File:Cymothoe_egesta1.JPG> <http://purl.org/dc/terms/description> "Category:Cymothoe egesta"@en .
 <http://commons.dbpedia.org/resource/File:Cymothoe_egesta1.JPG> <http://purl.org/dc/terms/description> "Funet"@en .
 <http://commons.dbpedia.org/resource/File:Cymothoe_egesta1.JPG> <http://purl.org/dc/terms/description> "Plate XLVI"@en .
+<http://commons.dbpedia.org/resource/File:Cypraea_caurica.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Cypraea_caurica.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Cypraea_caurica.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Cypraea_caurica.jpg> <http://purl.org/dc/terms/description> "Cyp. caurica draecena Born. Port Lewis, Mauritius From University of Colorado Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/File:Cyrtochilum_ringens_(as_Odontoglossum_ringens)_-_Xenia_2_pl_159.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -5474,6 +5542,10 @@
 <http://commons.dbpedia.org/resource/File:Dipodium_squamatum_-_Dipodium_pictum_-_Xenia_2_pl_7.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
 <http://commons.dbpedia.org/resource/File:Disappearing_fall_tract_to_Arapaho_glacier,_1904.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Disappearing_fall_tract_to_Arapaho_glacier,_1904.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Djurgårdsbrunnsviken.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Djurgårdsbrunnsviken.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Djurgårdsbrunnsviken.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Djurgårdsbrunnsviken.jpg> <http://purl.org/dc/terms/description> "Djurgårdsbrunnsviken, december 2009"@en .
 <http://commons.dbpedia.org/resource/File:Dodo_and_other_extinct_birds_Plate_33.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Dodo_and_other_extinct_birds_Plate_33.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Donovan_-_Insects_of_China,_1838_-_pl_00_titlepage.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -5920,6 +5992,8 @@
 <http://commons.dbpedia.org/resource/File:Drakaea_irritabilis.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Drakaea_irritabilis.jpg> <http://purl.org/dc/terms/description> "Illustration of Arthrochilus irritabilis (as syn. Drakaea irritabilis)"@en .
 <http://commons.dbpedia.org/resource/File:Drakaea_irritabilis.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
+<http://commons.dbpedia.org/resource/File:Drenthe_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Drenthe_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Drenthe  in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:Dryandra_armata_(Curtis's_Botanical_Magazine_Plate_3236).jpg> <http://dbpedia.org/ontology/author> <http://commons.dbpedia.org/resource/William_Jackson_Hooker> .
 <http://commons.dbpedia.org/resource/File:Dryandra_armata_(Curtis's_Botanical_Magazine_Plate_3236).jpg> <http://purl.org/dc/terms/description> "#The figured plant is known to have been grown from seed sent by Charles Fraser. Fraser collected only in the vicinity of the Swan River, where only var. armata occurs. He did later take possession of some of William Baxter's collection, which conceivably could have included specimens of var. ignicida, but this happened too late for any seed to yield a flowering plant by 1833."@en .
 <http://commons.dbpedia.org/resource/File:Dryandra_armata_(Curtis's_Botanical_Magazine_Plate_3236).jpg> <http://purl.org/dc/terms/description> "#Var. armata has bright yellow inflorescences, as figured. The inflorescences of var. ignicida often have a pink tinge."@en .
@@ -6215,6 +6289,18 @@
 <http://commons.dbpedia.org/resource/File:Euselasia_orfita1.JPG> <http://purl.org/dc/terms/description> "Plate CXII"@en .
 <http://commons.dbpedia.org/resource/File:Evenus_regalis_CramerStoll.png> <http://purl.org/dc/terms/description> "[Papilio] Regalis (Cramer), \"Suriname\", Baron Rengers collection  = Evenus regalis (Cramer, [1775])"@en .
 <http://commons.dbpedia.org/resource/File:Extraction_of_location,_date_and_taxon_data_from_Field_Notes_of_Junius_Henderson_on_Wikisource.jpeg> <http://purl.org/dc/terms/created> "2012-07-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_01.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_01.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_01.jpg> <http://purl.org/dc/terms/description> "Каменные фигурки зверей фирмы Фаберже и русских ювелиров, его современников"@en .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_02.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_02.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_02.jpg> <http://purl.org/dc/terms/description> "Каменные фигурки зверей фирмы Фаберже и русских ювелиров, его современников"@en .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_03.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_03.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_03.jpg> <http://purl.org/dc/terms/description> "Каменные фигурки зверей фирмы Фаберже и русских ювелиров, его современников"@en .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_04.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_04.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Faberge_animals_04.jpg> <http://purl.org/dc/terms/description> "Каменные фигурки зверей фирмы Фаберже и русских ювелиров, его современников"@en .
 <http://commons.dbpedia.org/resource/File:Fair_Glacier_in_the_Indian_Peaks.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Fair_Glacier_in_the_Indian_Peaks.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Faunis_eumeus1.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -6274,6 +6360,8 @@
 <http://commons.dbpedia.org/resource/File:Five_guys_in_field_with_laundry.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Flag_of_India.svg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Flag_of_India.svg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Flevoland_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Flevoland_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Noord-Holland (North Holland) in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Flickingeria_xantholeuca_(as_Dendrobium_xantholeucum)-Fl._convexa_(as_Dendr._convexum)-Fl._fimbriata_(as_Dendr._flabellum)-Xenia_2-118_(1874).jpg> <http://purl.org/dc/terms/description> ":   I. Dendrobium xantholeucum,"@en .
@@ -9671,10 +9759,19 @@
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n9_w1150_(2).jpg> <http://purl.org/dc/terms/description> "Nova genera et species plantarum."@en .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n9_w1150_(2).jpg> <http://purl.org/dc/terms/description> "Vellosia plicata = Vellozia plicata = Nanuza plicata"@en .
 <http://commons.dbpedia.org/resource/File:Flickr_-_BioDivLibrary_-_n9_w1150_(2).jpg> <http://purl.org/dc/terms/description> "biodiversitylibrary.org/page/741937"@en .
+<http://commons.dbpedia.org/resource/File:Flickr_-_europeanpeoplesparty_-_%22I_Struggle,_I_Overcome%22_-_book_launch_(78).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
+<http://commons.dbpedia.org/resource/File:Flickr_-_europeanpeoplesparty_-_%22I_Struggle,_I_Overcome%22_-_book_launch_(78).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Flickr_-_europeanpeoplesparty_-_%22I_Struggle,_I_Overcome%22_-_book_launch_(78).jpg> <http://purl.org/dc/terms/created> "2009-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Flickr_-_europeanpeoplesparty_-_%22I_Struggle,_I_Overcome%22_-_book_launch_(78).jpg> <http://purl.org/dc/terms/description> "\"I Struggle, I Overcome\" - book launch"@en .
 <http://commons.dbpedia.org/resource/File:Flora_dispensing_Her_Favours_on_the_Earth.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
 <http://commons.dbpedia.org/resource/File:Flora_dispensing_Her_Favours_on_the_Earth.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Four_field_biologists_on_glacier.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Four_field_biologists_on_glacier.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:FramcrewOslo1896.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:FramcrewOslo1896.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:FramcrewOslo1896.jpg> <http://purl.org/dc/terms/created> "1896-08-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Friesland_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Friesland_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Fryslân (Frisia) in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:Front_Range_south_of_Arapaho_Peak.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Front_Range_south_of_Arapaho_Peak.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Frying_Up_Some_Grub_at_Camp.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -9683,6 +9780,7 @@
 <http://commons.dbpedia.org/resource/File:Full_sweep_of_the_Arapaho_Glacier.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Furelise.mid> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Furelise.mid> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Furutaka_1926-04-05_off_Nagasaki.jpg> <http://purl.org/dc/terms/created> "1926-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:G_antillana_copulatory.jpg> <http://purl.org/dc/terms/created> "2012-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -9698,6 +9796,11 @@
 <http://commons.dbpedia.org/resource/File:G_tigrina_pattern_3.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:G_tigrina_pattern_3.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:G_tigrina_pattern_3.jpg> <http://purl.org/dc/terms/created> "2012-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Gadmental,_2010_July_2.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Gadmental,_2010_July_2.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Gadmental,_2010_July_2.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Gadmental,_2010_July_2.JPG> <http://purl.org/dc/terms/created> "2010-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Gadmental,_2010_July_2.JPG> <http://purl.org/dc/terms/description> "A view to the Gadmental valley near Sustenpass in 2010 July."@en .
 <http://commons.dbpedia.org/resource/File:Galeola_nudifolia_as_syn._Erythrorchis_kuhlii_-_Xenia_2-119_(1874).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Galeola_nudifolia_as_syn._Erythrorchis_kuhlii_-_Xenia_2-119_(1874).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Galeola_nudifolia_as_syn._Erythrorchis_kuhlii_-_Xenia_2-119_(1874).jpg> <http://purl.org/dc/terms/description> "Illustration of Galeola nudifolia (as syn. Erythrorchis kuhlii)"@en .
@@ -9706,6 +9809,15 @@
 <http://commons.dbpedia.org/resource/File:Galeottia_ciliata_(as_Batemannia_beaumontii)_-_Xenia_3-215_(1881).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Galeottia_ciliata_(as_Batemannia_beaumontii)_-_Xenia_3-215_(1881).jpg> <http://purl.org/dc/terms/description> "Illustration of Galeottia ciliata (as syn. Batemannia beaumontii)"@en .
 <http://commons.dbpedia.org/resource/File:Galeottia_ciliata_(as_Batemannia_beaumontii)_-_Xenia_3-215_(1881).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://purl.org/dc/terms/created> "2007-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG> <http://purl.org/dc/terms/description> "Gedenktafel für die deutschen und österreichischen Flüchtlinge am Fremdenverkehrsbüro von Sanary-sur-Mer, ursprünglich enthüllt am 18. September 1987"@en .
 <http://commons.dbpedia.org/resource/File:Genitalia_of_Buliminus_(Achatinelloides)_socotorensis.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Genitalia_of_Buliminus_(Achatinelloides)_socotorensis.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Geoblasta_penicillata_(Chloraea_penicillata)_and_Bipinnula_gibertii_-_Xenia_3-229_(1890).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -9796,6 +9908,8 @@
 <http://commons.dbpedia.org/resource/File:Graphium_policenes1.JPG> <http://purl.org/dc/terms/description> "A, B:  \"(Papilio) Policenes\"  ( = Graphium policenes, iconotype?), see  Funet"@en .
 <http://commons.dbpedia.org/resource/File:Graphium_policenes1.JPG> <http://purl.org/dc/terms/description> "Category:Graphium policenes"@en .
 <http://commons.dbpedia.org/resource/File:Graphium_policenes1.JPG> <http://purl.org/dc/terms/description> "Plate XXXVI"@en .
+<http://commons.dbpedia.org/resource/File:Groningen_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Groningen_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Groningen in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:Grosourdya_zollingeri_(as_Dendrocolla_zollingeri)_-_Dendrocolla_gracilenta_-_Tuberolabium_rhopalorrhachis_(as_Dendrocolla_rhopalorrhachis)_-_Xenia_vol_1_pl_86_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Grosourdya_zollingeri_(as_Dendrocolla_zollingeri)_-_Dendrocolla_gracilenta_-_Tuberolabium_rhopalorrhachis_(as_Dendrocolla_rhopalorrhachis)_-_Xenia_vol_1_pl_86_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Grosourdya_zollingeri_(as_Dendrocolla_zollingeri)_-_Dendrocolla_gracilenta_-_Tuberolabium_rhopalorrhachis_(as_Dendrocolla_rhopalorrhachis)_-_Xenia_vol_1_pl_86_(1858).jpg> <http://purl.org/dc/terms/description> ": I. Grosourdya zollingeri (as syn. Dendrocolla zollingeri, in this plate misspelled Dentrocolla)"@en .
@@ -9825,6 +9939,11 @@
 <http://commons.dbpedia.org/resource/File:Habenaria_platyanthera_(as_Roeperocharis_p.)_-_Roeperocharis_bennettiana_-_Roeperocharis_urbaniana_-_Roeperocharis_alcicornis_-_Xenia_3_pl_258.jpg> <http://purl.org/dc/terms/description> ": IV, 13-15. Roeperocharis alcicornis"@en .
 <http://commons.dbpedia.org/resource/File:Habenaria_platyanthera_(as_Roeperocharis_p.)_-_Roeperocharis_bennettiana_-_Roeperocharis_urbaniana_-_Roeperocharis_alcicornis_-_Xenia_3_pl_258.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Habenaria_platyanthera_(as_Roeperocharis_p.)_-_Roeperocharis_bennettiana_-_Roeperocharis_urbaniana_-_Roeperocharis_alcicornis_-_Xenia_3_pl_258.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Hanauer_Altstadtmodell_003.JPG> <http://purl.org/dc/terms/created> "2010-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Hanauer_Altstadtmodell_003.JPG> <http://purl.org/dc/terms/description> "Altstädter Markt aus südöstlicher Richtung mit Blick auf die Tiefe Gasse und das ältesten Rathaus der Stadt an der Ecke Metzgerstraße"@en .
+<http://commons.dbpedia.org/resource/File:Hanauer_Altstadtmodell_003.JPG> <http://purl.org/dc/terms/description> "Ausschnitt aus dem Modell der Hanauer Altstadt von Günter Jacob. Das Modell zeigt im Maßstab von 1:87 den Zustand unmittelbar vor der totalen Vernichtung der Alt- und Neustadt Hanau am  19. März 1945."@en .
+<http://commons.dbpedia.org/resource/File:Hanauer_Altstadtmodell_027.JPG> <http://purl.org/dc/terms/created> "2010-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Hanauer_Altstadtmodell_027.JPG> <http://purl.org/dc/terms/description> "Ausschnitt aus dem Modell der Hanauer Altstadt von Günter Jacob. Das Modell zeigt im Maßstab von 1:87 den Zustand unmittelbar vor der totalen Vernichtung der Alt- und Neustadt Hanau am  19. März 1945."@en .
 <http://commons.dbpedia.org/resource/File:Helcia_sanguinolenta-Xenia_2-131_(1874).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Helcia_sanguinolenta-Xenia_2-131_(1874).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Helcia_sanguinolenta-Xenia_2-131_(1874).jpg> <http://purl.org/dc/terms/description> "Illustration of  Trichopilia sanguinolenta (as syn. Helcia sanguinolenta)"@en .
@@ -9892,6 +10011,20 @@
 <http://commons.dbpedia.org/resource/File:Illustration_of_Dendrobium_phalaenopsis.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Illustration_of_Ramphastos_dicolorus.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
 <http://commons.dbpedia.org/resource/File:Illustration_of_Ramphastos_dicolorus.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> ". die schwizer sind der untr(e)w knecht./"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> ". dise land alle gelich . hörent zum hus vo(n)"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> ". got der wirt es bald machen schlecht. amen"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> ". si hand die land in(n) wid(er) got e(h)r und"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "Ingeram-Codex der ehemaligen Bibliothek Cotta"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "baddenwiler"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "grund und boden hort zu dem hus von"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "lucern solotern underwalde(n) appenzell"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "osterich/"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "recht./"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "schaelkingen"@en .
+<http://commons.dbpedia.org/resource/File:Ingeram_Codex_082.jpg> <http://purl.org/dc/terms/description> "schwiz zug glaris vry (Uri)"@en .
 <http://commons.dbpedia.org/resource/File:International_Convention_for_Regulation_of_Whaling.tiff> <http://purl.org/dc/terms/created> "1946-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Isanthrene_melas.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
@@ -9972,6 +10105,7 @@
 <http://commons.dbpedia.org/resource/File:Kirinia_roxelana.png> <http://purl.org/dc/terms/description> "Plate CLXI"@en .
 <http://commons.dbpedia.org/resource/File:Kirinia_roxelana.png> <http://purl.org/dc/terms/description> "The Global Lepidoptera Names Index, NMH"@en .
 <http://commons.dbpedia.org/resource/File:Kirinia_roxelana.png> <http://purl.org/dc/terms/description> "or"@en .
+<http://commons.dbpedia.org/resource/File:Klippern_Obere_Alpe_Wurzachalpe.jpg> <http://purl.org/dc/terms/created> "2009-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Kreodanthus_loxoglottis_(as_Physurus_loxoglottis)_-_Microchilus_tridax_(as_Physurus_tridax)_-_Xenia_2_pl_178.jpg> <http://purl.org/dc/terms/description> ": I, 1.  Kreodanthus loxoglottis (as syn. Physurus loxoglottis)"@en .
@@ -9993,6 +10127,8 @@
 <http://commons.dbpedia.org/resource/File:Large_Crevasse_in_Glacier.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Late_September_View_of_Isabelle_Glacier.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Late_September_View_of_Isabelle_Glacier.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:LeadersNuclearSummit.JPG> <http://purl.org/dc/terms/created> "2010-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:LeadersNuclearSummit.JPG> <http://purl.org/dc/terms/description> "Washington (EUA) - Presidente Lula em foto oficial com participantes da Cúpula de Segurança Nuclear (Ricardo Stuckert/PR)"@en .
 <http://commons.dbpedia.org/resource/File:Lepanthes_biloba_(as_L._otostalix)_-_L._cyanoptera_-_L._capitana_(spelled_capitanea)_-_L._ruscifolia_-_L._erinacea_-_Xenia_vol_1_pl_49_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Lepanthes_biloba_(as_L._otostalix)_-_L._cyanoptera_-_L._capitana_(spelled_capitanea)_-_L._ruscifolia_-_L._erinacea_-_Xenia_vol_1_pl_49_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Lepanthes_biloba_(as_L._otostalix)_-_L._cyanoptera_-_L._capitana_(spelled_capitanea)_-_L._ruscifolia_-_L._erinacea_-_Xenia_vol_1_pl_49_(1858).jpg> <http://purl.org/dc/terms/description> ": I.  1-4.  Lepanthes biloba (as syn. Lepanthes otostalix)"@en .
@@ -10069,6 +10205,10 @@
 <http://commons.dbpedia.org/resource/File:Lophocampa_alsus.JPG> <http://purl.org/dc/terms/description> "Category:Lophocampa alsus"@en .
 <http://commons.dbpedia.org/resource/File:Lophocampa_alsus.JPG> <http://purl.org/dc/terms/description> "E: \"(Phalaena) Alsus\" ( = Lophocampa alsus, iconotype?), see Funet"@en .
 <http://commons.dbpedia.org/resource/File:Lophocampa_alsus.JPG> <http://purl.org/dc/terms/description> "Plate CXIII"@en .
+<http://commons.dbpedia.org/resource/File:Louvre_french_paintings_rooms_map.svg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Louvre_french_paintings_rooms_map.svg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Louvre_french_paintings_rooms_map.svg> <http://dbpedia.org/ontology/license> <https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3> .
+<http://commons.dbpedia.org/resource/File:Louvre_french_paintings_rooms_map.svg> <http://purl.org/dc/terms/created> "2011-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Luisia_amesiana_-_Xenia_3_pl_279.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Luisia_amesiana_-_Xenia_3_pl_279.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Luisia_amesiana_-_Xenia_3_pl_279.jpg> <http://purl.org/dc/terms/description> "Illustration of Luisia amesiana"@en .
@@ -10200,6 +10340,15 @@
 <http://commons.dbpedia.org/resource/File:Melinaea_ludovica1.JPG> <http://purl.org/dc/terms/description> "Plate XXXIX"@en .
 <http://commons.dbpedia.org/resource/File:Melting_glacier_on_a_cloudy_day.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Melting_glacier_on_a_cloudy_day.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Members_of_polish_wikiexpedition_2010_1.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Members_of_polish_wikiexpedition_2010_1.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Members_of_polish_wikiexpedition_2010_1.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Members_of_polish_wikiexpedition_2010_1.jpg> <http://purl.org/dc/terms/created> "2010-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Meran_Texelgruppe_SE.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Meran_Texelgruppe_SE.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Meran_Texelgruppe_SE.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Meran_Texelgruppe_SE.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Meran_Texelgruppe_SE.JPG> <http://purl.org/dc/terms/created> "2011-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Mesospinidium_warscewiczii_and_Cyrtochilum_rhodoneurum_(as_Neodryas_rhodoneura)_-_Xenia_vol_1_pl_16_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Mesospinidium_warscewiczii_and_Cyrtochilum_rhodoneurum_(as_Neodryas_rhodoneura)_-_Xenia_vol_1_pl_16_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Mesospinidium_warscewiczii_and_Cyrtochilum_rhodoneurum_(as_Neodryas_rhodoneura)_-_Xenia_vol_1_pl_16_(1858).jpg> <http://purl.org/dc/terms/description> ":  I  (1-11)  Mesospinidium warscewiczii"@en .
@@ -10237,6 +10386,15 @@
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_warszewiczii_(as_Odontoglossum_warszewiczii)_-_Xenia_vol_1_pl_81_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_warszewiczii_(as_Odontoglossum_warszewiczii)_-_Xenia_vol_1_pl_81_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of: Miltoniopsis warszewiczii (as syn. Odontoglossum warszewiczii, spelled by Reichenbach as Odontoglossum warscewiczii)"@en .
 <http://commons.dbpedia.org/resource/File:Miltoniopsis_warszewiczii_(as_Odontoglossum_warszewiczii)_-_Xenia_vol_1_pl_81_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Moerser_Kirmes_2009_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Moerser_Kirmes_2009_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Moerser_Kirmes_2009_Panorama.jpg> <http://purl.org/dc/terms/created> "2009-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Moerser_Kirmes_2009_Panorama.jpg> <http://purl.org/dc/terms/description> "Panorama der Moerser Kirmes auf dem Friedrich-Ebert-Platz"@en .
+<http://commons.dbpedia.org/resource/File:Municipalities_North_Holland_numbers.svg> <http://purl.org/dc/terms/created> "2006-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Municipalities_North_Holland_numbers.svg> <http://purl.org/dc/terms/description> "Map of municipalities in province of North Holland (NL), numbered"@en .
+<http://commons.dbpedia.org/resource/File:Musaeum_Hermeticum_1678_p_398_III._Clavis_AQ27.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Musaeum_Hermeticum_1678_p_398_III._Clavis_AQ27.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Musaeum_Hermeticum_1678_p_398_III._Clavis_AQ27.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Musophaga_variegata.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
 <http://commons.dbpedia.org/resource/File:Musophaga_variegata.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Mylon_maimon.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -10265,6 +10423,12 @@
 <http://commons.dbpedia.org/resource/File:Myrosmodes_nubigerum-Sigmatostalix_graminea-Ponerorchis_graminifolia_-_Xenia_1_fig_8_(1858).jpg> <http://purl.org/dc/terms/description> "Ponerorchis graminifolia (IV, bottom center)"@en .
 <http://commons.dbpedia.org/resource/File:Myrosmodes_nubigerum-Sigmatostalix_graminea-Ponerorchis_graminifolia_-_Xenia_1_fig_8_(1858).jpg> <http://purl.org/dc/terms/description> "Sigmatostalix graminea (III, top right)"@en .
 <http://commons.dbpedia.org/resource/File:Myrosmodes_nubigerum-Sigmatostalix_graminea-Ponerorchis_graminifolia_-_Xenia_1_fig_8_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:NZStewardIslandAreaMap.png> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
 <http://commons.dbpedia.org/resource/File:Natural_History_of_Sokotra_and_Abd-el-Kuri,_Plate_XXVI.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Natural_History_of_Sokotra_and_Abd-el-Kuri,_Plate_XXVI.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Nephelaphyllum_pulchrum-Nephelaphyllum_tenuiflorum_-_Xenia_1-88_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -10285,9 +10449,13 @@
 <http://commons.dbpedia.org/resource/File:Neuwiedia_zollingeri.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
 <http://commons.dbpedia.org/resource/File:Niobrara_shales_near_Arapaho_glacier,_Colorado,_1904.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Niobrara_shales_near_Arapaho_glacier,_Colorado,_1904.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Noord-Holland_position.svg> <http://purl.org/dc/terms/created> "2006-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Noord-Holland_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Noord-Holland (North Holland) in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:North_Arapaho,_September_2,_1922.tif> <http://purl.org/dc/terms/created> "1922-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:North_Fork_near_Arapaho_Glacier,_1904.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:North_Fork_near_Arapaho_Glacier,_1904.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Obama_and_Biden_await_updates_on_bin_Laden.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Obama_and_Biden_await_updates_on_bin_Laden.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Octomeria_grandiflora_(as_O._seegeriana)_and_Acianthera_glanduligera_(as_Pleurothallis_cryptoceras)_-_Xenia_vol._3_pl._257.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Octomeria_grandiflora_(as_O._seegeriana)_and_Acianthera_glanduligera_(as_Pleurothallis_cryptoceras)_-_Xenia_vol._3_pl._257.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Octomeria_grandiflora_(as_O._seegeriana)_and_Acianthera_glanduligera_(as_Pleurothallis_cryptoceras)_-_Xenia_vol._3_pl._257.jpg> <http://purl.org/dc/terms/description> ": I, 1-6. Octomeria grandiflora  (as syn. Octomeria seegeriana)"@en .
@@ -10335,6 +10503,8 @@
 <http://commons.dbpedia.org/resource/File:Oeoniella_polystachys_(as_Listrostachys_polystachys)_-_Xenia_3_pl_250.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Oeoniella_polystachys_(as_Listrostachys_polystachys)_-_Xenia_3_pl_250.jpg> <http://purl.org/dc/terms/description> "Illustration of Oeoniella polystachys"@en .
 <http://commons.dbpedia.org/resource/File:Oeoniella_polystachys_(as_Listrostachys_polystachys)_-_Xenia_3_pl_250.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Oliva_incrassata.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Oliva_incrassata.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Oliva_incrassata.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Oliva_incrassata.jpg> <http://purl.org/dc/terms/description> "15 ft. Puerto Penasco, Mexico"@en .
 <http://commons.dbpedia.org/resource/File:Oliva_incrassata.jpg> <http://purl.org/dc/terms/description> "From University of Colorado Museum of Natural History"@en .
@@ -10385,6 +10555,8 @@
 <http://commons.dbpedia.org/resource/File:Oncidium_×_mulus_(as_Odontoglossum_mulus)_-_Oncidium_×_hinnus_(as_Odontoglossum_hinnus)_-Xenia_2_pl_160.jpg> <http://purl.org/dc/terms/description> ": III, 3-4. Oncidium × hinnus (as syn. Odontoglossum hinnus) (Oncidium hallii × Oncidium cirrhosum)"@en .
 <http://commons.dbpedia.org/resource/File:Oncidium_×_mulus_(as_Odontoglossum_mulus)_-_Oncidium_×_hinnus_(as_Odontoglossum_hinnus)_-Xenia_2_pl_160.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Oncidium_×_mulus_(as_Odontoglossum_mulus)_-_Oncidium_×_hinnus_(as_Odontoglossum_hinnus)_-Xenia_2_pl_160.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
+<http://commons.dbpedia.org/resource/File:Opisthorchis_viverrini_3.png> <http://purl.org/dc/terms/created> "2007-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Opisthorchis_viverrini_3.png> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/PLoS_Medicine> .
 <http://commons.dbpedia.org/resource/File:Opisthoxia_amabilis.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Opisthoxia_amabilis.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Opisthoxia_amabilis.JPG> <http://purl.org/dc/terms/description> "Category:Opisthoxia amabilis"@en .
@@ -10405,6 +10577,7 @@
 <http://commons.dbpedia.org/resource/File:Ormetica_sypilus.JPG> <http://purl.org/dc/terms/description> "Plate XCIX"@en .
 <http://commons.dbpedia.org/resource/File:Otis_aurita.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
 <http://commons.dbpedia.org/resource/File:Otis_aurita.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Overijssel_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Overijssel in the Netherlands."@en .
 <http://commons.dbpedia.org/resource/File:Oxylides_faunus.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Oxylides_faunus.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Oxylides_faunus.JPG> <http://purl.org/dc/terms/description> "B, C: \"(Papilio) Faunus\"  ( = Oxylides faunus), see"@en .
@@ -10446,6 +10619,13 @@
 <http://commons.dbpedia.org/resource/File:Pachystoma_thomsonianum.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Pachystoma_thomsonianum.jpg> <http://purl.org/dc/terms/description> "Illustration of Ancistrochilus thomsonianus (as syn.Pachystoma thomsonianum)"@en .
 <http://commons.dbpedia.org/resource/File:Pachystoma_thomsonianum.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Paillasse_chimie.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
 <http://commons.dbpedia.org/resource/File:Paiwarria_venulius.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Paiwarria_venulius.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Paiwarria_venulius.JPG> <http://purl.org/dc/terms/description> "*G: \"(Papilio) Venulius\" ( = Paiwarria venulius (Cramer, [1779]), iconotype?), see Funet."@en .
@@ -10464,6 +10644,11 @@
 <http://commons.dbpedia.org/resource/File:Panisea_uniflora_(as_Coelogyne_thuniana)_-_Xenia_vol_1_pl_46_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Panisea_uniflora_(as_Coelogyne_thuniana)_-_Xenia_vol_1_pl_46_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of: Panisea uniflora (as syn. Coelogyne thuniana)"@en .
 <http://commons.dbpedia.org/resource/File:Panisea_uniflora_(as_Coelogyne_thuniana)_-_Xenia_vol_1_pl_46_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Panorama_Ziteil.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Panorama_Ziteil.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Panthera_tigris_sumatran_subspecies.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Panthera_tigris_sumatran_subspecies.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Panthera_tigris_sumatran_subspecies.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
 <http://commons.dbpedia.org/resource/File:Panthera_tigris_sumatran_subspecies.jpg> <http://purl.org/dc/terms/created> "2004-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Panthiades_phaleros.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Panthiades_phaleros.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
@@ -10572,6 +10757,9 @@
 <http://commons.dbpedia.org/resource/File:Paradisanthus_bahiensis_-_Xenia_vol_1_pl_14_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Paradisanthus_bahiensis_-_Xenia_vol_1_pl_14_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of Paradisanthus bahiensis"@en .
 <http://commons.dbpedia.org/resource/File:Paradisanthus_bahiensis_-_Xenia_vol_1_pl_14_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:ParchmanBigTopo.PNG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:ParchmanBigTopo.PNG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:ParchmanBigTopo.PNG> <http://purl.org/dc/terms/created> "1966-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Pareuptychia_ocirrhoeA.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Pareuptychia_ocirrhoeA.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Pareuptychia_ocirrhoeA.JPG> <http://purl.org/dc/terms/description> "*D, E: \"(Papilio) Cissia\" ( = Pareuptychia ocirrhoe (Fabricius, 1776)), see Funet. Photos at Butterflies of America"@en .
@@ -10855,6 +11043,9 @@
 <http://commons.dbpedia.org/resource/File:Ponera_juncifolia_(as_Hexisea_tenuissima)_-_Oeonia_brauniana_-_Xenia_3_pl_300.jpg> <http://purl.org/dc/terms/description> ": II, 8-12. Oeonia brauniana"@en .
 <http://commons.dbpedia.org/resource/File:Ponera_juncifolia_(as_Hexisea_tenuissima)_-_Oeonia_brauniana_-_Xenia_3_pl_300.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Ponera_juncifolia_(as_Hexisea_tenuissima)_-_Oeonia_brauniana_-_Xenia_3_pl_300.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._3> .
+<http://commons.dbpedia.org/resource/File:Poolvschels.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
+<http://commons.dbpedia.org/resource/File:Poolvschels.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Poolvschels.jpg> <http://purl.org/dc/terms/created> "2008-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Prasophyllum_drummondii_-_Prasophyllum_fimbria_-_Xenia_2_pl_190.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Prasophyllum_drummondii_-_Prasophyllum_fimbria_-_Xenia_2_pl_190.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Prasophyllum_drummondii_-_Prasophyllum_fimbria_-_Xenia_2_pl_190.jpg> <http://purl.org/dc/terms/description> ": I. 1-6. Prasophyllum drummondii"@en .
@@ -10868,6 +11059,7 @@
 <http://commons.dbpedia.org/resource/File:Prasophyllum_hians_-_Prasophyllum_lindleyanum_-_Prasophyllum_brownii_-_Xenia_2_pl_198.jpg> <http://purl.org/dc/terms/description> ":II, 7-10. Prasophyllum lindleyanum"@en .
 <http://commons.dbpedia.org/resource/File:Prasophyllum_hians_-_Prasophyllum_lindleyanum_-_Prasophyllum_brownii_-_Xenia_2_pl_198.jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Prasophyllum_hians_-_Prasophyllum_lindleyanum_-_Prasophyllum_brownii_-_Xenia_2_pl_198.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
+<http://commons.dbpedia.org/resource/File:President_Clinton's_Latino_Appointees.png> <http://purl.org/dc/terms/description> "President Clinton's Latino Appointees (1998)"@en .
 <http://commons.dbpedia.org/resource/File:Proceedings_of_the_United_States_National_Museum,_Volume_76.djvu> <http://purl.org/dc/terms/description> "Proceedings of the United States National Museum, Volume 76"@en .
 <http://commons.dbpedia.org/resource/File:Procerodes_dohrni.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Procerodes_dohrni.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
@@ -10959,6 +11151,10 @@
 <http://commons.dbpedia.org/resource/File:Pteroceras_teres_(as_Sarcochilus_teres)_-_Xenia_2_pl_140.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
 <http://commons.dbpedia.org/resource/File:Radula_of_Lithidion_souleyetianum_on_a_more_reduced_scale.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Radula_of_Lithidion_souleyetianum_on_a_more_reduced_scale.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Raftsundet_panorama,_2010_09.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Raftsundet_panorama,_2010_09.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Raftsundet_panorama,_2010_09.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Raftsundet_panorama,_2010_09.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
 <http://commons.dbpedia.org/resource/File:Rekoa_palegon.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Rekoa_palegon.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Rekoa_palegon.JPG> <http://purl.org/dc/terms/description> "*C, D: \"(Papilio) Palegon\" ( = Rekoa palegon (Cramer, [1780]), iconotype?), see Funet.  Photos at Butterflies of America."@en .
@@ -11027,6 +11223,8 @@
 <http://commons.dbpedia.org/resource/File:Samia_cynthia1.JPG> <http://purl.org/dc/terms/description> "Category:Samia cynthia"@en .
 <http://commons.dbpedia.org/resource/File:Samia_cynthia1.JPG> <http://purl.org/dc/terms/description> "Funet"@en .
 <http://commons.dbpedia.org/resource/File:Samia_cynthia1.JPG> <http://purl.org/dc/terms/description> "Plate XXXIX"@en .
+<http://commons.dbpedia.org/resource/File:Sassetta._St._Francis_Altarpiece._1437-44._Back_side._Reconstruction..jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Sassetta._St._Francis_Altarpiece._1437-44._Back_side._Reconstruction..jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Scaphyglottis_crurigera_(as_Hexadesmia_crurigera)-Scaphyglottis_behrii_(as_Hexadesmia_stenopetala)-Scaphyglottis_micrantha_(as_Hexadesmia_micrantha)-Xenia_1-59_(1858).jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Scaphyglottis_crurigera_(as_Hexadesmia_crurigera)-Scaphyglottis_behrii_(as_Hexadesmia_stenopetala)-Scaphyglottis_micrantha_(as_Hexadesmia_micrantha)-Xenia_1-59_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Scaphyglottis_crurigera_(as_Hexadesmia_crurigera)-Scaphyglottis_behrii_(as_Hexadesmia_stenopetala)-Scaphyglottis_micrantha_(as_Hexadesmia_micrantha)-Xenia_1-59_(1858).jpg> <http://purl.org/dc/terms/description> ": Scaphyglottis crurigera (as syn. Hexadesmia crurigera),"@en .
@@ -11077,6 +11275,10 @@
 <http://commons.dbpedia.org/resource/File:Setabis_epitus.jpg> <http://purl.org/dc/terms/description> "::Photos at Neotropical Butterflies ."@en .
 <http://commons.dbpedia.org/resource/File:Setabis_epitus.jpg> <http://purl.org/dc/terms/description> "::or"@en .
 <http://commons.dbpedia.org/resource/File:Setabis_epitus.jpg> <http://purl.org/dc/terms/description> "Category:Setabis epitus"@en .
+<http://commons.dbpedia.org/resource/File:Siebmacher219.jpg> <http://purl.org/dc/terms/description> "Blatt 219"@en .
+<http://commons.dbpedia.org/resource/File:Siebmacher219.jpg> <http://purl.org/dc/terms/description> "Johann Siebmacher: New Wappenbuch"@en .
+<http://commons.dbpedia.org/resource/File:Siebmacher219.jpg> <http://purl.org/dc/terms/description> "Reichstädte"@en .
+<http://commons.dbpedia.org/resource/File:Siebmacher219.jpg> <http://purl.org/dc/terms/description> "eingescannt aus: Horst Appuhn (Hrsg.), Johann Siebmachers Wappenbuch. Die bibliophilen Taschenbücher 538, 2. verb. Aufl , Dortmund 1989."@en .
 <http://commons.dbpedia.org/resource/File:Simonkai.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Simonkai.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Sir_Thomas_Millington.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/2.0/> .
@@ -11116,6 +11318,9 @@
 <http://commons.dbpedia.org/resource/File:Sophronitis_lobata_(Laelia_lobata)_(as_Laelia_boothiana)_-_Xenia_1-91_(1858).jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Sophronitis_lobata_(Laelia_lobata)_(as_Laelia_boothiana)_-_Xenia_1-91_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of Cattleya lobata   (as syn. Laelia boothiana)"@en .
 <http://commons.dbpedia.org/resource/File:Sophronitis_lobata_(Laelia_lobata)_(as_Laelia_boothiana)_-_Xenia_1-91_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Spaso-Evfim_00a.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Spaso-Evfim_00a.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Spaso-Evfim_00a.jpg> <http://purl.org/dc/terms/description> "Иконостас Спасо-Евфимиевского монастыря г. Суздаля. Экспозиция музея Рублева, Москва. 1660-е"@en .
 <http://commons.dbpedia.org/resource/File:Spathoglottis_aurea_(as_Spathoglottis_wrayi)-_Xenia_3_pl_264.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Spathoglottis_aurea_(as_Spathoglottis_wrayi)-_Xenia_3_pl_264.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Spathoglottis_aurea_(as_Spathoglottis_wrayi)-_Xenia_3_pl_264.jpg> <http://purl.org/dc/terms/description> "Illustration of Spathoglottis aurea  (as syn. Spathoglottis wrayi)"@en .
@@ -11236,6 +11441,13 @@
 <http://commons.dbpedia.org/resource/File:Strephonota_sphinx1.JPG> <http://purl.org/dc/terms/description> "F, G: \"(Papilio) Dindymus\" ( = Strephonota sphinx), see"@en .
 <http://commons.dbpedia.org/resource/File:Strephonota_sphinx1.JPG> <http://purl.org/dc/terms/description> "Funet"@en .
 <http://commons.dbpedia.org/resource/File:Strephonota_sphinx1.JPG> <http://purl.org/dc/terms/description> "Plate XLVI"@en .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Stubaier_Gletscher_Panorama.jpg> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
 <http://commons.dbpedia.org/resource/File:Sudamerlycaste_costata_(as_Lycaste_costata)_-_Xenia_3_pl_292.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Sudamerlycaste_costata_(as_Lycaste_costata)_-_Xenia_3_pl_292.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Sudamerlycaste_costata_(as_Lycaste_costata)_-_Xenia_3_pl_292.jpg> <http://purl.org/dc/terms/description> "Illustration of Sudamerlycaste costata (as syn. Lycaste costata)"@en .
@@ -11281,6 +11493,10 @@
 <http://commons.dbpedia.org/resource/File:Taeniophyllum_pusillum_(as_Taeniophyllum_zollingeri)_-_Ceratochilus_biglandulosus_-_Luisia_trichorrhiza_-_Xenia_1-77_(1858).jpg> <http://purl.org/dc/terms/description> ":III, IV and 5-7.  Ceratochilus biglandulosus"@en .
 <http://commons.dbpedia.org/resource/File:Taeniophyllum_pusillum_(as_Taeniophyllum_zollingeri)_-_Ceratochilus_biglandulosus_-_Luisia_trichorrhiza_-_Xenia_1-77_(1858).jpg> <http://purl.org/dc/terms/description> "Illustration of"@en .
 <http://commons.dbpedia.org/resource/File:Taeniophyllum_pusillum_(as_Taeniophyllum_zollingeri)_-_Ceratochilus_biglandulosus_-_Luisia_trichorrhiza_-_Xenia_1-77_(1858).jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._1> .
+<http://commons.dbpedia.org/resource/File:Taurus_by_Johannes_Hevelius.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:Taurus_by_Johannes_Hevelius.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Taurus_by_Johannes_Hevelius.JPG> <http://purl.org/dc/terms/description> "The :en:Canes Venatici constellation from Uranographia by Johannes Hevelius."@en .
+<http://commons.dbpedia.org/resource/File:Taurus_by_Johannes_Hevelius.JPG> <http://purl.org/dc/terms/description> "The view is mirrored following the tradition of celestial globes, showing the celestial sphere in a view from \"ouside\""@en .
 <http://commons.dbpedia.org/resource/File:Taygetis_laches.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Taygetis_laches.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Taygetis_laches.JPG> <http://purl.org/dc/terms/description> "A: \"(Papilio) Andromeda, in description page spelled \"Andromede\" ( = Taygetis laches (Fabricius, 1793) see  Funet and Global Lepidoptera Index"@en .
@@ -11316,6 +11532,9 @@
 <http://commons.dbpedia.org/resource/File:The_Salticidae_(Spiders)_of_Panama.djvu> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:The_Salticidae_(Spiders)_of_Panama.djvu> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:The_Salticidae_(Spiders)_of_Panama.djvu> <http://purl.org/dc/terms/description> "Chickering, Arthur M. (1946). \"The Salticidae (Spiders) of Panama\". Bulletin of the Museum of Comparitive Zoology 97: 1–474."@en .
+<http://commons.dbpedia.org/resource/File:The_royal_family_on_the_balcony.jpg> <http://purl.org/dc/terms/created> "2011-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:The_royal_family_on_the_balcony.jpg> <http://purl.org/dc/terms/description> "The British royal family on Buckingham Palace balcony after Prince William and Kate Middleton were married."@en .
+<http://commons.dbpedia.org/resource/File:The_royal_family_on_the_balcony.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Flickr> .
 <http://commons.dbpedia.org/resource/File:Thecostele_alata.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Thecostele_alata.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Thecostele_alata.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
@@ -11379,6 +11598,8 @@
 <http://commons.dbpedia.org/resource/File:Transactions_of_the_Linnean_Society_of_London,_Volume_8_(1807).djvu> <http://purl.org/dc/terms/description> "# Download high quality jpeg page images from the Biodiversity Heritage Library;"@en .
 <http://commons.dbpedia.org/resource/File:Transactions_of_the_Linnean_Society_of_London,_Volume_8_(1807).djvu> <http://purl.org/dc/terms/description> "It was created by the following process:"@en .
 <http://commons.dbpedia.org/resource/File:Transactions_of_the_Linnean_Society_of_London,_Volume_8_(1807).djvu> <http://purl.org/dc/terms/description> "This is a complete scan of Volume 8 of Transactions of the Linnean Society of London, published in 1807."@en .
+<http://commons.dbpedia.org/resource/File:Triceratops_skull_at_CU_Museum.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Triceratops_skull_at_CU_Museum.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Triceratops_skull_at_CU_Museum.JPG> <http://purl.org/dc/terms/created> "2011-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Triceratops_skull_at_CU_Museum.JPG> <http://purl.org/dc/terms/description> "CU Museum of Natural History"@en .
 <http://commons.dbpedia.org/resource/File:Triceratops_skull_in_the_Paleo_Hall_at_the_University_of_Colorado_Museum_of_Natural_History.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
@@ -11453,11 +11674,35 @@
 <http://commons.dbpedia.org/resource/File:Troides_oblongomaculatus.JPG> <http://purl.org/dc/terms/description> "*A: \"(Papilio) Amphimedon\" ( = Troides oblongomaculatus (Goeze, 1779)), see Funet. Photos at Barcode of Life"@en .
 <http://commons.dbpedia.org/resource/File:Troides_oblongomaculatus.JPG> <http://purl.org/dc/terms/description> ": Plate CXCIV"@en .
 <http://commons.dbpedia.org/resource/File:Troides_oblongomaculatus.JPG> <http://purl.org/dc/terms/description> "Category:Troides oblongomaculatus"@en .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://purl.org/dc/terms/description> "*Defensive formation (Team Eagles): 4-3 over (in the photograph the safeties are not shown)"@en .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://purl.org/dc/terms/description> "*Offensive formation (Italy): Pistol formation (in the photograph halfback (HB) is far behind the quarterback and is not shown)"@en .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://purl.org/dc/terms/description> "350px|center|4-3 over"@en .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://purl.org/dc/terms/description> "350px|center|Pistol formation"@en .
+<http://commons.dbpedia.org/resource/File:USA-ITA_american_football_test_match,_line_of_scrimmage_prior_to_a_play.JPG> <http://purl.org/dc/terms/description> "Formations"@en .
+<http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History,_front_view.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History,_front_view.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History,_front_view.jpg> <http://purl.org/dc/terms/created> "2013-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History_from_Broadway.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History_from_Broadway.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:University_of_Colorado_Museum_of_Natural_History_from_Broadway.jpg> <http://purl.org/dc/terms/created> "2013-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Uteriporus_vulgaris.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Uteriporus_vulgaris.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Uteriporus_vulgaris.jpg> <http://purl.org/dc/terms/created> "2012-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Utrecht_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Utrecht_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Noord-Holland (North Holland) in the Netherlands."@en .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick.JPG> <http://purl.org/dc/terms/created> "2009-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick_(before).JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick_(before).JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Uz_vs_Jap_2009-Free_kick_(before).JPG> <http://purl.org/dc/terms/created> "2009-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Vanda_coerulea.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Vanda_coerulea.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Vanda_coerulea.jpg> <http://purl.org/dc/terms/description> "Illustration of Vanda coerulea"@en .
@@ -11488,6 +11733,9 @@
 <http://commons.dbpedia.org/resource/File:Vandopsis_gigantea_(as_Vanda_gigantea)_-_Xenia_2_pl_112.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Vandopsis_gigantea_(as_Vanda_gigantea)_-_Xenia_2_pl_112.jpg> <http://purl.org/dc/terms/description> "Illustration of Vandopsis gigantea (as syn. Vanda gigantea)"@en .
 <http://commons.dbpedia.org/resource/File:Vandopsis_gigantea_(as_Vanda_gigantea)_-_Xenia_2_pl_112.jpg> <http://purl.org/dc/terms/source> <http://commons.dbpedia.org/resource/Heinrich_Gustav_Reichenbach_-_Xenia_Orchidacea_-_vol._2> .
+<http://commons.dbpedia.org/resource/File:View_from_Toompea.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/File:View_from_Toompea.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:View_from_Toompea.JPG> <http://purl.org/dc/terms/created> "2006-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Wall_of_glacial_ice_at_Arapahoe_Glacier.tif> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Wall_of_glacial_ice_at_Arapahoe_Glacier.tif> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Warczewiczella_wailesiana_(as_Zygopetalum_wailesianum)_-_Xenia_3_pl_222.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
@@ -11502,7 +11750,19 @@
 <http://commons.dbpedia.org/resource/File:Watson_1871_Nicotiana_attenuata_Nicotiana_bigelovii.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Welcome_Robin,_Winsome_Bluebird.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Welcome_Robin,_Winsome_Bluebird.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguille_Verte_&_Les_Drus_from_Les_Praz_2.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguille_Verte_&_Les_Drus_from_Les_Praz_2.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguille_Verte_&_Les_Drus_from_Les_Praz_2.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguille_Verte_&_Les_Drus_from_Les_Praz_2.JPG> <http://purl.org/dc/terms/created> "2010-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguilles_de_Chamonix_&_Aiguille_du_Midi_from_Les_Praz.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguilles_de_Chamonix_&_Aiguille_du_Midi_from_Les_Praz.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguilles_de_Chamonix_&_Aiguille_du_Midi_from_Les_Praz.JPG> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/File:Wide_view_to_Aiguilles_de_Chamonix_&_Aiguille_du_Midi_from_Les_Praz.JPG> <http://purl.org/dc/terms/created> "2010-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Wikimedians_at_the_CUMNH_2013.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Wikimedians_at_the_CUMNH_2013.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Wikimedians_at_the_CUMNH_2013.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Wikimedians_peering_at_the_CUMNH_Invertebrate_training_collections.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
+<http://commons.dbpedia.org/resource/File:Wikimedians_peering_at_the_CUMNH_Invertebrate_training_collections.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:Wikimedians_peering_at_the_CUMNH_Invertebrate_training_collections.jpg> <http://purl.org/dc/terms/created> "2013-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Xanthocastnia_evalthe.JPG> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Xanthocastnia_evalthe.JPG> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
@@ -11538,6 +11798,12 @@
 <http://commons.dbpedia.org/resource/File:Xylophanes_neoptolemus.JPG> <http://purl.org/dc/terms/description> "Warning: some taxa/names may be misidentified/misapplied or placed in a  different genus."@en .
 <http://commons.dbpedia.org/resource/File:Zanobatus_schoenleinii.jpg> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/File:Zanobatus_schoenleinii.jpg> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/File:Zeeland_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Zeeland_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Noord-Holland (North Holland) in the Netherlands."@en .
+<http://commons.dbpedia.org/resource/File:Zuid-Holland_position.svg> <http://purl.org/dc/terms/created> "2006-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://commons.dbpedia.org/resource/File:Zuid-Holland_position.svg> <http://purl.org/dc/terms/description> "Location of the province of Noord-Holland (North Holland) in the Netherlands."@en .
+<http://commons.dbpedia.org/resource/File:सम्पत्सु_महतां.wav> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/File:सम्पत्सु_महतां.wav> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/File:सम्पत्सु_महतां.wav> <http://purl.org/dc/terms/created> "2014-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Institution:CU_Museum_of_Natural_History> <http://dbpedia.org/ontology/viafId> "136369899"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://commons.dbpedia.org/resource/Institution:National_Archives_and_Records_Administration> <http://dbpedia.org/ontology/bnfId> "cb12182396f"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -11557,11 +11823,25 @@
 <http://commons.dbpedia.org/resource/Template:Information/doc> <http://purl.org/dc/terms/created> "2006-07-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Template:Information/doc> <http://purl.org/dc/terms/created> "2008-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/Template:Information/doc> <http://purl.org/dc/terms/description> "Description"@en .
+<http://commons.dbpedia.org/resource/Template:OpenStreetMap> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/Template:OpenStreetMap> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/Template:OpenStreetMap> <http://purl.org/dc/terms/description> "}"@en .
+<http://commons.dbpedia.org/resource/Template:PD-Art-100> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://commons.dbpedia.org/resource/Template:PD-Art-100> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/Template:PD-Art/layout> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/Template:PD-Art/layout> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/Template:PD-old-auto-1923> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/Template:PD-old-auto-1923> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
 <http://commons.dbpedia.org/resource/Template:PD-old-auto> <http://dbpedia.org/ontology/license> <http://creativecommons.org/publicdomain/mark/1.0/> .
 <http://commons.dbpedia.org/resource/Template:PD-old-auto> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/1.0/> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.0/> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/2.5/> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by-sa/3.0/> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://www.gnu.org/copyleft/fdl.html> .
+<http://commons.dbpedia.org/resource/Template:Self/doc> <http://dbpedia.org/ontology/license> <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> .
+<http://commons.dbpedia.org/resource/Template:Statistics_Netherlands_map> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
+<http://commons.dbpedia.org/resource/Template:Statistics_Netherlands_map> <http://dbpedia.org/ontology/license> <https://commons.wikimedia.org/wiki/Template:Attribution> .
 <http://commons.dbpedia.org/resource/Template:ZooKeys-License> <http://dbpedia.org/ontology/license> <http://creativecommons.org/licenses/by/3.0/> .
 <http://commons.dbpedia.org/resource/Template:ZooKeys-License> <http://dbpedia.org/ontology/license> <http://mappings.dbpedia.org/index.php/Category:Unverified_Commons_media_license> .
