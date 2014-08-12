@@ -13368,6 +13368,7 @@
 <http://commons.dbpedia.org/resource/File:North_Fork_near_Arapaho_Glacier,_1904.tif> <http://commons.dbpedia.org/property/month> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:North_Fork_near_Arapaho_Glacier,_1904.tif> <http://commons.dbpedia.org/property/source> "CU Museum of Natural History and National Snow and Ice Data Center/World Data Center for Glaciology, University of Colorado, Boulder"@en .
 <http://commons.dbpedia.org/resource/File:North_Fork_near_Arapaho_Glacier,_1904.tif> <http://commons.dbpedia.org/property/year> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://commons.dbpedia.org/resource/File:North_Rhine-Westphalia_location_map_03.svg> <http://commons.dbpedia.org/property/date> "2009-11-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://commons.dbpedia.org/resource/File:Obama_and_Biden_await_updates_on_bin_Laden.jpg> <http://commons.dbpedia.org/property/dimx> "4096"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Obama_and_Biden_await_updates_on_bin_Laden.jpg> <http://commons.dbpedia.org/property/dimy> "2731"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/File:Obama_and_Biden_await_updates_on_bin_Laden.jpg> <http://commons.dbpedia.org/property/en> "The Situation Room"@en .
@@ -16637,6 +16638,7 @@
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/ja> "評価"@en .
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/mk> "Оценка"@en .
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/ml> "അംഗീകാരങ്ങൾ"@en .
+<http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/ms> "Penilaian"@en .
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/pl> "Wyróżnienie"@en .
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/pt> "Avaliação"@en .
 <http://commons.dbpedia.org/resource/Template:Assessment> <http://commons.dbpedia.org/property/ru> "Оценка"@en .
@@ -16834,6 +16836,7 @@
 <http://commons.dbpedia.org/resource/Template:Category_namespace_only> <http://commons.dbpedia.org/property/namespace> "Category"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-2.0> <http://commons.dbpedia.org/property/version> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-2.5> <http://commons.dbpedia.org/property/version> "2.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://commons.dbpedia.org/resource/Template:Cc-by-3.0,2.5,2.0,1.0> <http://commons.dbpedia.org/property/version> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-3.0-br> <http://commons.dbpedia.org/property/country> "br"@en .
 <http://commons.dbpedia.org/resource/Template:Cc-by-3.0-br> <http://commons.dbpedia.org/property/version> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://commons.dbpedia.org/resource/Template:Cc-by-3.0> <http://commons.dbpedia.org/property/version> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -16946,6 +16949,8 @@
 <http://commons.dbpedia.org/resource/Template:Consent/en> <http://commons.dbpedia.org/property/publictext> "I personally created this media. All persons were photographed without deception, in a place where they had no reasonable expectation of privacy. Because identifiable persons are shown who have not consented to publication of this photograph or video, re-use of this media may be prohibited or restricted in your jurisdiction. See Commons:Photos of identifiable persons."@en .
 <http://commons.dbpedia.org/resource/Template:Consent/en> <http://commons.dbpedia.org/property/publishedtext> "This media was copied from the source indicated, which adheres to professional editorial standards, allowing the status of consent to be reasonably inferred."@en .
 <http://commons.dbpedia.org/resource/Template:Consent/en> <http://commons.dbpedia.org/property/querytext> "It is not clear whether all identifiable subjects have consented to the publication of this image or video.  If you created this media, and it was taken in public or you have the consent of the subjects , please replace the template parameter 'query' with a more appropriate one from Template:Consent.  If this is not rectified, the media may be discussed for deletion as a violation of Commons:Photos of identifiable persons."@en .
+<http://commons.dbpedia.org/resource/Template:Created_with_Adobe_Illustrator> <http://commons.dbpedia.org/property/opt> "&ss=1"@en .
+<http://commons.dbpedia.org/resource/Template:Created_with_Adobe_Illustrator> <http://commons.dbpedia.org/property/opt> "&ss=1#source"@en .
 <http://commons.dbpedia.org/resource/Template:Creator/doc> <http://commons.dbpedia.org/property/de> "Das Geschlecht der Person: f oder female bei einer Frau und m oder male bei einem Mann."@en .
 <http://commons.dbpedia.org/resource/Template:Creator/doc> <http://commons.dbpedia.org/property/de> "Englische Bezeichnung für den Beruf bzw. die Hauptbeschäftigung der Person. Mehrere Tätigkeiten müssen mit \"/\" voneinander getrennt werden. Siehe  für eine Liste der unterstützten Werte. Seiten, die nicht unterstützte Werte verwenden, werden in :Category:Pages using Occupation template with incorrect parameters gelistet."@en .
 <http://commons.dbpedia.org/resource/Template:Creator/doc> <http://commons.dbpedia.org/property/de> "Heimatland der Person. Siehe  und  für eine Liste der unterstützten Werte. Doppelte Nennungen sind erlaubt, trenne die Nationalitäten mit \"/\"."@en .
@@ -18444,6 +18449,8 @@
 <http://commons.dbpedia.org/resource/Template:Self/doc> <http://commons.dbpedia.org/property/usergroup> "all"@en .
 <http://commons.dbpedia.org/resource/Template:Symbol> <http://commons.dbpedia.org/property/en> "flag contains symbol"@en .
 <http://commons.dbpedia.org/resource/Template:Symbol> <http://commons.dbpedia.org/property/mk> "знамето содржи симбол"@en .
+<http://commons.dbpedia.org/resource/Template:TUBS/Credits/en> <http://commons.dbpedia.org/property/attributionText> "Attribution"@en .
+<http://commons.dbpedia.org/resource/Template:TUBS/Credits/en> <http://commons.dbpedia.org/property/text> "I'd greatly appreciate, that you attribute this media file to Wikimedia Commons, if used outside Wikipedia or Commons. For use in publications such as books, newspapers, blogs, websites, please insert here the following line:\n: \nand fill the applicable fields. . License terms given above still apply."@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/class> "ui-button-blue ui-button-large"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/class> "ui-button-red ui-button-large"@en .
 <http://commons.dbpedia.org/resource/Template:TemplateBox/layout> <http://commons.dbpedia.org/property/external> "true"@en .
